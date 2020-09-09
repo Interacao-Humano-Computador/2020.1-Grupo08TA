@@ -1,3 +1,5 @@
+<img src="./docs/assets/images/logo.png" alt="SEI">
+
 # SEI
 
 &emsp;&emsp;O Sistema Eletrônico de Informações ([SEI](https://sei.df.gov.br/sip/login.php?sigla_orgao_sistema=GDF&sigla_sistema=SEI)) é um sistema de produção e gestão de documentos e processos eletrônicos desenvolvido pelo Tribunal Regional Federal da 4ª Região (TRF4) e cedido gratuitamente à administração pública.
@@ -14,9 +16,9 @@
 
 ## Equipe
 
-| Integrante                      | Matrícula  | Github          |
-| ------------------------------- | ---------- | --------------- |
-| Hugo Sobral de Lima Salomão     | 18/0018604 | @KiSobral       |
-| João Lucas Fragoso Zarbiélli    | 17/0146251 | @Zarbielli      |
-| Leonardo da Silva Gomes         | 18/0021974 | @LeoSilvaGomes  |
-| Victor Jorge da Silva Gonçalves | 18/0055241 | @VictorJorgeFGA |
+| Integrante                      | Matrícula  | Github                                              |
+| ------------------------------- | ---------- | --------------------------------------------------- |
+| Hugo Sobral de Lima Salomão     | 18/0018604 | [KiSobral](https://github.com/KiSobral)             |
+| João Lucas Fragoso Zarbiélli    | 17/0146251 | [Zarbielli](https://github.com/Zarbielli)           |
+| Leonardo da Silva Gomes         | 18/0021974 | [LeoSilvaGomes](https://github.com/LeoSilvaGomes)   |
+| Victor Jorge da Silva Gonçalves | 18/0055241 | [VictorJorgeFGA](https://github.com/VictorJorgeFGA) |
