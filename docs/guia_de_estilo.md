@@ -2,9 +2,10 @@
 
 ## Históricos de Revisões
 
-|    Data    | Versão |                Descrição                |   Autor(es)    |
-| :--------: | :----: | :-------------------------------------: | :------------: |
-| 09/09/2020 |  1.0   | Criação do Manual de Identidade Visual. | Leonardo Gomes |
+|    Data    | Versão |                       Descrição                        |   Autor(es)    |
+| :--------: | :----: | :----------------------------------------------------: | :------------: |
+| 09/09/2020 |  1.0   |        Criação do Manual de Identidade Visual.         | Leonardo Gomes |
+| 09/09/2020 |  1.1   | Criação dos documentos de Acessibilidade e Aplicações. | Leonardo Gomes |
 
 ## Manual de Identidade Visual
 
@@ -12,7 +13,11 @@
 
 ## Acessibilidade
 
+<embed src="./assets/acessibilidade.pdf" width="800px" height="500px" />
+
 ## Aplicações
+
+<embed src="./assets/aplicacoes.pdf" width="800px" height="500px" />
 
 ## Referências
 

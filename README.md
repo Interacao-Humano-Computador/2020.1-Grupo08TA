@@ -1,4 +1,4 @@
-<img src="./docs/assets/images/logo.png" alt="SEI">
+<img src="./docs/assets/images/word_mark.png" alt="SEI">
 
 # SEI
 

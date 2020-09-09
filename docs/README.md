@@ -1,4 +1,4 @@
-  <img src="./assets/images/logo.png" alt="SEI">
+  <img src="./assets/images/word_mark.png" alt="SEI">
   <h2>SEI</h2>
   <p align="justify">&emsp;&emsp;O Sistema Eletrônico de Informações (<a href="https://sei.df.gov.br/sip/login.php?sigla_orgao_sistema=GDF&sigla_sistema=SEI">SEI</a>) é um sistema de produção e gestão de documentos e processos eletrônicos desenvolvido pelo Tribunal Regional Federal da 4ª Região (TRF4) e cedido gratuitamente à administração pública. </p>
   <p align="justify">&emsp;&emsp;O SEI foi escolhido como a solução de processo eletrônico no âmbito do projeto Processo Eletrônico Nacional (PEN) – iniciativa conjunta de órgãos e entidades de diversas esferas da administração pública, com o intuito de construir uma infraestrutura pública de processos e documentos administrativos eletrônicos, e têm sido implantado em vários órgãos e entidades das mais variadas esferas administrativas. </p>
