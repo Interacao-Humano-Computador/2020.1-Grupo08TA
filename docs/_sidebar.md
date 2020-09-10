@@ -1,0 +1,20 @@
+- **Planejamento**
+  - [Planejamento do projeto](./planning/project_planning.md)
+  - [Planejamento da equipe](./planning/team_planning.md)
+  - [Lista de sites avaliados](./planning/evaluated_sites.md)
+  - [Características da plataforma](./planning/platform_features.md)
+- **Contextos de Uso**
+  - [Storyboards](./use_context/storyboards.md)
+  - [Personas](./use_context/personas.md)
+  - [Perfis de usuário](./use_context/user_profiles.md)
+  - [Análise de tarefas](./use_context/tasks_analysis.md)
+- **Avaliação**
+  - [Avaliação heurísitca](./evaluation/heuristic_evaluation.md)
+  - [Metas de usabilidade](./evaluation/usability_goals.md)
+  - [Princípios gerais do projeto](./evaluation/project_general_principles.md)
+- **Estilização**
+  - [Guia de estilo](./styling/style_guide.md)
+  - [Acessibilidade](./styling/accessibility.md)
+- **Links**
+  - [Github](https://github.com/Interacao-Humano-Computador/2020.1-SEI)
+  - [SEI](https://sei.df.gov.br/sip/login.php?sigla_orgao_sistema=GDF&sigla_sistema=SEI)

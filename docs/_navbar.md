@@ -1,1 +1,1 @@
-- [Guia de estilo](guia_de_estilo.md)
+- [Guia de estilo](./guia_de_estilo.md)
