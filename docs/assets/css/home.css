@@ -1,0 +1,18 @@
+.ready {
+  font-family: "Kumbh Sans", sans-serif;
+  color: #4f4f4f !important;
+}
+
+.anchor,
+.markdown-section a,
+.sidebar ul li.active > a {
+  color: var(--theme-color, #007cb9) !important;
+}
+
+span {
+  color: #4f4f4f !important;
+}
+
+.sidebar img {
+  width: 50%;
+}
