@@ -36,8 +36,8 @@
 
 <style>
   .members {
-    display: grid; 
-    grid-template-columns: auto auto auto;
+    display: flex;
+    justify-content: space-around;
     margin-top: 20px;
   }
   .member img{

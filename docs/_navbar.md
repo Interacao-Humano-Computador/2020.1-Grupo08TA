@@ -1,1 +1,4 @@
-- [Guia de estilo](./guia_de_estilo.md)
+- [Heurística](./evaluation/heuristic_evaluation.md)
+- [Guia de estilo](./styling/style_guide.md)
+- [Planejamento de equipe](./planning/team_planning.md)
+- [Planejamento de projeto](./planning/project_planning.md)

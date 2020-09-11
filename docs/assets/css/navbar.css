@@ -7,20 +7,21 @@
 }
 
 .app-nav ul li a {
-  padding: 0.4rem 0.8rem;
-  letter-spacing: 0.5px;
   display: flex;
-  flex-direction: column;
-  justify-content: flex-start;
-  transition: all 0.25s;
-  border: 1.2px solid #f1f1f1;
-  border-radius: 6px;
   font-weight: 600;
+  border-radius: 6px;
+  transition: all 0.25s;
+  letter-spacing: 0.5px;
+  flex-direction: column;
+  padding: 0.4rem 0.8rem;
+  justify-content: flex-start;
+  border: 1.2px solid #cecece;
+  color: #cecece;
 }
 
 .app-nav ul li a:hover,
 .app-nav ul li a.active {
-  background-color: #007cb9;
-  border-radius: 6px;
   color: #f1f1f1;
+  border-radius: 6px;
+  background-color: #007cb9;
 }

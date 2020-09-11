@@ -12,3 +12,7 @@
 span {
   color: #4f4f4f !important;
 }
+
+.sidebar img {
+  width: 50%;
+}
