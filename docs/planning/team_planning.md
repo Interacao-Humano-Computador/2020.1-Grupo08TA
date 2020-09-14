@@ -2,9 +2,43 @@
 
 ## Metodologias
 
-## Ferramentas
+O projeto conta com várias metodologias que unidas formam a base de processo para a administração e consistencia da agilidade do time.
 
-### Introdução
+### Scrum
+
+A equipe decidiu por realizar os trabalhos a partir dos conceitos levantados pela metodologia ágil Scrum. Desta forma, nosso trabalho segue todo o fluxo de trabalho existente dentro da metodologia, que vai desde a priorização das tarefas em um backlog geral, assim como a priorização de algumas das tarefas em um backlog relativo a Sprint em que o projeto se encontra; até a realização dos ritos da metodologia, Review e Retrospectiva.
+
+#### Pápeis
+
+Os pápeis no Scrum é um tipo de diretriz que associa um membro da equipe com um objetivo, assim direcionando a responsabilidade para respectivos pápeis/membros.
+
+Após discussões, foi decidido não adotar nenhum papel do Scrum no projeto, tendo em vista o pequeno número de integrantes da equipe, que não facilita o uso desta abordagem.
+
+#### Time-Box
+
+Para estabelecer uma melhor organização da equipe, foi decidido, por meio da metodologia estabelecida, criar os dias e duração das reuniões de review/planning e os dias de daily.
+
+| Review/Planning                                                                                                                                                                                                                                                                                                                         | Dailies                                                                                                                                                                                                                                                                               |
+| :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| O Planning (reunião de planejamento de sprint) ocorrerá pelo Discord, e deverá contar com a presença de todos os integrantes. O Planning contará com um ata que tem como responsabilidade descrever todos os tópicos decididos na reunião, e esta tem horário marcado para todos os sábados às 15h00min e duração de no máximo 3 horas. | As Dailies (micro-reuniões realizadas com o intuito de informar à equipe o estado individual de cada membro), serão realizadas via Telegram de maneira remota às segundas, quartas e sextas. O horário das Dailies ficou definido para às 19h00min e duração no máximo de 15 minutos. |
+
+### eXtreme Programming
+
+Ficou acordado também que o grupo utilizará um dos princípios do Extreme Programming, também chamado de XP. Trata-se da Pair Programming, isto é, toda tarefa a ser realizada deverá ser feita por, no mínimo, dois integrantes do grupo.
+
+### Kaban
+
+Para o Kaban estamos utilizando o Trello para podermos usar a esquematização decidida pelo grupo:
+
+- **Aulas Sincronas:** Lista as aulas sincronas irão ocorrer
+- **Aulas Sincronas - Done:** Lista as aulas sincronas que já ocorreram
+- **Entregas Individuais:** Lista de entregas individuais que devem ser feitas
+- **Entregas Grupo:** Lista de entregas em grupo que devem ser feitas
+- **Entregas - Done:** Lista de entregas (individuais e em grupo) que foram feitas.
+
+---
+
+## Ferramentas
 
 O projeto conta com um ferramental composto por componentes de comunicação, organização de tarefas, armazenamento e também tecnologias orientadas à programação. Em meio às dificuldades da sociedade frente à pandemia, muitas ferramentas de comunicação remota, que antes desempenhavam o papel de facilitar o desenvolvimento do projeto, tornaram-se essenciais e primárias.
 
@@ -34,7 +68,7 @@ Durante os momentos iniciais de interação do grupo, foram encontradas diversas
 
 Sendo inegável a importância da organização em um projeto, a equipe adotou duas plataformas para auxiliar a organização das tarefas e dos produtos gerados durante o processo: o [_Trello_](https://trello.com/) e o [_GitHub_](https://github.com/).
 
-Servindo como uma plataforma para organização de entregas, o Trello possibilita que sejam mapeadas e esquematizadas todas as tarefas a serem realizadas durante o projeto. Já o GitHub possibilita que todo o processo organizacional seja posto em prática, utilizando o sistema de versionamento e os componentes de comunicação entre os contribuidores (_Issues_ e _Pull Requests_). Tal coisa coisa permite que as evoluções estejam visíveis e sejam rastreáveis mesmo após a conclusão do projeto. 
+Servindo como uma plataforma para organização de entregas, o Trello possibilita que sejam mapeadas e esquematizadas todas as tarefas a serem realizadas durante o projeto. Já o GitHub possibilita que todo o processo organizacional seja posto em prática, utilizando o sistema de versionamento e os componentes de comunicação entre os contribuidores (_Issues_ e _Pull Requests_). Tal coisa coisa permite que as evoluções estejam visíveis e sejam rastreáveis mesmo após a conclusão do projeto.
 
 ### Ferramentas de armazenamento
 
@@ -46,17 +80,18 @@ A principal ferramenta utilizada para o armazenamento dos documentos é o [_GitH
 
 ### Ferramentas de programação
 
-Ao analisar a atividade de criação da apresentação dos instrumentos gerados durante o projeto, sentiu-se a necessidade de utilizar ferramentas de apoio que acrescentam maior qualidade e facilidade à tarefa. A decisão de qual ferramenta adotar se baseou na comparação direta entre o [_MkDocs_](https://www.mkdocs.org/) e o [_Docsify_](https://docsify.js.org/). Comparado ao _MkDocs_, o _Docsify_ oferece maior facilidade de uso e escolha de templates, o que permite que sejam entregues resultados semelhantes e até mesmo superiores investindo menos tempo. Por essas e outras razões o _Docsify_ foi a ferramenta adotada. 
+Ao analisar a atividade de criação da apresentação dos instrumentos gerados durante o projeto, sentiu-se a necessidade de utilizar ferramentas de apoio que acrescentam maior qualidade e facilidade à tarefa. A decisão de qual ferramenta adotar se baseou na comparação direta entre o [_MkDocs_](https://www.mkdocs.org/) e o [_Docsify_](https://docsify.js.org/). Comparado ao _MkDocs_, o _Docsify_ oferece maior facilidade de uso e escolha de templates, o que permite que sejam entregues resultados semelhantes e até mesmo superiores investindo menos tempo. Por essas e outras razões o _Docsify_ foi a ferramenta adotada.
 
 ## Políticas
 
 ## Históricos de versões
 
-|    Data    | Versão |             Descrição             |          Autor(es)           |
-| :--------: | :----: | :-------------------------------: | :--------------------------: |
-| 10/09/2020 |  0.1   | Criação do boilerplate do arquivo | Hugo Sobral e Leonardo Gomes |
-| 12/09/2020 | 0.2 | Adição dos icones e estrutura básica das ferramentas | Leonardo Gomes |
-| 13/09/2020 | 1.0 | Criação do esclarecimento das escolhas das ferramentas | Victor Jorge Silva |
+|    Data    | Versão |                       Descrição                        |          Autor(es)           |
+| :--------: | :----: | :----------------------------------------------------: | :--------------------------: |
+| 10/09/2020 |  0.1   |           Criação do boilerplate do arquivo            | Hugo Sobral e Leonardo Gomes |
+| 12/09/2020 |  0.2   |  Adição dos icones e estrutura básica das ferramentas  |        Leonardo Gomes        |
+| 13/09/2020 |  1.0   | Criação do esclarecimento das escolhas das ferramentas |      Victor Jorge Silva      |
+| 14/09/2020 |  1.1   |    Criação e estruturação do tópico de metodologias    |        Leonardo Gomes        |
 
 <style>
   .topIcons {
