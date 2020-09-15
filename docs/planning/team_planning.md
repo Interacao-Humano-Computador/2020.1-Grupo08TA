@@ -1,5 +1,13 @@
 # Planejamento da equipe
 
+## Heatmap
+
+Heatmap é um mapa de calor, que na perspectiva do projeto, define horários acessíveis para encontros dos membros. Deste modo, utilizamos o Google Sheets para criar o heatmap da forma mais fácil. As cores quentes representam os dias menos propensos para reuniões e as cores frias os dias mais propensos.
+
+![](../assets/images/heatmap.png)
+
+---
+
 ## Metodologias
 
 O projeto conta com várias metodologias que unidas formam a base de processo para a administração e consistencia da agilidade do time.
@@ -35,6 +43,65 @@ Para o Kaban estamos utilizando o Trello para podermos usar a esquematização d
 - **Entregas Individuais:** Lista de entregas individuais que devem ser feitas
 - **Entregas Grupo:** Lista de entregas em grupo que devem ser feitas
 - **Entregas - Done:** Lista de entregas (individuais e em grupo) que foram feitas.
+
+---
+
+## Políticas
+
+Nesse tópico são explicados os procedimentos a serem feitos para que as políticas deste repositório sejam seguidas adequadamente.
+
+### Políticas de Branch
+
+Branches devem seguir as seguintes **regras** explicadas neste tópico:
+
+- Breve explicação sobre o fluxo de trabalho
+- A branch master representa uma versão estável do produto, contendo código já versionado.
+
+Regras:
+
+- Existe apenas uma branch master.
+- Não são permitidos commits feitos diretamente na master.
+
+As **branches feature** representam as entregas do projeto a serem desenvolvidas.
+
+Regras:
+
+- Essa branch sempre é criada a partir da branch master.
+- Essa branch sempre é mesclada à branch master.
+
+**Regras de nomenclatura:**
+
+`issueID-titulo_da_issue`
+
+### Políticas de Commits
+
+Commits devem ser escritos de forma clara e breve, em inglês, descrevendo as alterações feitas.
+
+**Regras** para escrita das mensagens nos commits:
+
+`#issueID Mensagem breve descrevendo alterações`
+
+Fix #issueID Concise Message
+
+O caractere "#", por padrão, representa uma linha de comentário no arquivo de mensagem do commit. Para evitar problemas, é necessário alterar o caractere com o seguinte comando:
+
+`git config --local core.commentChar auto`
+
+Caso deseje utilizar um outro caractere específico para definir uma linha de comentário, basta substituir a palavra "auto" pelo caractere desejado.
+
+A mensagem principal do commit deve ser escrita no **modo imperativo**. Aqui estão alguns exemplos:
+
+Maus exemplos:
+
+`Renamed the iVars and removed the common prefix.`
+
+`Creating branch policies document`
+
+Bons exemplos:
+
+`Rename the iVars to remove the common prefix.`
+
+`Create branch policies document`
 
 ---
 
@@ -82,8 +149,6 @@ A principal ferramenta utilizada para o armazenamento dos documentos é o [_GitH
 
 Ao analisar a atividade de criação da apresentação dos instrumentos gerados durante o projeto, sentiu-se a necessidade de utilizar ferramentas de apoio que acrescentam maior qualidade e facilidade à tarefa. A decisão de qual ferramenta adotar se baseou na comparação direta entre o [_MkDocs_](https://www.mkdocs.org/) e o [_Docsify_](https://docsify.js.org/). Comparado ao _MkDocs_, o _Docsify_ oferece maior facilidade de uso e escolha de templates, o que permite que sejam entregues resultados semelhantes e até mesmo superiores investindo menos tempo. Por essas e outras razões o _Docsify_ foi a ferramenta adotada.
 
-## Políticas
-
 ## Históricos de versões
 
 |    Data    | Versão |                       Descrição                        |          Autor(es)           |
@@ -92,6 +157,7 @@ Ao analisar a atividade de criação da apresentação dos instrumentos gerados 
 | 12/09/2020 |  0.2   |  Adição dos icones e estrutura básica das ferramentas  |        Leonardo Gomes        |
 | 13/09/2020 |  1.0   | Criação do esclarecimento das escolhas das ferramentas |      Victor Jorge Silva      |
 | 14/09/2020 |  1.1   |    Criação e estruturação do tópico de metodologias    |        Leonardo Gomes        |
+| 14/09/2020 |  2.0   | Criação da política do repositório e adição do Heatmap |        Leonardo Gomes        |
 
 <style>
   .topIcons {
