@@ -2,7 +2,7 @@
 
 ## Heatmap
 
-Heatmap é um mapa de calor, que nesse contexto define horários acessíveis para encontros dos membros. Nessa perspectiva, utilizamos o Google Sheets para criar uma planilha interativa onde os membros preenchiam os locais de compromisso e ao final mostraria os dias da semana e horários que poderiam ser feitas as reuniões/encontros.
+Heatmap é um mapa de calor, que na perspectiva do projeto, define horários acessíveis para encontros dos membros. Deste modo, utilizamos o Google Sheets para criar o heatmap da forma mais fácil. As cores quentes representam os dias menos propensos para reuniões e as cores frias os dias mais propensos.
 
 ![](../assets/images/heatmap.png)
 
@@ -48,7 +48,7 @@ Para o Kaban estamos utilizando o Trello para podermos usar a esquematização d
 
 ## Políticas
 
-Nesse tópico serão explicados os procedimentos a serem feitos para que as políticas deste repositório sejam seguidas adequadamente.
+Nesse tópico são explicados os procedimentos a serem feitos para que as políticas deste repositório sejam seguidas adequadamente.
 
 ### Políticas de Branch
 
@@ -75,7 +75,7 @@ Regras:
 
 ### Políticas de Commits
 
-Commits devem ser escritos de forma clara e breve, em Inglês, descrevendo as alterações feitas.
+Commits devem ser escritos de forma clara e breve, em inglês, descrevendo as alterações feitas.
 
 **Regras** para escrita das mensagens nos commits:
 
