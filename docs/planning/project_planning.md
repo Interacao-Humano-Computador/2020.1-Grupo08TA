@@ -60,6 +60,18 @@ Ponto de controle focado em fazer o protótipo de alta fidelidade e planejar mel
 
 ## 5W2H
 
+A utilização do framework 5W2H se faz necessário no entendimento do projeto, para mapear como, quando, onde, por quem, por que, o que e qual custo do sistema que será avaliado e sua equipe.
+
+O 5W2H feito tem como objetivo trazer a perspectiva da equipe para elicitar ainda mais os objetivos da equipe e contexto em que o projeto está inserido.
+
+| What                                                               | Why                                                                                  | Who                                                  | Where                                                   | When                                                     |
+| :----------------------------------------------------------------- | ------------------------------------------------------------------------------------ | ---------------------------------------------------- | ------------------------------------------------------- | -------------------------------------------------------- |
+| Sistema de produção e gestão de documentos e processos eletrônicos | Problemas na usabilidade, experiência de usuário e acessibilidade encontrados no SEI | Refatorado por discentes da Universidade de Brasília | Refatorado na disciplina de Interação Humano Computador | A refatoração será realizada no segundo semestre de 2020 |
+
+| How                                                                                                                                                        | How much |
+| :--------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
+| Por meio de métodos e processos já estruturados de design, avaliação de usabilidade, avaliação heurísticas e entre outros tópicos relevantes dentro do IHC | Gratuito |
+
 ---
 
 ## Metologia
@@ -80,3 +92,4 @@ Ponto de controle focado em fazer o protótipo de alta fidelidade e planejar mel
 | :--------: | :----: | :---------------------------------: | :--------------------------: |
 | 10/09/2020 |  0.1   |  Criação do boilerplate do arquivo  | Hugo Sobral e Leonardo Gomes |
 | 16/09/2020 |  0.2   | Criação do cronograma de atividades |        Leonardo Gomes        |
+| 16/09/2020 |  0.3   |           Criação do 5W2H           | Hugo Sobral e Leonardo Gomes |
