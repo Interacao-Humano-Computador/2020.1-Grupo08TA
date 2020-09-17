@@ -22,7 +22,7 @@ Ponto de controle focado em avaliar o sistema, entender o problema, definir o es
 
 ### 2º Ponto de Controle - 05/10
 
-Ponto de controle focado em identificar nosso usuário, fazer a análise de tarefas, entender a acessibilidade do projeto mais a fundo e finalizar o projeto de estilização do projeto.
+Ponto de controle com foco em identificar nosso usuário, fazer a análise de tarefas, entender a acessibilidade do projeto mais a fundo e finalizar a estilização do projeto.
 
 | Tarefa                        | Data da entrega | Data entregue |
 | :---------------------------- | --------------- | ------------- |
@@ -76,7 +76,7 @@ O 5W2H feito tem como objetivo trazer a perspectiva da equipe para elicitar aind
 
 ## Ciclo de vida
 
-Com uma visão holística, esse processo de design reúne e organiza diferenets atividades propostas na área de IHC para orientar o trabalho em direção a uma boa solução interativa.
+Com uma visão holística, esse processo de design reúne e organiza diferentes atividades propostas na área de IHC para orientar o trabalho em direção a uma boa solução interativa.
 
 Na fase de **análise de requisitos** são definidas as metas de usabilidade com base no perfil dos usuários, análise de tarefas, possibilidades e limitações da plataforma em que o sistema será executado e princípios gerais do design de IHC.
 
@@ -108,3 +108,5 @@ Na fase de **instalação**, o grupo de trabalho deve coletar opiniões dos usu�
 | 16/09/2020 |  0.2   |   Criação do cronograma de atividades    |        Leonardo Gomes        |
 | 16/09/2020 |  0.3   |             Criação do 5W2H              | Hugo Sobral e Leonardo Gomes |
 | 16/09/2020 |  1.0   | Refinamento do documento de planejamento | Leonardo Gomes e Hugo Sobral |
+| 16/09/2020 |  1.1   |          Adição das referências          | Leonardo Gomes e Hugo Sobral |
+| 17/09/2020 |  1.2   |           Correção ortográfica           | Hugo Sobral e Leonardo Gomes |

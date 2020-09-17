@@ -10,15 +10,15 @@ Heatmap é um mapa de calor, que na perspectiva do projeto, define horários ace
 
 ## Metodologias
 
-O projeto conta com várias metodologias que unidas formam a base de processo para a administração e consistencia da agilidade do time.
+O projeto conta com várias metodologias que unidas formam a base de processo para a administração e consistência da agilidade do time.
 
 ### Scrum
 
-A equipe decidiu por realizar os trabalhos a partir dos conceitos levantados pela metodologia ágil Scrum. Desta forma, nosso trabalho segue todo o fluxo de trabalho existente dentro da metodologia, que vai desde a priorização das tarefas em um backlog geral, assim como a priorização de algumas das tarefas em um backlog relativo a Sprint em que o projeto se encontra; até a realização dos ritos da metodologia, Review e Retrospectiva.
+A equipe decidiu por realizar os trabalhos a partir dos conceitos levantados pela metodologia ágil Scrum. Desta forma, nosso trabalho segue parte do fluxo existente dentro da metodologia, que vai desde a priorização das tarefas em um backlog geral, assim como a priorização de algumas das tarefas em um backlog relativo a Sprint em que o projeto se encontra; até a realização dos ritos da metodologia, Review e Retrospectiva.
 
 #### Papéis
 
-Os pápeis no Scrum é um tipo de diretriz que associa um membro da equipe com um objetivo, assim direcionando a responsabilidade para respectivos pápeis/membros.
+Os papéis no Scrum é um tipo de diretriz que associa um membro da equipe com um objetivo, assim direcionando a responsabilidade para respectivos pápeis/membros.
 
 Após discussões, foi decidido não adotar nenhum papel do Scrum no projeto, tendo em vista o pequeno número de integrantes da equipe, que não facilita o uso desta abordagem.
 
@@ -38,8 +38,8 @@ Ficou acordado também que o grupo utilizará um dos princípios do Extreme Prog
 
 Para o Kanban estamos utilizando o Trello para podermos usar a esquematização decidida pelo grupo:
 
-- **Aulas Sincronas:** Lista as aulas sincronas irão ocorrer
-- **Aulas Sincronas - Done:** Lista as aulas sincronas que já ocorreram
+- **Aulas Sincronas:** Lista as aulas síncronas irão ocorrer
+- **Aulas Sincronas - Done:** Lista as aulas síncronas que já ocorreram
 - **Entregas Individuais:** Lista de entregas individuais que devem ser feitas
 - **Entregas Grupo:** Lista de entregas em grupo que devem ser feitas
 - **Entregas - Done:** Lista de entregas (individuais e em grupo) que foram feitas.
@@ -168,6 +168,7 @@ Ao analisar a atividade de criação da apresentação dos instrumentos gerados 
 | 13/09/2020 |  1.0   | Criação do esclarecimento das escolhas das ferramentas |      Victor Jorge Silva      |
 | 14/09/2020 |  1.1   |    Criação e estruturação do tópico de metodologias    |        Leonardo Gomes        |
 | 14/09/2020 |  2.0   | Criação da política do repositório e adição do Heatmap |        Leonardo Gomes        |
+| 17/09/2020 |  2.1   |                  Correção ortográfica                  | Hugo Sobral e Leonardo Gomes |
 
 <style>
   .topIcons {
