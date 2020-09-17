@@ -16,3 +16,14 @@ span {
 .sidebar img {
   width: 50%;
 }
+
+p {
+  text-align: justify;
+  text-indent: 2.5em;
+}
+
+.inferno {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

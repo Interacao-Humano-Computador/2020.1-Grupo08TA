@@ -1,19 +1,19 @@
   <img src="./assets/images/word_mark.png" alt="SEI">
   <h2>SEI</h2>
-  <p align="justify">&emsp;&emsp;O Sistema Eletrônico de Informações (<a href="https://sei.df.gov.br/sip/login.php?sigla_orgao_sistema=GDF&sigla_sistema=SEI">SEI</a>) é um sistema de produção e gestão de documentos e processos eletrônicos desenvolvido pelo Tribunal Regional Federal da 4ª Região (TRF4) e cedido gratuitamente à administração pública. </p>
-  <p align="justify">&emsp;&emsp;O SEI foi escolhido como a solução de processo eletrônico no âmbito do projeto Processo Eletrônico Nacional (PEN) – iniciativa conjunta de órgãos e entidades de diversas esferas da administração pública, com o intuito de construir uma infraestrutura pública de processos e documentos administrativos eletrônicos, e têm sido implantado em vários órgãos e entidades das mais variadas esferas administrativas. </p>
+  <p align="justify">O Sistema Eletrônico de Informações (<a href="https://sei.df.gov.br/sip/login.php?sigla_orgao_sistema=GDF&sigla_sistema=SEI">SEI</a>) é um sistema de produção e gestão de documentos e processos eletrônicos desenvolvido pelo Tribunal Regional Federal da 4ª Região (TRF4) e cedido gratuitamente à administração pública. </p>
+  <p align="justify">O SEI foi escolhido como a solução de processo eletrônico no âmbito do projeto Processo Eletrônico Nacional (PEN) – iniciativa conjunta de órgãos e entidades de diversas esferas da administração pública, com o intuito de construir uma infraestrutura pública de processos e documentos administrativos eletrônicos, e têm sido implantado em vários órgãos e entidades das mais variadas esferas administrativas. </p>
 
   <h3>Sobre o projeto</h3>
 
-  <p align="justify"> &emsp;&emsp;Este repositório foi criado para a disciplina de Interação Humano Computador da Universidade de Brasília com o objetivo de confeccionar toda a documentação requisitada pelo curso. </p>
-  <p align="justify"> &emsp;&emsp;O objeto de estudo escolhido pelo grupo foi o website <a href="https://sei.df.gov.br/sip/login.php?sigla_orgao_sistema=GDF&sigla_sistema=SEI">SEI</a>, ao qual serão executadas todas as técnicas dissertadas ao longo da disciplina para que este apresente uma boa interação com os usuários em suas funcionalidades. </p>
+  <p align="justify"> Este repositório foi criado para a disciplina de Interação Humano Computador da Universidade de Brasília com o objetivo de confeccionar toda a documentação requisitada pelo curso. </p>
+  <p align="justify"> O objeto de estudo escolhido pelo grupo foi o website <a href="https://sei.df.gov.br/sip/login.php?sigla_orgao_sistema=GDF&sigla_sistema=SEI">SEI</a>, ao qual serão executadas todas as técnicas dissertadas ao longo da disciplina para que este apresente uma boa interação com os usuários em suas funcionalidades. </p>
 
   <h3>Integrantes da equipe</h3>
 
   <div class="members">
     <div class="member" >
       <img src="./assets/images/members/Hugo.jpeg" alt="Hugo" >
-      <p >
+      <p>
         Hugo Sobral</br>18/0018604
       </p>
     </div>
@@ -69,6 +69,8 @@
     position: absolute;
     z-index: 2;
     font-weight: bold;
+    text-indent: 0 !important;
+    text-align: center;
   }
 
   .member p:hover{

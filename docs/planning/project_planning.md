@@ -74,22 +74,37 @@ O 5W2H feito tem como objetivo trazer a perspectiva da equipe para elicitar aind
 
 ---
 
-## Metologia
-
----
-
 ## Ciclo de vida
+
+Com uma visão holística, esse processo de design reúne e organiza diferenets atividades propostas na área de IHC para orientar o trabalho em direção a uma boa solução interativa.
+
+Na fase de **análise de requisitos** são definidas as metas de usabilidade com base no perfil dos usuários, análise de tarefas, possibilidades e limitações da plataforma em que o sistema será executado e princípios gerais do design de IHC.
+
+A fase de **design, avaliação e desenvolvimento** tem por objetivo conceber uma solução de IHC que atenda às metas de usabilidade estabelecidas na fase anterior.
+
+Na fase de **instalação**, o grupo de trabalho deve coletar opiniões dos usuários depois de algum tempo de uso.
+
+<div class="inferno">
+<img src="../assets/images/mayhew.jpg" justify="center">
+</div>
 
 ---
 
 ## Referências
 
+[1] FERRAMENTAS DA QUALIDADE. NAPOLEÃO, Bianca. 5W2H, 10 agosto de 2018. Disponivel em: < https://ferramentasdaqualidade.org/5w2h/ >. Acesso em 16 de setembro, 2020.
+
+[2] ENDEAVOR BRASIL. "5W2H: é hora de tirar as dúvidas e colocar a produtividade no seu dia a dia"; 08 de fevereiro, 2017. Disponível em < https://endeavor.org.br/pessoas/5w2h/ >. Acesso em 16 de setembro, 2020.
+
+[3] BARBOSA, Simone; SILVA, Bruno. Interação Humano-Computador. Rio de Janeiro:Elsevier Editora Ltda, 2010.
+
 ---
 
 ## Históricos de versões
 
-|    Data    | Versão |              Descrição              |          Autor(es)           |
-| :--------: | :----: | :---------------------------------: | :--------------------------: |
-| 10/09/2020 |  0.1   |  Criação do boilerplate do arquivo  | Hugo Sobral e Leonardo Gomes |
-| 16/09/2020 |  0.2   | Criação do cronograma de atividades |        Leonardo Gomes        |
-| 16/09/2020 |  0.3   |           Criação do 5W2H           | Hugo Sobral e Leonardo Gomes |
+|    Data    | Versão |                Descrição                 |          Autor(es)           |
+| :--------: | :----: | :--------------------------------------: | :--------------------------: |
+| 10/09/2020 |  0.1   |    Criação do boilerplate do arquivo     | Hugo Sobral e Leonardo Gomes |
+| 16/09/2020 |  0.2   |   Criação do cronograma de atividades    |        Leonardo Gomes        |
+| 16/09/2020 |  0.3   |             Criação do 5W2H              | Hugo Sobral e Leonardo Gomes |
+| 16/09/2020 |  1.0   | Refinamento do documento de planejamento | Leonardo Gomes e Hugo Sobral |
