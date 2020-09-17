@@ -16,7 +16,7 @@ O projeto conta com várias metodologias que unidas formam a base de processo pa
 
 A equipe decidiu por realizar os trabalhos a partir dos conceitos levantados pela metodologia ágil Scrum. Desta forma, nosso trabalho segue todo o fluxo de trabalho existente dentro da metodologia, que vai desde a priorização das tarefas em um backlog geral, assim como a priorização de algumas das tarefas em um backlog relativo a Sprint em que o projeto se encontra; até a realização dos ritos da metodologia, Review e Retrospectiva.
 
-#### Pápeis
+#### Papéis
 
 Os pápeis no Scrum é um tipo de diretriz que associa um membro da equipe com um objetivo, assim direcionando a responsabilidade para respectivos pápeis/membros.
 
@@ -34,9 +34,9 @@ Para estabelecer uma melhor organização da equipe, foi decidido, por meio da m
 
 Ficou acordado também que o grupo utilizará um dos princípios do Extreme Programming, também chamado de XP. Trata-se da Pair Programming, isto é, toda tarefa a ser realizada deverá ser feita por, no mínimo, dois integrantes do grupo.
 
-### Kaban
+### Kanban
 
-Para o Kaban estamos utilizando o Trello para podermos usar a esquematização decidida pelo grupo:
+Para o Kanban estamos utilizando o Trello para podermos usar a esquematização decidida pelo grupo:
 
 - **Aulas Sincronas:** Lista as aulas sincronas irão ocorrer
 - **Aulas Sincronas - Done:** Lista as aulas sincronas que já ocorreram
@@ -148,6 +148,16 @@ A principal ferramenta utilizada para o armazenamento dos documentos é o [_GitH
 ### Ferramentas de programação
 
 Ao analisar a atividade de criação da apresentação dos instrumentos gerados durante o projeto, sentiu-se a necessidade de utilizar ferramentas de apoio que acrescentam maior qualidade e facilidade à tarefa. A decisão de qual ferramenta adotar se baseou na comparação direta entre o [_MkDocs_](https://www.mkdocs.org/) e o [_Docsify_](https://docsify.js.org/). Comparado ao _MkDocs_, o _Docsify_ oferece maior facilidade de uso e escolha de templates, o que permite que sejam entregues resultados semelhantes e até mesmo superiores investindo menos tempo. Por essas e outras razões o _Docsify_ foi a ferramenta adotada.
+
+---
+
+## Referências
+
+[1] MEDEIROS, Manoel P; DEVMEDIA. "Extreme Programming – Conceitos e Práticas"; 2006. Disponível em < https://www.devmedia.com.br/extreme-programming-conceitos-e-praticas/1498 >. Acesso em 16 de setembro, 2020.
+
+[2] SCRUMGUIDES. "The Scrum Guide". Disponível em < https://scrumguides.org/scrum-guide.html >. Acesso em 16 de setembro, 2020.
+
+---
 
 ## Históricos de versões
 
