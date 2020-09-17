@@ -84,9 +84,7 @@ A fase de **design, avaliação e desenvolvimento** tem por objetivo conceber um
 
 Na fase de **instalação**, o grupo de trabalho deve coletar opiniões dos usuários depois de algum tempo de uso.
 
-<div class="inferno">
-<img src="../assets/images/mayhew.jpg" justify="center">
-</div>
+![Mayhew](../assets/images/mayhew.png ":class=inferno")
 
 ---
 
