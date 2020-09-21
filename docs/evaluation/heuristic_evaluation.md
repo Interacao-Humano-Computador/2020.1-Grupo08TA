@@ -2,7 +2,7 @@
 
 ## Objetivo
 
-Identificar problemas de usabilidade associados ao Site SEI
+Identificar problemas de usabilidade associados ao Site SEI.
 
 ## Escopo da Avaliação
 
@@ -10,57 +10,64 @@ A avaliação de heurísticas será aplicada em todo o site para as funcionalida
 
 ## Método
 
-Serão usadas 10 heuristicas de Nielsen sendo elas:
-||
-|:----|
-|Visibilidade do estado do sistema|
-|Correspondência entre o sistema e o mundo real|
-|Controle e liberdade do usuário|
-|Consistência e padronização|
-|Prevenção de erros|
-|Reconhecimento em vez de memorização|
-|Flexibilidade e eficiência de uso|
-|Estética e Design minimalistas|
-|Recuperação de erros|
-|Ajuda e Documentação |
+Serão usadas **10 heuristicas** de Nielsen sendo elas:
+
+|                                                |
+| :--------------------------------------------- |
+| Visibilidade do estado do sistema              |
+| Correspondência entre o sistema e o mundo real |
+| Controle e liberdade do usuário                |
+| Consistência e padronização                    |
+| Prevenção de erros                             |
+| Reconhecimento em vez de memorização           |
+| Flexibilidade e eficiência de uso              |
+| Estética e Design minimalistas                 |
+| Recuperação de erros                           |
+| Ajuda e Documentação                           |
 
 Após a análise levando em conta essas heurísticas será gerado uma tabela com as seguintes informações:
-||
-|:---|
-|Descrição|
-|Local onde ocorre|
-|Severidade do problema|
-|Diretriz(es) violada(s)|
-|Impacto |
-|Sugestões de solução|
+
+|                         |
+| :---------------------- |
+| Descrição               |
+| Local onde ocorre       |
+| Severidade do problema  |
+| Diretriz(es) violada(s) |
+| Impacto                 |
+| Sugestões de solução    |
 
 ## Resultado
 
-|Nº | Descrição | Local | Gravidade | Diretriz | Impacto | Solução |
-|:- | :-------- |:----- | :-------- | :--------| :------ | :------ |
-| 1 | Usuários externos que desejam fazer login não possuem opção de cadastro| Página de Login | Alta | Correspondência entre o sistema e o mundo real | Impossibilidade de uso | Criação de um botão de cadastro para usuários externos |
-| 2 |Não há qualquer botão ou modal que ajude a proceder com o login| Página de Login | Alta | Ajuda e Documentação | Atrapalha o uso uma vez que é necessário acessar outro site para ter acesso a documentação | Trazer documentação para o próprio site|
-| 3 | Os usuários com deficiência visual não são aptados a utilizar o site pois mesmo com a assitência de voz, existem íconess que não possuem legendas. Portanto não sendo possível a leitura pelo assistente e a utilização daquele recurso | Todo o site | Alta | Flexibilidade e eficiência de uso | Impossibilidade de uso | Adicionar legendas a todos os íconess |
-| 4 | O link do menu não segue o padrão de está acima do menu, criando a sensação que existe um segundo menu ao clicar no link | Página Inicial | Baixa | Consistência e padronização | Confusão ao usar o site pela primeira vez | Mudar o local do link para acima do menu e transformá-lo para botão | 
-| 5 | ícone de usuário é clicavel mas não dispara função ao clica-lo| Em todo o site | Baixa | Consistência e padronização |  Confusão ao usar o site pela primeira vez | Transformar as informações exibidas ao manter o cursor sobre o ícone em informações fixas e visíveis no cabeçalho do site |
-| 6 | O ícone de saída do site não possui legenda, possibilitando um logout do usuário sem que o mesmo queira sair do sistema | Todo o site | Alta | Flexibilidade e eficiência de uso |  Confusão ao usar o site | Colocar legenda no botão de saída |
-| 7 | Ao clicar no botão de saída não há confirmação da ação | Todo o site  | Alta | Prevenção de erros | Possibilidade de execução de ação indesejada | Colocar um modal de confirmação de saída |
-| 8 | O ícone do site é clicável mas não executa nenhuma ação | Em todo o site | Baixa | Consistência e padronização | Confusão ao usar o site pois é intuitivo que ao clicar no ícone do site você seja redirecionado a página inicial | Deixa o ícone não clicavel ou fazer o redirecionamento para página inicial ao clicar |
-| 9 | Ao executar uma mudança de senha não existe uma confirmação do desejo de alterá-la | Página 'Alterar Senha'| Alta | Prevenção de erros | Impossibilidade de uso, pois a senha pode ser alterada para uma a qual não foi gravada pelo usuário | Colocar modal de confirmação de alteração de senha |
-| 10 | Ao clicar em cancelar na página de 'Alterar Senha' o usuário não é redirecionado para a página inicial | Página 'Alterar Senha' | Baixa | Consistência e padronização | Baixo impacto de uso |  Redirecionar usuário para a página inicial ao clicar em cancelar |
-| 11 | Ao alterar a senha não há como visualizar a senha nova que foi digitada, impossibilitando assim o usuário confirmar se as senhas foram digitadas corretamente | Página 'Alterar Senha' | Média | Prevenção de erros  | Alterar a senha para uma não esperada | Adicionar botão que retire a máscara da senha permitindo assim aque o usuário confirme que as senhas digitadas |
-| 12 | O site entra em manutenção da meia noite as três horas todos os dias | Em todo o site | Alta | Flexibilidade e eficiência de uso | Impossibilita o uso do site após a meia noite | Tornar o site disponível 24 horas, 7 dias por semana |
-| 13 | Na página de 'Intimações Eletrônicas' no campo 'Período de Expedição' é permitido inserir uma data não válida | Página de 'Intimações Eletrônicas'| Alta | Prevenção de erros | Confusão ao pesquisar um documento | Permitir que o usuário só insira a data através do calendário |
-| 14 | Na página 'Recibos Eletrônicos de Protocolo' é permitido inserir um formato inválido de horário |  Página 'Recibos Eletrônicos de Protocolo'| Alta | Prevenção de erros | Confusão ao pesquisar um documento |  Permitir que o usuário só insira o horário através do calendário |
-| 15 | Na página 'Peticionamento -> Novo Processo' há um campo de input para o tipo de processo que apenas é uma pesquisa para a lista de tipos processos que vem abaixo, e não há nada que indique que é um campo de pesquisa | Página 'Peticionamento -> Novo Processo' | Baixa | Consistência e padronização |  Confusão ao pesquisar um tipo de processo | Colocar um icone e uma label que indique que é um campo de pesquisa|
-| 16 | Na página 'Peticionamento de Processo Novo' os botões 'Peticionar' e 'Voltar' estão repetidos na parte superior e inferior do formulário | Página 'Peticionamento de Processo Novo' | Baixa | Consistência e padronização | Confusão sobre qual grupo de botões utilizar| Deixar apenas um grupo de botoes |
-| 17 | Na página 'Peticionamento Intercorrente' os botões 'Peticionar' e 'Voltar' estão repetidos na parte superior e inferior da página. Como há duas seções nessa página fica a impressão de que um grupo de botoes serve para uma e o outro para a outra mas ambos reportam a seção 'Processo' |  Página 'Peticionamento Intercorrente'| Baixa | Consistência e padronização | Confusão sobre qual grupo de botões utilizar | Deixar apenas um grupo de botoes |
-| 18 | O layout escolhido é contra-intuitivo | Todo o site | Baixa | Estética e Design minimalistas | O usuário se sente desmotivado a usar o site  | Reformulação da interface de usuário |
+| Nº  | Descrição                                                                                                                                                                                                                                                                                  | Local                                     | Gravidade | Diretriz                                       | Impacto                                                                                                          | Solução                                                                                                                   |
+| :-- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------------------------------------- | :-------- | :--------------------------------------------- | :--------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------ |
+| 1   | Usuários externos que desejam fazer login não possuem opção de cadastro                                                                                                                                                                                                                    | Página de Login                           | Alta      | Correspondência entre o sistema e o mundo real | Impossibilidade de uso                                                                                           | Criação de um botão de cadastro para usuários externos                                                                    |
+| 2   | Não há qualquer botão ou modal que ajude a proceder com o login                                                                                                                                                                                                                            | Página de Login                           | Alta      | Ajuda e Documentação                           | Atrapalha o uso uma vez que é necessário acessar outro site para ter acesso a documentação                       | Trazer documentação para o próprio site                                                                                   |
+| 3   | Os usuários com deficiência visual não são aptos a utilizar o site pois mesmo com a assitência de voz, existem ícones que não possuem legendas. Portanto não sendo possível a leitura pelo assistente e a utilização daquele recurso                                                       | Todo o site                               | Alta      | Flexibilidade e eficiência de uso              | Impossibilidade de uso                                                                                           | Adicionar legendas a todos os íconess                                                                                     |
+| 4   | O botão para mostrar o menu não segue o padrão de estar acima do menu, criando a sensação que existe um segundo menu ao clicar no botão                                                                                                                                                    | Página Inicial                            | Baixa     | Consistência e padronização                    | Confusão ao usar o site pela primeira vez                                                                        | Mudar o local do link para acima do menu e transformá-lo para botão                                                       |
+| 5   | O ícone de usuário é clicável mas não dispara função ao clica-lo                                                                                                                                                                                                                           | Em todo o site                            | Baixa     | Consistência e padronização                    | Confusão ao usar o site pela primeira vez                                                                        | Transformar as informações exibidas ao manter o cursor sobre o ícone em informações fixas e visíveis no cabeçalho do site |
+| 6   | O ícone de saída do site não possui legenda, possibilitando um logout do usuário sem que o mesmo queira sair do sistema                                                                                                                                                                    | Todo o site                               | Alta      | Flexibilidade e eficiência de uso              | Confusão ao usar o site                                                                                          | Colocar legenda no botão de saída                                                                                         |
+| 7   | Ao clicar no botão de saída não há confirmação da ação                                                                                                                                                                                                                                     | Todo o site                               | Alta      | Prevenção de erros                             | Possibilidade de execução de ação indesejada                                                                     | Colocar um modal de confirmação de saída                                                                                  |
+| 8   | O ícone do site é clicável mas não executa nenhuma ação                                                                                                                                                                                                                                    | Em todo o site                            | Baixa     | Consistência e padronização                    | Confusão ao usar o site pois é intuitivo que ao clicar no ícone do site você seja redirecionado a página inicial | Deixar o ícone não clicável ou fazer o redirecionamento para página inicial ao clicar                                     |
+| 9   | Ao executar uma mudança de senha não existe uma confirmação do desejo de alterá-la                                                                                                                                                                                                         | Página 'Alterar Senha'                    | Alta      | Prevenção de erros                             | Impossibilidade de uso, pois a senha pode ser alterada para uma a qual não foi gravada pelo usuário              | Colocar modal de confirmação de alteração de senha                                                                        |
+| 10  | Ao clicar em cancelar na página de 'Alterar Senha' o usuário não é redirecionado para a página inicial                                                                                                                                                                                     | Página 'Alterar Senha'                    | Baixa     | Consistência e padronização                    | Baixo impacto de uso                                                                                             | Redirecionar usuário para a página inicial ao clicar em cancelar                                                          |
+| 11  | Ao alterar a senha não há como visualizar a senha nova que foi digitada, impossibilitando assim o usuário confirmar se as senhas foram digitadas corretamente                                                                                                                              | Página 'Alterar Senha'                    | Média     | Prevenção de erros                             | Alterar a senha para uma não esperada                                                                            | Adicionar botão que retire a máscara da senha permitindo assim que o usuário confirme que as senhas digitadas são iguais  |
+| 12  | O site entra em manutenção da meia noite as três horas todos os dias                                                                                                                                                                                                                       | Em todo o site                            | Alta      | Flexibilidade e eficiência de uso              | Impossibilita o uso do site após a meia noite                                                                    | Tornar o site disponível 24 horas, 7 dias por semana                                                                      |
+| 13  | Na página de 'Intimações Eletrônicas' no campo 'Período de Expedição' é permitido inserir uma data não válida                                                                                                                                                                              | Página de 'Intimações Eletrônicas'        | Alta      | Prevenção de erros                             | Confusão ao pesquisar um documento                                                                               | Permitir que o usuário só insira a data através do calendário                                                             |
+| 14  | Na página 'Recibos Eletrônicos de Protocolo' é permitido inserir um formato inválido de horário                                                                                                                                                                                            | Página 'Recibos Eletrônicos de Protocolo' | Alta      | Prevenção de erros                             | Confusão ao pesquisar um documento                                                                               | Permitir que o usuário só insira o horário através do calendário                                                          |
+| 15  | Na página 'Peticionamento -> Novo Processo' há um campo de input para o tipo de processo que apenas é uma pesquisa para a lista de tipos processos que vem abaixo, e não há nada que indique que é um campo de pesquisa                                                                    | Página 'Peticionamento -> Novo Processo'  | Baixa     | Consistência e padronização                    | Confusão ao pesquisar um tipo de processo                                                                        | Colocar um icone e uma label que indique que é um campo de pesquisa                                                       |
+| 16  | Na página 'Peticionamento de Processo Novo' os botões 'Peticionar' e 'Voltar' estão repetidos na parte superior e inferior do formulário                                                                                                                                                   | Página 'Peticionamento de Processo Novo'  | Baixa     | Consistência e padronização                    | Confusão sobre qual grupo de botões utilizar                                                                     | Deixar apenas um grupo de botoes                                                                                          |
+| 17  | Na página 'Peticionamento Intercorrente' os botões 'Peticionar' e 'Voltar' estão repetidos na parte superior e inferior da página. Como há duas seções nessa página fica a impressão de que um grupo de botões serve para uma e o outro para a outra mas ambos reportam a seção 'Processo' | Página 'Peticionamento Intercorrente'     | Baixa     | Consistência e padronização                    | Confusão sobre qual grupo de botões utilizar                                                                     | Deixar apenas um grupo de botoes                                                                                          |
+| 18  | O layout escolhido é contra-intuitivo                                                                                                                                                                                                                                                      | Todo o site                               | Baixa     | Estética e Design minimalistas                 | O usuário se sente desmotivado a usar o site                                                                     | Reformulação da interface de usuário                                                                                      |
+
+## Referência
+
+[1] MEDIUM. "10 Heurísticas de Nielsen — Dicas para Melhorar a Usabilidade de Sua Interface"; 17 de julho, 2019. Disponível em < https://medium.com/aela/10-heur%C3%ADsticas-de-nielsen-dicas-para-melhorar-a-usabilidade-de-sua-interface-35ef86a7fb41 >. Acesso em 21 de setembro, 2020.
 
 ## Históricos de versões
 
-|    Data    | Versão |             Descrição             |          Autor(es)           |
-| :--------: | :----: | :-------------------------------: | :--------------------------: |
-| 10/09/2020 |  0.1   | Criação do boilerplate do arquivo | Hugo Sobral e Leonardo Gomes |
-| 13/09/2020 |  1.0   | Avaliação heurística | João Lucas Zarbiélli |
-
+|    Data    | Versão |                 Descrição                 |          Autor(es)           |
+| :--------: | :----: | :---------------------------------------: | :--------------------------: |
+| 10/09/2020 |  0.1   |     Criação do boilerplate do arquivo     | Hugo Sobral e Leonardo Gomes |
+| 13/09/2020 |  1.0   |           Avaliação heurística            |     João Lucas Zarbiélli     |
+| 20/09/2020 |  1.1   |        Finalização das heurísticas        |     João Lucas Zarbiélli     |
+| 21/09/2020 |  1.2   | Revisão e upgrade da avaliação heurística | Leonardo Gomes e Hugo Sobral |
