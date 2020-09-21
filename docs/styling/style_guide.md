@@ -2,19 +2,27 @@
 
 Guia de estilo tem como foco estabelecer métricas de conformidade por parte dos símbolos, cores, formas e layouts.
 
+---
+
 ## Manual de Identidade Visual
 
 <embed src="./assets/manual_de_identidade_visual.pdf" width="800px" height="500px" />
 
+---
+
 ## Aplicações
 
 <embed src="./assets/aplicacoes.pdf" width="800px" height="500px" />
+
+---
 
 ## Referências
 
 Manual de Identidade Visual do grupo Stock de Desenho de Software da Universidade de Brasília - https://github.com/UnBArqDsw/2020.1_G12_Stock
 
 How to create a visual style guide for your brand - https://bit.ly/3lyAq42
+
+---
 
 ## Históricos de Revisões
 
