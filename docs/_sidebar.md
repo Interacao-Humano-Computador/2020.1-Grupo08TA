@@ -19,6 +19,7 @@
   - **Ponto de Controle 1**
     - [Sprint 0](./meeting/PC1/sprint_0.md)
     - [Sprint 1](./meeting/PC1/sprint_1.md)
+    - [1º Reunião com professor](./meeting/PC1/professor_meeting_1.md)
   - **Ponto de Controle 2**
     - [Sprint 2](./meeting/PC2/sprint_2.md)
 - **Links**
