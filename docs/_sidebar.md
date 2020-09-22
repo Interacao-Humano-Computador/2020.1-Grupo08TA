@@ -15,13 +15,14 @@
 - **Estilização**
   - [Guia de estilo](./styling/style_guide.md)
   - [Acessibilidade](./styling/accessibility.md)
-- **Reuniões**
+- **Apresentações**
   - **Ponto de Controle 1**
-    - [Sprint 0](./meeting/PC1/sprint_0.md)
-    - [Sprint 1](./meeting/PC1/sprint_1.md)
     - [1º Reunião com professor](./meeting/PC1/professor_meeting_1.md)
-  - **Ponto de Controle 2**
-    - [Sprint 2](./meeting/PC2/sprint_2.md)
+    - [1ª Apresentação](./meeting/PC1/pc1_presentation.md)
+- **Sprints**
+  - [Sprint 0](./meeting/PC1/sprint_0.md)
+  - [Sprint 1](./meeting/PC1/sprint_1.md)
+  - [Sprint 2](./meeting/PC2/sprint_2.md)
 - **Links**
   - [Github](https://github.com/Interacao-Humano-Computador/2020.1-SEI)
   - [SEI](https://sei.df.gov.br/sip/login.php?sigla_orgao_sistema=GDF&sigla_sistema=SEI)
