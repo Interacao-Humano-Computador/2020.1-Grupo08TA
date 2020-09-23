@@ -6,11 +6,11 @@ Guia de estilo tem como foco estabelecer métricas de conformidade e identidade 
 
 ## Atual Guia de Estilo
 
-O atual guia de estilo do SEI é composto por apenas duas cores e uma logo simplista sem nenhum aspecto que possa suar como uma real assinatura da plataforma.
+O atual guia de estilo do SEI é composto por apenas duas cores e uma logo simplista sem nenhum aspecto que possa soar como uma real assinatura da plataforma.
 
-As cores definidas não são exploradas com sucesso na plataforma, muitas delas só aparecem no header e na logo. Além disso apenas uma cor tem o contraste bom com a cor branca, mas mesmo assim é utilizado cores de pouco contraste sobrepostas, diminuindo a acessibilidade.
+As cores definidas não são exploradas com sucesso na plataforma, muitas delas só aparecem no header e na logo. Além disso apenas uma cor tem o contraste bom com a cor branca, mas mesmo assim são utilizadas cores de pouco contraste sobrepostas, desta forma a acessibilidade fica comprometida.
 
-As aplicações apresentadas no sistemas não seguiam nenhuma conformidade específica, dessa forma não se pode falar que a plataforma atual apresenta um padrão simplista ou consistente.
+As aplicações apresentadas no sistemas não seguem nenhuma conformidade específica, dessa forma não se pode falar que a plataforma atual apresenta um padrão simplista ou consistente.
 
 <embed src="./assets/atual_manual_de_identidade_visual.pdf" width="800px" height="500px" />
 
@@ -18,19 +18,19 @@ As aplicações apresentadas no sistemas não seguiam nenhuma conformidade espec
 
 ## Proposta de Guia de Estilo
 
-A proposta de guia de estilo apresenta diferentes cores para ser explorada em diferentes componentes na plataforma, podendo também apresentar uma variedade de contraste não apenas entre branco e preto, mas entre as próprias cores. Além disso, tenta trazer uma nova proposta de logo e uma padronização consolidada dos componenetes.
+A proposta de guia de estilo apresenta diferentes cores para serem exploradas em diferentes componentes na plataforma, o que possibilita apresentar uma variedade de contraste não apenas entre branco e preto, mas entre as próprias cores. Além disso, a proposta tenta trazer um novo estilo para a logo e uma padronização consolidada dos componenetes.
 
 ### Manual de Identidade Visual
 
-O manual de identidade visual resume aspectos visuais gerais da plataforma, sem aprofundar em aplicações para o mesmo. Nesse sentido é apresentado a assinatura, as cores e a tipografia do sistema.
+O manual de identidade visual resume aspectos visuais gerais da plataforma, sem aprofundar em aplicações para o mesmo. Neste sentido são apresentadas a assinatura, as cores e a tipografia do sistema.
 
-A abordagem da logo é trazer um identidade para a plataforma, a assinatura é inspirada nos aspecto funcionais do sistema: documentação, artigos e processos. Dessa forma, a logo representa um documento dobrado (uma folha dobrada), com apenas uma cor e podendo variar entre monocromática e colorida.
+A abordagem da logo traz uma identidade para a plataforma. A assinatura é inspirada nos aspectos funcionais do sistema: documentação, artigos e processos. Desta forma, a logo representa um documento dobrado (uma folha de papel dobrada), com apenas uma cor que pode variar em fundos monocromáticos ou coloridos.
 
 <embed src="./assets/manual_de_identidade_visual.pdf" width="800px" height="500px" />
 
 ### Aplicações
 
-As aplicações foram padronizadas e devem ser utilizadas conforme o guia de componentes. Dessa forma, apresentando uma conformidade a plataforma.
+As aplicações foram padronizadas e devem ser utilizadas conforme o guia de componentes. Desta forma, uma conformidade satisfatória com a plataforma é alcançada.
 
 <embed src="./assets/aplicacoes.pdf" width="800px" height="500px" />
 
