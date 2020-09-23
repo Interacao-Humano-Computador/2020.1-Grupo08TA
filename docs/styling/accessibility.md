@@ -6,7 +6,9 @@ Ao pensar em acessibilidade, devemos pensar a usabilidade de um aplicação em p
 
 ## Cores
 
-A acessibilidade das cores foca em garantir o contraste das cores para pessoas com daltonismo, assim fazendo com que elemento sobreposto a outros não passem despercebidos pela mesma.
+A acessibilidade das cores foca em garantir o contraste das cores para pessoas com daltonismo ou alguma dificuldade visual em diferenciar elementos a partir das cores, assim fazendo com que componentes sobrepostos não passem despercebidos pela pessoa.
+
+Para garantir a acessibilidade no contraste das cores, utilizamos o site [contrast ratio](https://contrast-ratio.com/). Esse site disponibiliza uma nota de contraste entre as cores, e para nossa aplicação consideramos aceitável as cores com nota acima de 3.50 em constraste com as cores neutras #1F1F1F e #F4F4F4.
 
 <embed src="./assets/acessibilidade.pdf" width="800px" height="500px" />
 
@@ -18,3 +20,4 @@ A acessibilidade das cores foca em garantir o contraste das cores para pessoas c
 | :--------: | :----: | :--------------------------------------------------------------------: | :--------------------------: |
 | 10/09/2020 |  0.1   |                   Criação do boilerplate do arquivo                    | Hugo Sobral e Leonardo Gomes |
 | 12/09/2020 |  1.0   | Criação da descrição e import do slide sobre a acessibilidade de cores |        Leonardo Gomes        |
+| 23/09/2020 |  1.1   |     Ajuste no texto no texto das cores e adição de site utilizado      |        Leonardo Gomes        |
