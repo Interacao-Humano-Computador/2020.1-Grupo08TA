@@ -71,6 +71,7 @@ Conteúdo do vídeo da apresentação:
 
 ## Históricos de versões
 
-|    Data    | Versão |             Descrição             |          Autor(es)           |
-| :--------: | :----: | :-------------------------------: | :--------------------------: |
-| 10/09/2020 |  0.1   | Criação do boilerplate do arquivo | Hugo Sobral e Leonardo Gomes |
+|    Data    | Versão |                    Descrição                     |          Autor(es)           |
+| :--------: | :----: | :----------------------------------------------: | :--------------------------: |
+| 10/09/2020 |  0.1   |        Criação do boilerplate do arquivo         | Hugo Sobral e Leonardo Gomes |
+| 21/09/2020 |  1.0   | Criação do documento sobre a reunião da sprint 2 |        Leonardo Gomes        |
