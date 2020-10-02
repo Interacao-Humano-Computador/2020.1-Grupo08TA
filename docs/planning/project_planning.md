@@ -12,13 +12,13 @@ Ponto de controle focado em avaliar o sistema, entender o problema, definir o es
 
 | Tarefa                       | Data da entrega | Data entregue |
 | :--------------------------- | --------------- | ------------- |
-| Avalição Heurística          | 11/09/2020      |               |
+| Avalição Heurística          | 11/09/2020      | 21/09/2020    |
 | Wiki                         | 11/09/2020      | 11/09/2020    |
 | Guia de estilo               | 11/09/2020      | 09/09/2020    |
-| Metas de Usabilidade         | 14/09/2020      |               |
-| Princípios Gerais do projeto | 18/09/2020      |               |
+| Metas de Usabilidade         | 14/09/2020      | 21/09/2020    |
+| Princípios Gerais do projeto | 18/09/2020      | 18/09/2020    |
 | Planejamento da equipe       | 18/09/2020      | 14/09/2020    |
-| Planejamento do projeto      | 18/09/2020      |               |
+| Planejamento do projeto      | 18/09/2020      | 17/09/2020    |
 
 ### 2º Ponto de Controle - 05/10
 
@@ -26,10 +26,10 @@ Ponto de controle com foco em identificar nosso usuário, fazer a análise de ta
 
 | Tarefa                        | Data da entrega | Data entregue |
 | :---------------------------- | --------------- | ------------- |
-| Perfil do Usuário             | 25/09/2020      |               |
-| Personas                      | 25/09/2020      |               |
+| Perfil do Usuário             | 25/09/2020      | 01/10/2020    |
+| Personas                      | 25/09/2020      | 01/10/2020    |
 | Análise de tarefas do usuário | 30/09/2020      |               |
-| Guia de estilo                | 02/10/2020      |               |
+| Guia de estilo                | 02/10/2020      | 23/09/2020    |
 | StoryBoarding (História)      | 02/10/2020      |               |
 | Acessibilidade                | 02/10/2020      |               |
 
@@ -74,7 +74,9 @@ O 5W2H feito tem como objetivo trazer a perspectiva da equipe para elicitar aind
 
 ---
 
-## Ciclo de vida
+## Processo de design
+
+Para o nosso projeto, o grupo selecionou o **Ciclo de Vida de Engenharia de Usabilidade de Mayhew**. O grupo optou por este processo de Design devido a robustez que o ciclo de vida de Mayhew apresenta, o processo consegue abordar de forma concisa e clara todas as etapas necessárias para o desenvolvimento do projeto no contexto da disciplina de IHC.
 
 Com uma visão holística, esse processo de design reúne e organiza diferentes atividades propostas na área de IHC para orientar o trabalho em direção a uma boa solução interativa.
 
@@ -85,6 +87,7 @@ A fase de **design, avaliação e desenvolvimento** tem por objetivo conceber um
 Na fase de **instalação**, o grupo de trabalho deve coletar opiniões dos usuários depois de algum tempo de uso.
 
 ![Mayhew](../assets/images/mayhew.png ":class=inferno")
+Figura 1: Ciclo de Vida de Usabilidade de Mayhew (BARBOSA, Simone; SILVA, Bruno. Interação Humano-Computador)
 
 ---
 
@@ -100,11 +103,12 @@ Na fase de **instalação**, o grupo de trabalho deve coletar opiniões dos usu�
 
 ## Históricos de versões
 
-|    Data    | Versão |                Descrição                 |          Autor(es)           |
-| :--------: | :----: | :--------------------------------------: | :--------------------------: |
-| 10/09/2020 |  0.1   |    Criação do boilerplate do arquivo     | Hugo Sobral e Leonardo Gomes |
-| 16/09/2020 |  0.2   |   Criação do cronograma de atividades    |        Leonardo Gomes        |
-| 16/09/2020 |  0.3   |             Criação do 5W2H              | Hugo Sobral e Leonardo Gomes |
-| 16/09/2020 |  1.0   | Refinamento do documento de planejamento | Leonardo Gomes e Hugo Sobral |
-| 16/09/2020 |  1.1   |          Adição das referências          | Leonardo Gomes e Hugo Sobral |
-| 17/09/2020 |  1.2   |           Correção ortográfica           | Hugo Sobral e Leonardo Gomes |
+|    Data    | Versão |                            Descrição                             |          Autor(es)           |
+| :--------: | :----: | :--------------------------------------------------------------: | :--------------------------: |
+| 10/09/2020 |  0.1   |                Criação do boilerplate do arquivo                 | Hugo Sobral e Leonardo Gomes |
+| 16/09/2020 |  0.2   |               Criação do cronograma de atividades                |        Leonardo Gomes        |
+| 16/09/2020 |  0.3   |                         Criação do 5W2H                          | Hugo Sobral e Leonardo Gomes |
+| 16/09/2020 |  1.0   |             Refinamento do documento de planejamento             | Leonardo Gomes e Hugo Sobral |
+| 16/09/2020 |  1.1   |                      Adição das referências                      | Leonardo Gomes e Hugo Sobral |
+| 17/09/2020 |  1.2   |                       Correção ortográfica                       | Hugo Sobral e Leonardo Gomes |
+| 02/10/2020 |  1.3   | Melhoria no tópico do processo de design e atualização das datas |         Hugo Sobral          |
