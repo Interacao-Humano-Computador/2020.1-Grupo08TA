@@ -23,6 +23,7 @@
   - [Sprint 0](./meeting/PC1/sprint_0.md)
   - [Sprint 1](./meeting/PC1/sprint_1.md)
   - [Sprint 2](./meeting/PC2/sprint_2.md)
+  - [Sprint 3](./meeting/PC2/sprint_3.md)
 - **Links**
   - [Github](https://github.com/Interacao-Humano-Computador/2020.1-SEI)
   - [SEI](https://sei.df.gov.br/sip/login.php?sigla_orgao_sistema=GDF&sigla_sistema=SEI)
