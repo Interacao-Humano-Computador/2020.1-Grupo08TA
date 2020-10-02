@@ -26,6 +26,8 @@ Consistência tem como ponto forte a uniformização de funcionalidades que a pl
 
 Este princípio propõe mostrar os componentes e funcionalidades da forma mais clara e visível possível. Visibilidade está relacionada com o organização da página, as cores, tamanho, composição dos componentes, etc. Dessa forma, ajudando o usuário na memorização dos itens que a página oferece.
 
+---
+
 ## Referências
 
 [1] Morville, P. (2005) findability Ambient. Sebastopol, CA: O'Reilly
@@ -42,3 +44,4 @@ Este princípio propõe mostrar os componentes e funcionalidades da forma mais c
 | :--------: | :----: | :--------------------------------------: | :--------------------------: |
 | 10/09/2020 |  0.1   |    Criação do boilerplate do arquivo     | Hugo Sobral e Leonardo Gomes |
 | 18/09/2020 |  1.0   | Criação dos princípios gerais do projeto | Hugo Sobral e Leonardo Gomes |
+| 02/10/2020 |  1.1   |       Ajuste na formatação do doc        |         Hugo Sobral          |

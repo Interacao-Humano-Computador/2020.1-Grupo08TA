@@ -13,6 +13,7 @@ As cores definidas não são exploradas com sucesso na plataforma, muitas delas 
 As aplicações apresentadas no sistemas não seguem nenhuma conformidade específica, dessa forma não se pode falar que a plataforma atual apresenta um padrão simplista ou consistente.
 
 <embed src="./assets/atual_manual_de_identidade_visual.pdf" width="800px" height="500px" />
+Figura 1: Apresentação do atual manual de identidade visual do sei
 
 ---
 
@@ -27,20 +28,22 @@ O manual de identidade visual resume aspectos visuais gerais da plataforma, sem 
 A abordagem da logo traz uma identidade para a plataforma. A assinatura é inspirada nos aspectos funcionais do sistema: documentação, artigos e processos. Desta forma, a logo representa um documento dobrado (uma folha de papel dobrada), com apenas uma cor que pode variar em fundos monocromáticos ou coloridos.
 
 <embed src="./assets/manual_de_identidade_visual.pdf" width="800px" height="500px" />
+Figura 2: Apresentação do novo manual de identidade visual proposto
 
 ### Aplicações
 
 As aplicações foram padronizadas e devem ser utilizadas conforme o guia de componentes. Desta forma, uma conformidade satisfatória com a plataforma é alcançada.
 
 <embed src="./assets/aplicacoes.pdf" width="800px" height="500px" />
+Figura 3: Apresentação das aplicações dos componentes
 
 ---
 
 ## Referências
 
-Manual de Identidade Visual do grupo Stock de Desenho de Software da Universidade de Brasília - https://github.com/UnBArqDsw/2020.1_G12_Stock
+[1] Manual de Identidade Visual do grupo Stock de Desenho de Software da Universidade de Brasília - https://github.com/UnBArqDsw/2020.1_G12_Stock
 
-How to create a visual style guide for your brand - https://bit.ly/3lyAq42
+[2] How to create a visual style guide for your brand - https://bit.ly/3lyAq42
 
 ---
 
@@ -52,3 +55,4 @@ How to create a visual style guide for your brand - https://bit.ly/3lyAq42
 | 09/09/2020 |  1.1   |   Criação dos documentos Aplicações.    | Leonardo Gomes |
 | 12/09/2020 |  1.2   | Criação da descrição do Guia de Estilo. | Leonardo Gomes |
 | 23/09/2020 |  1.3   | Adição do atual guia de estilo do SEI.  | Leonardo Gomes |
+| 02/10/2020 |  1.4   |     Adição da descrição das figuras     |  Hugo Sobral   |

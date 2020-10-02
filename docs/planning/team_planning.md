@@ -149,6 +149,10 @@ A principal ferramenta utilizada para o armazenamento dos documentos é o [_GitH
 
 Ao analisar a atividade de criação da apresentação dos instrumentos gerados durante o projeto, sentiu-se a necessidade de utilizar ferramentas de apoio que acrescentam maior qualidade e facilidade à tarefa. A decisão de qual ferramenta adotar se baseou na comparação direta entre o [_MkDocs_](https://www.mkdocs.org/) e o [_Docsify_](https://docsify.js.org/). Comparado ao _MkDocs_, o _Docsify_ oferece maior facilidade de uso e escolha de templates, o que permite que sejam entregues resultados semelhantes e até mesmo superiores investindo menos tempo. Por essas e outras razões o _Docsify_ foi a ferramenta adotada.
 
+### Ferramentas de design
+
+A primeira ferramenta utilizada pelo grupo para processos de criação artística foi o website [_UXPressia_](https://www.youtube.com/watch?v=q3CJAo7fFr8). O _UXPressia_ é um portal de design que permite aos usuários a criação de templates de documentos relevantes a um processo criativo ou desenvolvimento de projetos. O grupo utilizou a ferramenta para a criação das personas do projeto, tirando proveito de sugestões e templates já existentes.
+
 ---
 
 ## Referências
@@ -169,6 +173,7 @@ Ao analisar a atividade de criação da apresentação dos instrumentos gerados 
 | 14/09/2020 |  1.1   |    Criação e estruturação do tópico de metodologias    |        Leonardo Gomes        |
 | 14/09/2020 |  2.0   | Criação da política do repositório e adição do Heatmap |        Leonardo Gomes        |
 | 17/09/2020 |  2.1   |                  Correção ortográfica                  | Hugo Sobral e Leonardo Gomes |
+| 02/10/2020 |  2.2   |    Adição da ferramenta _UXPressia_ nas ferramentas    |         Hugo Sobral          |
 
 <style>
   .topIcons {
