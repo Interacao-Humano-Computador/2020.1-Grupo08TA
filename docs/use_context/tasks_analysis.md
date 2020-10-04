@@ -1,67 +1,76 @@
 # Análise de tarefas
 
 ##  Conceito 
+Uma análise de tarefas é utilizada para se ter um entendimento sobre qual é o trabalho dos usuários, como eles o realizam e por quê. Nesse tipo de análise, o trabalho é definido em termos dos objetivos que os usuários querem ou precisam atingir.
 
-"A análise de tarefas é o processo de analisar e articular a tarefa que os usuários buscam ou devem fazer por meio de uso do produto.
+Segundo Diaper (2003), a análise de tarefas é “a expressão utilizada no campo da
+ergonomia, que inclui IHC, para representar todos os métodos de coletar, classificar
+e interpretar dados sobre o desempenho de um sistema que possua ao menos uma
+pessoa como componente” 
 
-Análise de como uma tarefa é exercida, compreendendo uma descrição detalhada tanto de atividades físicas como mentais, duração da tarefa, frequência da tarefa, alocação da tarefa, complexidade da tarefa, condições ambientais, vestimenta e equipamento necessários, e todo outro fator envolvido ou exigido por uma ou mais pessoas para realizar uma dada tarefa.
-
-Uma análise de tarefa divide uma tarefa difícil em seus componentes, que são seus conhecimentos procedimentais e afirmativos.
-
-Descrição minuciosa daquilo que uma pessoa competente faz ou deve fazer quando executa uma tarefa.
-
-Pode ser usada com vários objetivos, tais como projetar, avaliar, automatizar, tendo então, diversos níveis de abstração.
-
-Corriqueiro nas áreas de treinamento, seleção de pessoal, design instrucional, IHC etc
-
-O seis itens que definem os princípios da análise são:
-
-* Visibilidade
-* Retorno
-* Restrições
-* Mapeamento
-* Consistência
-* Fornecimento
-
-### Visibilidade 
-
-A expectativa deste princípio é manter as funções visíveis e facilitar a localização do controle certo para a tarefa com agilidade. Utiliza-se um termo nesse tópico que segue a sigla: "WYSIWYG" - What You See Is What You Get, que significa algo como “o que você vê é o que você tem”. Salientando portanto, a importância de mostrar todas as funções para o usuário.
-
-Com esse aspecto pretendemos melhorar a distribuição de botões e ícones da página que são contra-intuitivos, por exemplo o botão do menu que não fica próximo ao menu. É necessário também mudar os ícones e inserir labels a eles para deixá-los mais signficativos. Sobre o layout completo do site é necessário atualiza-lo e colocá-lo de forma mais moderna em conformidade com os layouts de sites modernos.
-
-### Retorno
-
-Nesse princípio é levantada a importância de existir retornos do sistemas às ações do usuário, para assim tirar a possibilidade de existir qualquer incerteza do estado do sistema quando o usuário executar uma ação. A falta de um bom retorno ao usuário pode gerar erros no sistema, uma vez que pode ser requisitada a mesma ação várias vezes gerando uma lentidão ou quando a falta de retorno de uma ação a qual não foi executada de forma incorreta deixando assim o usuário achando que ação foi concluida com sucesso. 
-
-Com essse princípio em mente foram analisadas as respostas  do site, que performou bem em quase todas as ações do usuário no site que necessitam de retorno o possuem, porém é necessário deixar os retornos mais intuitivos e explicativos. Todos os retornos são feitos atraves de alert portanto é necessário a interação do usuário para fechar o alert, mesmo quando é uma mensagem de sucesso deixando assim cansativo o uso do site quando utilizado por muito tempo o que é o caso de algumas pessoas. Com essa perspectiva o grupo pretende melhorar a exposição dos retornos, deixando claro atrves de cores intuitivas se as ações foram realizadas com sucesso ou não, e retirar a necessidade de interagir com todos os retornos e melhorar o aspecto estético.
-
-### Restrições
-
-São formas de delimitar a ação do usuário garantindo que, em meio a uma vasta quantidade de opções, ele escolha a correta para continuar a atividade. Os beneficios que isso garante são evitar diversos erros.
-Como o site tem poucas opções fica bem evidenciado as opções corretas, atraves do menu e de boas descrições para as abas. O sistema também não permite fazer ações que o usuário não pode, tirando do escopo essas ações, porém existem dois pequenos detalhes no site que induzem o usuário ao erro, o primeiro é o ícone de usuário na parte superior direita que é clicável, levando o usuário a crer que seria redirecionado a uma página de edição de perfil que é o comum aos sites e na veradade o ícone não dispara ação nenhuma. O segundo é o ícone do site que se encontra na parte superior esquerda do site, que também é clicável porém não executa ação alguma, o que vai contra o fluxo normal de um site que ao clicar no ícone do site é redirecionado a página inicial. Portante são os dois pontos que o grupo pretende atacar nesse princípio.
-
-### Mapeamento
-
-Mapeamento se diz em relação a manipulação dos controles serem adequadas, de um jeito que o usuário consiga entender o que uma coisa faz. Muito utilizado para descrever essas ações de um jeito simples é por símbolos universais, como uma seta pode indicar para voltar para a página anterior em um local óbvio.
-
-nesse ponto o site possui poucas coisa que necessitem de mudança, a grande maioria dos botões possuem legendas ou placeholders e ícones significativos, ficando portanto atacar esses poucos pontos de mudança.
-
-### Consistência
-
-Consistência tem como objetivo padronizar certas tarefas. Como por exemplo um teclado de banco que tem o mesmo formato e cores adequadas para as mesmas funcionalidades. A inconcistência pode trazer confusão para o usuário que esta navegando, dando uma sensação de perdido.
-Nesse sentido o site todo possui uma padronização, porém ela é contra-intuitiva uma vez que não há diferenciação de cores e tamanhos para elementos diferentes tornando a experiência do usuário mais difícil do que poderia ser caso fosse adotada uma padronização intuitiva. O grupo pretende deixar a padronização do site mais intuitiva para que o uso se torne mais flúido.
+Em IHC, a análise de tarefas pode ser utilizada nas três atividades habituais: para
+análise da situação atual (apoiada ou não por um sistema computacional), para o
+(re)design de um sistema computacional ou para a avaliação do resultado de uma
+intervenção que inclua a introdução de um (novo) sistema computacional
 
 
-### Fornecimento
+Um dos primeiros passos numa análise de tarefas é coletarmos um conjunto de
+objetivos, definidos em termos psicológicos, ou seja, objetivos das pessoas. Para cada objetivo, elaboramos uma lista das ações realizadas (no mundo físico e através do sistema computacional) por um agente para alcançar esse objetivo. Quando há múltiplos agentes, Diaper recomenda representar as ações de cada agente numa coluna
+diferente.
 
-Trata das propriedades percebidas de um objeto que determinam como ele pode ser usado. Só olhando, o usuário sabe o que fazer, pois utiliza o mínimo de esforço. A partir das características do objeto, o usuário, mesmo sem o conhecer, cria uma idéia da funcionalidade do mesmo. O processo é óbvio e não precisa ser aprendido.
-O site possui alguns problemas de fornecimento que deixam dúbias as funcionalidades de alguns campos, como por exemplo os campos de data que possuem tanto um input quanto um calendário onde a data pode ser selecionada, deixando assim em dúvida o usuário qual forma utilizar para entrar com a data. Outro exemplo desses problemas são as repetições de botões iguais na parte de cima e de baixo da página que geram confusão ao usuário uma vez que não fica claro qual grupo de botões deve ser utilizado e se existe alguma diferença em usar um o outro conjunto, deixando assim indeterminado o uso dos mesmos.
-O grupo pretende retirar esses obejtos que geram dubiedade de uso e deixar exposto através de ícones intuitivos o uso de cada objeto do sistema.
+Com isso em mente usaremos o método HTA – Hierarchical Task Analysis, que busca entender as competências e habilidades exibidas em tarefas complexas e não repetitivas, bem como para auxiliar na identificação de problemas de desempenho.
+
+Ele ajuda a relacionar o que as pessoas fazem (ou se recomenda que façam), por que o fazem, e quais as consequências caso não o façam corretamente
+
+## Análise
+
+### Peticionamento de Processo
+
+![](https://i.imgur.com/sHX80bH.png)
+
+
+
+#### Tabela de Tarefas - Peticionamento de Processo
+
+| Objetivos / Operações | Problemas e Recomendações |
+| :-------------------: | :----------------------- |
+| 0. Peticionar um processo | * Input: Peticionar um Processo <br/><br/> * Feedback: Processo peticionado e enviado <br/><br/> * Plano: Fazer login no site e peticionar um processo <br/>  |
+| 1. Login | * Input: Email e senha <br/><br/> * Plano: Realizar o login na plataforma |
+|2. Peticionamento | * Input: Clicar na aba Peticionamento<br/><br/> * Plano: Entrar na aba de peticionamento de processo e escolher entre processo novo **ou** Intercorrente |
+|3. Processo Novo | * Input: Clicar no submenu Processo Novo <br/>| 
+|4. Intercorrente | * Input: Clicar no submenu Intercorrente<br/>| 
+|5. Tipo de Processo | * Input: Nome do tipo de processo <br/>|
+|6. Formulário de Peticionamento / Especificação | * Input: Resumo da petição <br/>|
+|7. Enviar Arquivos | * Input: Arquivos pertinentes <br/>| 
+|8. Tipo de Documento | * Input: Selecionar na lista tipo do documento enviado <br/>|
+|9. Número do Processo | * Input: Número de um processo já existente <br/>|
+|10. Tipo | * Input: Nome do tipo de processo <br/>|
+|11. Peticionar | * Input: Peticionamento <br/>|
+
+### Acesso aos recibos eletrônicos
+
+
+![](https://i.imgur.com/wsE05BN.png)
+
+#### Tabela de Tarefas - Acesso aos recibos eletrônicos
+
+| Objetivos / Operações | Problemas e Recomendações |
+| :-------------------: | :----------------------- |
+| 0. Acessar os recibos eletrônicos | * Input: Acessar os recibos eletrônicos <br/><br/> * Feedback: Lista de recibos <br/><br/> * Plano: Fazer login no site e acessar os recibos eletrônicos <br/><br/> * Recomendação: Preencher todos os campos de pesquisa  |
+| 1. Login | * Input: Email e senha <br/><br/> * Plano: Realizar o login na plataforma |
+| 2. Recibos Eletrônicos de Protocolo (Aba) | * Input: <br/><br/> * Plano: Entrar na aba de filtragem de acesso aos recibos eletrônicos |
+| 3. Início do Período Analisado | * Input: Data de inicio do período de pesquisa <br/><br/> * Plano: Inserir a data de inicio da pesquisa usando o calendário | 
+| 4. Fim do Período Analisado | * Input:  Data de fim do período de pesquisa<br/><br/> * Plano: Inserir a data de fim da pesquisa usando o calendário| 
+| 5. Tipo de Peticionamento | * Input: Tipo de peticionamento a ser acessado <br/><br/> * Plano: Escolher o tipo de peticionamento atraves da listagem |
+| 6. Pesquisar | * Feedback: Lista de recibos encontrados de acordo com a busca<br/> |
+| 7. Recibos Eletrônicos de Protocolo | * Input: Recibo Eletrônicos de Protocolo escolhido <br/> |
+
 
 ### Referências
 
 [[1]](https://silo.tips/download/analise-e-modelagem-de-tarefas) Introdução à Interação Humano-Computador Análise de Tarefas Professora: Raquel Oliveira Prates
 
+[[2]]() Simone Barbosa, Bruno Silva. Interação Humano-Computador, Capítulo 6. Elsevier, 1ª edição
 
 ## Históricos de versões
 
@@ -69,3 +78,4 @@ O grupo pretende retirar esses obejtos que geram dubiedade de uso e deixar expos
 | :--------: | :----: | :-------------------------------: | :--------------------------: |
 | 10/09/2020 |  0.1   | Criação do boilerplate do arquivo | Hugo Sobral e Leonardo Gomes |
 | 26/09/2020 |  1.0   | Adição do conteudo do documento   | João Lucas Zarbiélli         |
+| 04/10/2020 |  2.0   | Refatoramento do documento        | João Lucas Zarbiélli         |
