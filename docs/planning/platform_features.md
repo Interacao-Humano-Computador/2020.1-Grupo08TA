@@ -4,10 +4,13 @@
 
 A fim de facilitar e clarificar os processos do projeto, um documento que descreva as características da plataforma foi visto como necessário. Dessa maneira, neste documento serão apresentados os objetivos da plataforma [_SEI!_](https://sei.df.gov.br/sip/login.php?sigla_orgao_sistema=GDF&sigla_sistema=SEI). Também serão destacadas as principais funcionalidades e suas telas.
 
+---
+
 ### Objetivos da plataforma
 
-O SEI foi escolhido como a solução de processo eletrônico no âmbito do projeto Processo Eletrônico Nacional (PEN) – iniciativa conjunta de órgãos e entidades de diversas esferas da administração pública, com o intuito de construir uma infraestrutura pública de processos e documentos administrativos eletrônicos, e têm sido implantado em vários órgãos e entidades das mais variadas esferas administrativas [1]. Entretanto, no escopo deste documento, a análise se limitará às atividades do usuário unversitário da Universidade de Brasília.
+O SEI foi escolhido como a solução de processo eletrônico no âmbito do projeto Processo Eletrônico Nacional (PEN) – iniciativa conjunta de órgãos e entidades de diversas esferas da administração pública, com o intuito de construir uma infraestrutura pública de processos e documentos administrativos eletrônicos, e tem sido implantado em vários órgãos e entidades das mais variadas esferas administrativas. Entretanto, no escopo deste documento, a análise se limitará às atividades do usuário unversitário da Universidade de Brasília.
 
+---
 
 ### Funcionalidades da plataforma
 
@@ -43,6 +46,8 @@ Caso um documento não seja mais necessário, a **remoção** é possível e pod
 
 Por mais que a usuários experientes o processo possa ser natural, a variedade de botões pode acabar confundindo usuários mais novos.
 
+---
+
 ### Referencias
 
 [1] O que é o SEI? - Disponível em: <http://portalsei.df.gov.br/category/sobre-o-sei/o-que-e-o-sei/>. Acesso em: 01 out. 2020.
@@ -54,3 +59,4 @@ Por mais que a usuários experientes o processo possa ser natural, a variedade d
 | :--------: | :----: | :-------------------------------: | :--------------------------: |
 | 10/09/2020 |  0.1   | Criação do boilerplate do arquivo | Hugo Sobral e Leonardo Gomes |
 | 01/10/2020 |  1.0   | Versão inicial do documento de características | Victor Silva           |
+| 04/10/2020 | 1.1    | Correção ortográfica e estrutural | Hugo Sobral                  |
