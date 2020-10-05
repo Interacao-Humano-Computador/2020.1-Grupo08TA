@@ -52,6 +52,7 @@ Por mais que a usuários experientes o processo possa ser natural, a variedade d
 
 [1] O que é o SEI? - Disponível em: <http://portalsei.df.gov.br/category/sobre-o-sei/o-que-e-o-sei/>. Acesso em: 01 out. 2020.
 
+---
 
 ## Históricos de versões
 
