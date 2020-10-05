@@ -1,6 +1,6 @@
 # Análise de tarefas
 
-##  Conceito 
+##  Conceito e HTA
 Uma análise de tarefas é utilizada para se ter um entendimento sobre qual é o trabalho dos usuários, como eles o realizam e por quê. Nesse tipo de análise, o trabalho é definido em termos dos objetivos que os usuários querem ou precisam atingir.
 
 Segundo Diaper (2003), a análise de tarefas é “a expressão utilizada no campo da
@@ -21,6 +21,8 @@ diferente.
 Com isso em mente usaremos o método HTA – Hierarchical Task Analysis, que busca entender as competências e habilidades exibidas em tarefas complexas e não repetitivas, bem como para auxiliar na identificação de problemas de desempenho.
 
 Ele ajuda a relacionar o que as pessoas fazem (ou se recomenda que façam), por que o fazem, e quais as consequências caso não o façam corretamente
+
+---
 
 ## Análise
 
@@ -65,12 +67,16 @@ Ele ajuda a relacionar o que as pessoas fazem (ou se recomenda que façam), por 
 | 6. Pesquisar | * Feedback: Lista de recibos encontrados de acordo com a busca<br/> |
 | 7. Recibos Eletrônicos de Protocolo | * Input: Recibo Eletrônicos de Protocolo escolhido <br/> |
 
+---
 
 ### Referências
 
 [[1]](https://silo.tips/download/analise-e-modelagem-de-tarefas) Introdução à Interação Humano-Computador Análise de Tarefas Professora: Raquel Oliveira Prates
 
 [[2]]() Simone Barbosa, Bruno Silva. Interação Humano-Computador, Capítulo 6. Elsevier, 1ª edição
+
+
+---
 
 ## Históricos de versões
 
@@ -79,3 +85,4 @@ Ele ajuda a relacionar o que as pessoas fazem (ou se recomenda que façam), por 
 | 10/09/2020 |  0.1   | Criação do boilerplate do arquivo | Hugo Sobral e Leonardo Gomes |
 | 26/09/2020 |  1.0   | Adição do conteudo do documento   | João Lucas Zarbiélli         |
 | 04/10/2020 |  2.0   | Refatoramento do documento        | João Lucas Zarbiélli         |
+| 04/10/2020 |  2.1   | Melhorias na estrutura do do      | Hugo Sobral                  |
