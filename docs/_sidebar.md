@@ -15,12 +15,11 @@
 - **Estilização**
   - [Guia de estilo](./styling/style_guide.md)
   - [Acessibilidade](./styling/accessibility.md)
-- **Apresentações**
-  - **Ponto de Controle 1**
-    - [1º Reunião com professor](./meeting/PC1/professor_meeting_1.md)
-    - [1ª Apresentação](./meeting/PC1/pc1_presentation.md)
-  - **Ponto de Controle 2**
-    - [2ª Apresentação](./meeting/PC2/pc2_presentation.md)
+- **Ponto de Controle 1**
+  - [1º Reunião com professor](./meeting/PC1/professor_meeting_1.md)
+  - [1ª Apresentação](./meeting/PC1/pc1_presentation.md)
+- **Ponto de Controle 2**
+  - [2ª Apresentação](./meeting/PC2/pc2_presentation.md)
 - **Sprints**
   - [Sprint 0](./meeting/PC1/sprint_0.md)
   - [Sprint 1](./meeting/PC1/sprint_1.md)
