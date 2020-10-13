@@ -30,3 +30,7 @@ p {
   display: flex;
   width: 100%;
 }
+
+.column_image {
+  height: 30px;
+}
