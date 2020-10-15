@@ -20,11 +20,15 @@
   - [1ª Apresentação](./meeting/PC1/pc1_presentation.md)
 - **Ponto de Controle 2**
   - [2ª Apresentação](./meeting/PC2/pc2_presentation.md)
+- **Ponto de Controle 3**
+  - [3ª Apresentação](./meeting/PC3/pc3_presentation.md)
 - **Sprints**
   - [Sprint 0](./meeting/PC1/sprint_0.md)
   - [Sprint 1](./meeting/PC1/sprint_1.md)
   - [Sprint 2](./meeting/PC2/sprint_2.md)
   - [Sprint 3](./meeting/PC2/sprint_3.md)
+  - [Sprint 4](./meeting/PC3/sprint_4.md)
+  - [Sprint 5](./meeting/PC3/sprint_5.md)
 - **Links**
   - [Github](https://github.com/Interacao-Humano-Computador/2020.1-SEI)
   - [SEI](https://sei.df.gov.br/sip/login.php?sigla_orgao_sistema=GDF&sigla_sistema=SEI)

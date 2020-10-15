@@ -28,9 +28,9 @@ Ponto de controle com foco em identificar nosso usuário, fazer a análise de ta
 | :---------------------------- | --------------- | ------------- |
 | Perfil do Usuário             | 25/09/2020      | 01/10/2020    |
 | Personas                      | 25/09/2020      | 01/10/2020    |
-| Análise de tarefas do usuário | 30/09/2020      |               |
+| Análise de tarefas do usuário | 30/09/2020      | 05/10/2020    |
 | Guia de estilo                | 02/10/2020      | 23/09/2020    |
-| StoryBoarding (História)      | 02/10/2020      |               |
+| StoryBoarding (História)      | 02/10/2020      | 10/10/2020    |
 | Acessibilidade                | 02/10/2020      |               |
 
 ### 3º Ponto de Controle - 30/10
@@ -39,7 +39,7 @@ Ponto de controle focado em finalizar analise de tarefas, entender o processo de
 
 | Tarefa                     | Data da entrega | Data entregue |
 | :------------------------- | --------------- | ------------- |
-| StoryBoarding (Desenho)    | 09/10/2020      |               |
+| StoryBoarding (Desenho)    | 09/10/2020      | 10/10/2020    |
 | Reanalise de tarefas       | 09/10/2020      |               |
 | Acessibilidade             | 09/10/2020      |               |
 | Protótipo de papel         | 16/10/2020      |               |
@@ -112,3 +112,4 @@ Figura 1: Ciclo de Vida de Usabilidade de Mayhew (BARBOSA, Simone; SILVA, Bruno.
 | 16/09/2020 |  1.1   |                      Adição das referências                      | Leonardo Gomes e Hugo Sobral |
 | 17/09/2020 |  1.2   |                       Correção ortográfica                       | Hugo Sobral e Leonardo Gomes |
 | 02/10/2020 |  1.3   | Melhoria no tópico do processo de design e atualização das datas |         Hugo Sobral          |
+| 15/10/2020 |  1.3   |                Atualização nas datas de entregas                 |         Hugo Sobral          |
