@@ -1,6 +1,7 @@
 # Sprint 2
 
 Data: 26 de setembro de 2020
+
 Horário: 15h05min às 15h50min
 
 | Nome           | Presença | Justificada | Ausência |
