@@ -10,7 +10,7 @@ O presente documento se responsabiliza por armazenar o termo de consentimento pr
 
 ## Documento
 
-<embed src="./assets/termo_de_consentimento_HTA.pdf" width="800px" height="500px" />
+<embed src="./assets/termo_de_consentimento_storyboard.pdf" width="800px" height="500px" />
 Figura 1: Termo de consentimento do grupo SEI
 
 ---
@@ -23,6 +23,6 @@ Figura 1: Termo de consentimento do grupo SEI
 
 ## Históricos de versões
 
-|    Data    | Versão |                  Descrição                   |          Autor(es)           |
-| :--------: | :----: | :------------------------------------------: | :--------------------------: |
-| 22/10/2020 |  1.0   | Criação do arquivo de termo de consentimento | Hugo Sobral e Leonardo Gomes |
+|    Data    | Versão |                  Descrição                   |  Autor(es)  |
+| :--------: | :----: | :------------------------------------------: | :---------: |
+| 28/10/2020 |  1.0   | Criação do arquivo de termo de consentimento | Hugo Sobral |

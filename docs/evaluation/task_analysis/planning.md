@@ -6,7 +6,9 @@ Em etapas prévias do projeto, um documento acerca da análise de tarefas foi el
 
 Para poder mensurar o andamento do projeto, assim como seu valor qualitativo, é preciso encontrar algum formato de avaliação.
 
-## O presente documento se propõe a construir o planejamento da avaliação da análise de tarefas. Aqui constam todas as informações necessárias para o entendimento do funcionamento da avaliação.
+#### O presente documento se propõe a construir o planejamento da avaliação da análise de tarefas. Aqui constam todas as informações necessárias para o entendimento do funcionamento da avaliação.
+
+---
 
 ## Metodologia
 
@@ -14,7 +16,9 @@ O formato escolhido pelo time de desenvolvimento foi **a entrevista**. As entrev
 
 As entrevistas serão realizadas de maneira remota devido às dificuldades enfrentadas em 2020. A entrevista será composta por 1 ou 2 entrevistadores e 1 pessoa entrevistada.
 
-## As entrevistas foram planejadas para não durar mais que meia hora e apresentar um tempo médio de 15 minutos.
+#### As entrevistas foram planejadas para não durar mais que meia hora e apresentar um tempo médio de 15 minutos.
+
+---
 
 ## Preparação
 
