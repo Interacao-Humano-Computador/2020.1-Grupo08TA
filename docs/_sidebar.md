@@ -12,6 +12,12 @@
   - [Avaliação heurísitca](./evaluation/heuristic_evaluation.md)
   - [Metas de usabilidade](./evaluation/usability_goals.md)
   - [Princípios gerais do projeto](./evaluation/project_general_principles.md)
+  - **Avaliação da Análise de Tarefas**
+    - [Planejamento da avaliação](./evaluation/task_analysis/planning.md)
+    - [Termo de consentimento](./evaluation/task_analysis/consent_form.md)
+  - **Avaliação do Storyboard**
+    - [Planejamento da avaliação](./evaluation/storyboard/planning.md)
+    - [Termo de consentimento](./evaluation/storyboard/consent_form.md)
 - **Estilização**
   - [Guia de estilo](./styling/style_guide.md)
   - [Acessibilidade](./styling/accessibility.md)
