@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Notou-se a necessidade de um documento que expresse as tarefas desejadas no processo de redesign da interface. A análise das tarefas, neste contexto, foi elaborada a fim de fornecer suporte ao processo de síntese de protótipos que satisfaçam os critérios de usabilidade. As análises de tarefas aqui contidas estão expressas através do método _HTA_ (_Hierarchical Task Analysis_).
+Notou-se a necessidade de um documento que expresse as tarefas desejadas no processo de redesign da interface. A construção das tarefas, neste contexto, foi elaborada a fim de fornecer suporte ao processo de síntese de protótipos que satisfaçam os critérios de usabilidade. As tarefas aqui contidas estão expressas através do método _HTA_ (_Hierarchical Task Analysis_).
 
 ## Padrões de diagramação
 
