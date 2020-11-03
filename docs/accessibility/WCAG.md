@@ -55,6 +55,8 @@ Fazendo uso da ferramenta Accessibility Insights for Web que é uma extensão pa
 <img  src="../assets/images/3.PNG" width="800px" height="500px" />
 <img  src="../assets/images/4.PNG" width="800px" height="500px" />
 
+Através da análise feita pela Accessibility Insights podemos ver que o site possui alguns problemas de implementação que atrapalham a acessibilidade, principalmente para pessoas portadoras de deficiencia visual, uma vez que a navegação para esses usuários é feita através das labels do HTML e várias páginas não possuem labels em suas tags HTML.
+
 
 ## Referências
 
