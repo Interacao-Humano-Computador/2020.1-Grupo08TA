@@ -15,6 +15,7 @@
   - **Avaliação da Análise de Tarefas**
     - [Planejamento da avaliação](./evaluation/task_analysis/planning.md)
     - [Termo de consentimento](./evaluation/task_analysis/consent_form.md)
+    - [Entrevistas](./evaluation/task_analysis/interviews.md)
   - **Avaliação do Storyboard**
     - [Planejamento da avaliação](./evaluation/storyboard/planning.md)
     - [Termo de consentimento](./evaluation/storyboard/consent_form.md)
