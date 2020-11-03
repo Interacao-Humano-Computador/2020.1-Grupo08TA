@@ -2,14 +2,14 @@
 
 ## Acessibilidade no contexto da Interação Humano Compuatdor
 
-Antes de falarmos sobre acessibilidade vale a pena discutirmo sobre o que é acessibilidade. Usando a definição do [Dicionário Michaelis](http://michaelis.uol.com.br/busca?r=0&f=0&t=0&palavra=acessibilidade) temos:
+Antes de falarmos sobre acessibilidade vale a pena discutirmos sobre o que é acessibilidade. Usando a definição do [Dicionário Michaelis](http://michaelis.uol.com.br/busca?r=0&f=0&t=0&palavra=acessibilidade) temos:
 
     a·ces·si·bi·li·da·de
     sf
     1. Facilidade de acesso; qualidade do que é acessível.
     2. Facilidade de aproximação, de procedimento ou de obtenção.
 
-Partindo dessa definição vale definir o que é acessível. Tambem pelo [Dicionário Michaelis](http://michaelis.uol.com.br/busca?r=0&f=0&t=0&palavra=acess%C3%ADvel) temos:
+Partindo dessa definição vale definir o que é acessível. Também pelo [Dicionário Michaelis](http://michaelis.uol.com.br/busca?r=0&f=0&t=0&palavra=acess%C3%ADvel) temos:
 
     a·ces·sí·vel
     adj m+f
