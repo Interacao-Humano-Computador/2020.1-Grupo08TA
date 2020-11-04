@@ -22,7 +22,7 @@
   - [WCAG](./accessibility/WCAG.md)
 - **Estilização**
   - [Guia de estilo](./styling/style_guide.md)
-  - [Acessibilidade](./styling/accessibility.md)
+  - [Acessibilidade](./accessibility/accessibility.md)
 - **Artefatos de redesign**
   - [Construção de tarefas](./redesign_artefacts/task_construction.md)
 - **Ponto de Controle 1**
