@@ -10,9 +10,9 @@ Este documento, apresentará dados coletados de um formulário com o intuito de 
 
 ## Formulário
 
-Inicialmente a ideia do grupo era fazermos entrevistas para validar os storyboards assim como feito para a análise de tarefas, porém percebemos que a análise de tarefas e os storyboards necessitam abordagens de validação diferentes uma vez que um deles valida fluxo de funcionamento interno, análise de tarefas, enquanto o outro representa de forma fictícia a interação do usuário com a plataforma, storyboard. Tendo isso em mente foi decidido que um formulário de validação dos storyboards faria mais sentido, uma vez que ele não valida fluxo de utilização do usuário dentro do sistema.
+Inicialmente a ideia do grupo era fazermos entrevistas para validar o storyboard assim como feito para a análise de tarefas, porém percebemos que a análise de tarefas e o storyboard necessitam abordagens de validação diferentes uma vez que um deles valida fluxo de funcionamento interno, análise de tarefas, enquanto o outro representa de forma fictícia a interação do usuário com a plataforma, storyboard. Tendo isso em mente foi decidido que um formulário de validação do storyboard faria mais sentido, uma vez que ele não valida fluxo de utilização do usuário dentro do sistema.
 
-O formulário é composto por 11 perguntas que começam com 3 perguntas de identificação da pessoa que está respondendo o formulário e continua avaliando se ouve utilização ou não do SEI, o formulário se encerra caso o voluntário não tenha utilizado o SEI. Mais ao fim do formulário é avaliado a verossimilidade entre os storyboards e a experiência de uso do avaliador, assim como é oferecido um espaço para propor melhorias no storyboard existente.
+O formulário é composto por 11 perguntas que começam com 3 perguntas de identificação da pessoa que está respondendo o formulário e continua avaliando se ouve utilização ou não do SEI, o formulário se encerra caso o voluntário não tenha utilizado o SEI. Mais ao fim do formulário é avaliado a verossimilidade entre o storyboard e a experiência de uso do avaliador, assim como é oferecido um espaço para propor melhorias no storyboard existente.
 
 É importante lembrar que todos os voluntários que responderam o formulário foram informados da utilização de suas respostas, assim como alguns dados pessoais para compor essa avaliação. Todos os detalhes foram apresentados através do [termo de consentimento](./consent_form.md).
 
@@ -42,7 +42,7 @@ Figura 2: O storyboard condiz com a realidadde.
 ![credible](../../assets/images/storyboard/credible.png)
 Figura 2: Verossimilidade do storyboard.
 
-O ponto chave dessas duas perguntas está em validar o quão real o storyboartd aborda dois aspectos diferentes, o contexto de utilização e a utilização em si. A primeira pergunta valida o contexto enquanto a segunda a utilização. Podemos ver pelos resultados que ambos possuem uma boa validação por parte dos voluntários ( 88,3% e 66,7% respectivamente ) e que a representação de contexto foi mais bem elaborada do que a de utilização, possuindo um voto 5 a mais do que a de utilização.
+O ponto chave dessas duas perguntas está em validar o quão real o storyboard aborda dois aspectos diferentes, o contexto de utilização e a utilização em si, respectivamente. Podemos ver pelos resultados que ambos possuem uma boa validação por parte dos voluntários (83,3% e 66,7%, respectivamente) e que a representação de contexto foi mais bem elaborada do que a de utilização, possuindo um voto a mais.
 
 ![similar_situation](../../assets/images/storyboard/similar_situation.png)
 Figura 2: Porcentagem de participantes que passaram por situações parecidas ao apresentados no storyboard.
@@ -53,11 +53,13 @@ Figura 2: Propostas de melhorias dos voluntários.
 ![comments](../../assets/images/storyboard/comments.png)
 Figura 2: Comentários dos voluntários.
 
-A partir dos dados apresentados, se observa que 83,3% dos participantes já passaram por situações parecidas apresentadas no storyboard, o que nos confirma a tentativa positiva do storyboard ser o espelho da realidade dos estudantes. Com isso, podemos dizer que as propostas de melhorias dos voluntários seriam o ideal, entretando para a surpresa da equipe, não foram apontados nenhum ponto de melhoria, o que nos traz um retorno agradável sobre o material produzido, ainda mais com os comentários positivos feitos pelos voluntários.
+A partir dos dados apresentados, se observa que 83,3% dos participantes já passaram por situações parecidas apresentadas no storyboard, o que nos confirma a tentativa positiva do storyboard ser o espelho da realidade dos estudantes. Com isso, podemos dizer que as propostas de melhorias dos voluntários seriam o ideal, entretando para a surpresa da equipe não foram apontados nenhum ponto de melhoria, o que nos traz um retorno agradável sobre o storyboard produzido, ainda mais com os comentários positivos feitos pelos mesmos.
 
 ---
 
 ## Conclusão
+
+Dessa forma podemos observar que o storyboard possui uma boa similaridade com a realidade e portanto o valida como documento útil para o projeto eximindo assim a necessidade de reelaboração do mesmo. A partir disso podemos concluir que nossa persona, Maria Antonieta e o cenário apresentado no storyboard, representa com fidelidade a situação dos estudantes da Universidade de Brasília (UnB), principalmente nesse período de aulas EAD uma vez que tarefas como a retirada de matérias que poderia ser feito pessoalmente estão sendo feitas através do SEI.
 
 ---
 

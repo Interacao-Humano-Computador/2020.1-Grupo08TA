@@ -41,7 +41,7 @@ Foram elaboradas 11 perguntas para a avaliação do storyboard, estas são:
 | 3      | Qual curso você está fazendo?                                                       |
 | 4      | Você já utilizou o SEI para alguma finalidade no contexto da UnB?                   |
 | 5      | Se sim, qual foi o propósito                                                        |
-| 6      | Você achou a história criada condinzente com a realidade?                           |
+| 6      | Você achou a história criada condizente com a realidade?                            |
 | 7      | Você acredita que o Storyboard retratou de maneira verossímil a utilização do SEI?  |
 | 8      | Você já passou por alguma situação parecida com a situação retratada no storyboard? |
 | 9      | Você tem alguma melhoria a propor para a história criada?                           |
