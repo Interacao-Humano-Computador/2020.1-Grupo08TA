@@ -18,9 +18,11 @@
   - **Avaliação do Storyboard**
     - [Planejamento da avaliação](./evaluation/storyboard/planning.md)
     - [Termo de consentimento](./evaluation/storyboard/consent_form.md)
+- **Acessibilidade**
+  - [WCAG](./accessibility/WCAG.md)
 - **Estilização**
   - [Guia de estilo](./styling/style_guide.md)
-  - [Acessibilidade](./styling/accessibility.md)
+  - [Acessibilidade](./accessibility/accessibility.md)
 - **Artefatos de redesign**
   - [Construção de tarefas](./redesign_artefacts/task_construction.md)
 - **Ponto de Controle 1**
