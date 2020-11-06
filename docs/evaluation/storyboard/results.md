@@ -2,19 +2,19 @@
 
 ## Introdução
 
-Neste documento reuniremos as pesquisas feitas para avaliar nosso storyboard para deixá-lo o mais fiel a realidade do [perfil de usuário](../../use_context/user_profiles.md) definido no projeto. Nesse documento, estará escrito os detalhes sobre a conclusão tomada pela equipe a partir da pesquisa e possíveis refatorões que serão feitas no [storyboard](../../use_context/storyboards.md).
+Neste documento reuniremos as pesquisas feitas para avaliar nosso storyboard para deixá-lo o mais fiel à realidade do [perfil de usuário](../../use_context/user_profiles.md) definido no projeto. Nesse documento, estará escrito os detalhes sobre a conclusão tomada pela equipe a partir da pesquisa e possíveis refatorações que serão feitas no [storyboard](../../use_context/storyboards.md).
 
-Este documento, apresentará dados coletados de um formulário com o intuito de mensurar a qualidade do storyboard. O formulário foi feito pelo [google forms](https://docs.google.com/forms/u/0/) e as perguntas contidas neles podem ser vistas no documento de [planejamento](../planning.md) da avaliação do storyboard.
+Este documento, apresentará dados coletados de um formulário com o intuito de mensurar a qualidade do storyboard. O formulário foi feito pelo [google forms](https://docs.google.com/forms/u/0/) e as perguntas contidas neles podem ser vistas no documento de [planejamento](./evaluation/storyboard/planning) da avaliação do storyboard.
 
 ---
 
 ## Formulário
 
-Inicialmente a ideia do grupo era fazermos entrevistas para validar o storyboard assim como feito para a análise de tarefas, porém percebemos que a análise de tarefas e o storyboard necessitam abordagens de validação diferentes uma vez que um deles valida fluxo de funcionamento interno, análise de tarefas, enquanto o outro representa de forma fictícia a interação do usuário com a plataforma, storyboard. Tendo isso em mente foi decidido que um formulário de validação do storyboard faria mais sentido, uma vez que ele não valida fluxo de utilização do usuário dentro do sistema.
+Inicialmente seria feito entrevistas para validar o storyboard, assim como feito para a análise de tarefas, porém foi notado que o storyboard necessita de uma abordagem de validação diferente uma vez que o mesmo representa de forma fictícia a interação do usuário com a plataforma, enquanto a análise de tarefas valida fluxo de funcionamento interno. Tendo isso em mente foi decidido que um formulário de validação do storyboard faria mais sentido, uma vez que ele não valida fluxo de utilização do usuário dentro do sistema.
 
-O formulário é composto por 11 perguntas que começam com 3 perguntas de identificação da pessoa que está respondendo o formulário e continua avaliando se ouve utilização ou não do SEI, o formulário se encerra caso o voluntário não tenha utilizado o SEI. Mais ao fim do formulário é avaliado a verossimilidade entre o storyboard e a experiência de uso do avaliador, assim como é oferecido um espaço para propor melhorias no storyboard existente.
+O formulário é composto por 11 perguntas que começam com 3 perguntas de identificação da pessoa que está respondendo o formulário e continua avaliando se houve utilização ou não do SEI, o formulário se encerra caso o voluntário não tenha utilizado o SEI. Mais ao fim do formulário é avaliado a verossimilidade entre o storyboard e a experiência de uso do avaliador, assim como é oferecido um espaço para propor melhorias no storyboard existente.
 
-É importante lembrar que todos os voluntários que responderam o formulário foram informados da utilização de suas respostas, assim como alguns dados pessoais para compor essa avaliação. Todos os detalhes foram apresentados através do [termo de consentimento](./consent_form.md).
+É importante lembrar que todos os voluntários que responderam o formulário foram informados da utilização de suas respostas, assim como alguns dados pessoais para compor essa avaliação. Todos os detalhes foram apresentados através do [termo de consentimento](./evaluation/task_analysis/consent_form).
 
 ### Dados demográficos
 
@@ -34,7 +34,7 @@ Figura 2: Quantos voluntários já utilizaram o SEI.
 ![purpose](../../assets/images/storyboard/purpose.png)
 Figura 2: Para qual propósito os voluntários utilizaram o SEI.
 
-Para a avaliação ter resultados validos para a pesquisa, é verificado o embasamento que cada voluntário carrega sobre a plataforma. Desta forma, pode ser observado, que 75% dos voluntários utilizaram o SEI em diferentes perspectivas, trazendo diferentes situações de uso da plataforma. Esse dado se comporta positivamente para a pesquisa, já que diferentes visões da plataforma acarretam e multiplas melhorias em diferentes pontos.
+Para a avaliação ter resultados válidos para a pesquisa, é verificado o embasamento que cada voluntário carrega sobre a plataforma. Desta forma, pode ser observado que 75% dos voluntários utilizaram o SEI em diferentes perspectivas, trazendo diferentes situações de uso da plataforma. Esse dado se comporta positivamente para a pesquisa, já que diferentes visões da plataforma acarretam e múltiplas melhorias em diferentes pontos.
 
 ![consistent](../../assets/images/storyboard/consistent.png)
 Figura 2: O storyboard condiz com a realidadde.
@@ -53,7 +53,7 @@ Figura 2: Propostas de melhorias dos voluntários.
 ![comments](../../assets/images/storyboard/comments.png)
 Figura 2: Comentários dos voluntários.
 
-A partir dos dados apresentados, se observa que 83,3% dos participantes já passaram por situações parecidas apresentadas no storyboard, o que nos confirma a tentativa positiva do storyboard ser o espelho da realidade dos estudantes. Com isso, podemos dizer que as propostas de melhorias dos voluntários seriam o ideal, entretando para a surpresa da equipe não foram apontados nenhum ponto de melhoria, o que nos traz um retorno agradável sobre o storyboard produzido, ainda mais com os comentários positivos feitos pelos mesmos.
+A partir dos dados apresentados, observa-se que 83,3% dos participantes já passaram por situações parecidas apresentadas no storyboard, o que nos confirma a tentativa positiva do storyboard ser o espelho da realidade dos estudantes. Com isso, podemos dizer que as propostas de melhorias dos voluntários seriam o ideal, entretando para a surpresa da equipe não foram apontados nenhum ponto de melhoria, o que nos traz um retorno agradável sobre o storyboard produzido, ainda mais com os comentários positivos feitos pelos mesmos.
 
 ---
 
@@ -69,8 +69,9 @@ Dessa forma podemos observar que o storyboard possui uma boa similaridade com a 
 
 ---
 
-## Históricos de versões
+## Histórico de versões
 
 |    Data    | Versão |                          Descrição                          |            Autor(es)            |
 | :--------: | :----: | :---------------------------------------------------------: | :-----------------------------: |
-| 28/10/2020 |  0.1   | Criação da introdução do documento de resulto do storyboard | Leonardo Gomes e João Zarbielli |
+| 04/11/2020 |  0.1   | Criação da introdução do documento de resulto do storyboard | Leonardo Gomes e João Zarbielli |
+| 05/11/2020 |  1.0   |                    Revisão do documento                     |  Leonardo Gomes e Victor Jorge  |
