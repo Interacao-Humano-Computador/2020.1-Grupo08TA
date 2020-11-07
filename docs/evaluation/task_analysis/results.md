@@ -26,7 +26,7 @@ A primeira entrevista dura cerca de 11 minutos e é feita com Micaella, que é e
  
 [2:00] Para acessar o site do SEI, Micaella pesquisa no google por "sei unb" e acessa o [portalsei.unb.br](https://www.portalsei.unb.br).
  
-[2:25] Para realizar o login, Micaella acessa a aba _Usuário externo e aluno_ do portalsei e é redirecionada para o [sei.unb.br](https://www.sei.unb.br), ela informa o email e a senha, realizando o login com sucesso.
+[2:25] Para realizar o login, Micaella acessa a aba _Usuário externo e aluno_ do portalsei e é redirecionada para o [sei.unb.br](https://sei.unb.br/sei/controlador_externo.php?acao=usuario_externo_logar&acao_origem=usuario_externo_logar&id_orgao_acesso_externo=0), ela informa o email e a senha, realizando o login com sucesso.
  
 #### **Fluxo de novo peticionamento**
  
@@ -36,31 +36,31 @@ A primeira entrevista dura cerca de 11 minutos e é feita com Micaella, que é e
  
 [3:46] Na identificação dos documentos necessários para a criação de uma novo processo, Micaella localiza rapidamente os documentos necessários para a criação de um novo processo na descrição do envio com a legenda _Documento principal_.
  
-[4:33] Para conclusão do 1º fluxo que Micaella enfrentou, ele disse que foi tranquilo a tarefa, que "olhando direitinho" você pode encontrar o que precisa. Além disso, Micaella esclareceu uma de suas frustrações com o site, disse "o que mais eu tive dificuldade quando eu entrei pela primeira vez foi para fazer o cadastro", disse também que o supervisor do estágio não conseguiu fazer o cadastro, e lamentou que o processo teve que ser feito com a ajuda do coordenador do curso perante a dificuldade com o cadastro do site.
+[4:33] Para o 1º fluxo, Micaella comentou que foi tranquilo a tarefa, que "olhando direitinho" você pode encontrar o que precisa. Micaella esclareceu uma de suas frustrações com o site, disse "o que mais eu tive dificuldade quando eu entrei pela primeira vez foi para fazer o cadastro". Assim como ela, o supervisor do estágio da Micaella não conseguiu fazer o cadastro, e ela lamentou que o processo teve que ser feito com a ajuda do coordenador.
  
-[5:20] O entrevistador pede para retornar para a tela principal. A primeira atitude de Micaella é clicar com convicção na logo do SEI, mas nada acontece. Micaella segue a procura de onde ela poderia voltar para a tela de início, ela localiza na _topbar_ o botão _Menu_, mas ao clicar se vê frustrada ao perceber que não ocorreu o que ela esperada, o botão apenas ocultar a _sidebar_. Por fim, Micaella clica em _Controle de acessos externos_, que a leva para a página de início.
+[5:20] O entrevistador pede para retornar para a tela principal. A primeira atitude de Micaella é clicar com convicção na logo do SEI, mas nada acontece. Micaella clica no botão de _Menu_ que está posicionado na parte esquerda da _topbar_, mas o botão não a leva para a tela inicial. Por fim, Micaella clica em _Controle de acessos externos_, que a leva para a página de início.
  
 #### **Fluxo de peticionamento intercorrente**
  
 [6:08] Para acessar a aba de peticionamento em andamento, Micaella acha com facilidade a aba pedida clicando em _Peticionamento > Intercorrente_, que se encontra na _sidebar_.
  
-[6:30] Micaella diz que é claro a forma de pesquisar e filtrar os peticionamentos em andamento. Entretanto complementa falando que poderia ficar melhor se colocassem _Número do peticionamento_ no lugar de _Número_ e _Tipo de peticionamento_ no lugar de _Tipo_.
+[6:30] Micaella diz que é clara a forma de pesquisar e filtrar os peticionamentos em andamento. Entretanto, ela complementa falando que poderia ficar melhor se colocassem _Número do peticionamento_ no lugar de _Número_ e _Tipo de peticionamento_ no lugar de _Tipo_.
  
 #### **Fluxo de recibos eletrônicos**
  
-[7:18] Para acessar a aba de recibos eletrônicos, Micaella acha com facilidades a aba pedida clicando em _Recibos Eletrônicos de Protocolo_, que se encontra na _sidebar_.
+[7:18] Para acessar a aba de recibos eletrônicos, Micaella acha com facilidade a aba pedida clicando em _Recibos Eletrônicos de Protocolo_, que se encontra na _sidebar_.
  
 [7:34] Micaella diz que não é claro os campos que aparecem na aba de recibos eletrônicos, complementa ressaltando que não sabe o que seria o início meio e fim, mas consegue encontrar uma solução para os filtros imaginando que seria o início e o fim do processo. Para o filtro do tipo de peticionamento, ela não questiona e já mostra familiaridade com o filtro.
  
 #### **Fluxo de perfil**
  
-[8:25] Micaella tenta encontrar seu perfil clicando no ícone de um boneco que se encontra na _topbar_, mas ao clicar ela não recebe resposta da plataforma. Após a primeira tentativa, Micaella acessa a aba _Alterar Senha_ e percebe que não era esse o caminho. Para essa funcionalidade Micaella precisou da ajuda do entrevistador para explicar o que estava ocorrendo e onde ela poderia encontrar suas informações.
+[8:25] Micaella tenta encontrar seu perfil clicando no ícone de um boneco que se encontra na _topbar_, mas ao clicar ela não recebe resposta da plataforma. Após a primeira tentativa, Micaella acessa a aba _Alterar Senha_ e percebe que não era esse o caminho. Para essa funcionalidade, Micaella precisou da ajuda do entrevistador para explicar o que estava ocorrendo e onde ela poderia encontrar suas informações.
  
 [9:18] Sobre o fluxo de perfil, Micaella se mostra decepcionada com as informações que o perfil apresenta e sugere uma página para esse fluxo para alguma possível alteração. Micaella complementa falando que o ícone é clicável, mas não retorna a funcionalidade que se propõem a exercer, assim ela se mostra desapontada pelo icone ser um _hover_ e não um botão.
  
 #### **Considerações finais**
  
-[10:18] Para esse momento final da entrevista o entrevistador deixa a Micaella fazer qualquer comentário que ela ache necessário. Ela diz que chegar nas abas pedidas foi intuitivo, mas deveria haver melhoria no conteúdo que está dentro de cada página.
+[10:18] Para esse momento final da entrevista, o entrevistador deixa a Micaella fazer qualquer comentário que ela ache necessário. Ela diz que chegar nas abas pedidas foi intuitivo, mas deveria haver melhoria no conteúdo que está dentro de cada página.
  
 [10:43] Para finalizar é pedido que Micaella execute o _logout_ no sistema, ela encontra com facilidade o botão na _topbar_ e brinca dizendo "esse botão funciona" ironizando com a funcionalidade de perfil que não exercia a mesma resposta.
 
@@ -74,7 +74,7 @@ A segunda entrevista dura cerca de 10 minutos e meio e é feita com Victor Alves
 
 [1:04] Victor utilizou o SEI para gestão de documentos quando estagiava na Defensoria Pública e utilizou no contexto acadêmico para assinar contrato de estágio.
 
-[1:57] Para acessar o SEI, Victor favoritava o link quando utilizava no estágio já que o uso era constante, mas para a UnB Victor ressalta que pesquisa "sei unb" em uma plataforma de pesquisa e encontra o [portalsei.unb.br](portalsei.unb.br), no qual clica na aba _Acesso externo e interno_.
+[1:57] Para acessar o SEI, Victor favoritava o link quando utilizava no estágio, já que o uso era constante, mas para a UnB Victor ressalta que pesquisa "sei unb" em uma plataforma de pesquisa e encontra o [portalsei.unb.br](https://www.portalsei.unb.br), no qual clica na aba _Acesso externo e interno_.
 
 [2:33] Para acessar o login, Victor informa seu email e sua senha, realizando o login com sucesso sem nenhuma dificuldade.
 
@@ -108,7 +108,7 @@ A segunda entrevista dura cerca de 10 minutos e meio e é feita com Victor Alves
 
 #### **Considerações finais**
 
-[8:47] Para as considerações finais, o entrevistador deixa um espaço livre para o Victor comentar o que quiser da plataforma. Victor afirma que a plataforma é bem feita em questão de design, mas justifica afirmando que a ideia do SEI é ser simples e que ele focado na agilidade de executar uma tarefa, concluindo que isso não seria um problema muito grande, entretanto completa que deveria melhorar na usabilidade. Afirma mais uma vez sobre o ícone de boneco ter a funcionalidade de clicar, mas não responder a ação, fala que o botão _Menu_ não é claro e que a logo do SEI deveria retornar para a página principal.
+[8:47] Victor afirma que a plataforma é simples como um ponto positivo, já que o SEI é focado na agilidade de executar uma tarefa, entretanto acha que a plataforma deveria ser melhorada na usabilidade. Ele afirma mais uma vez sobre o ícone de boneco na _topbar_ ter a funcionalidade de clicar, mas não responder a ação. Victor fala que o botão _Menu_ não é intuitivo e que a logo do SEI deveria retornar para a página principal.
 
 [10:15] Para finalizar é pedido que Victor execute o _logout_ no sistema, ele encontra com facilidade o botão na _topbar_.
 
@@ -116,23 +116,27 @@ A segunda entrevista dura cerca de 10 minutos e meio e é feita com Victor Alves
 
 <iframe width="800" height="500" src="https://www.youtube-nocookie.com/embed/qOydrFtNh2U" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-A terceira entrevista dura cerca de 11 minutos e é feita com a Thais Araujo, que é entrevistada pelo Leonardo Gomes. Thais tem 24 anos e está cursando engenharia de software na universidade de brasília.
+A terceira entrevista dura cerca de 11 minutos e é feita com a Thais Araujo, que é entrevistada pelo Leonardo Gomes. Thais tem 24 anos e está cursando Engenharia de Software e Universidade de Brasília.
 
 #### **Acesso a plataforma**
 
 [1:28] Thais usa o SEI para assinar termos e contratos.
 
-[1:44] Para acessar a plataforma, Thais pesquisa no google por "sei unb", entra no [portalsei.unb.br](https://www.portalsei.unb.br) e acessa a aba _Usuário externo e aluno_ do portalsei e é redirecionada para o [sei.unb.br](https://www.sei.unb.br), onde já efetua o login, é notável que o e-mail e senha da Thais, já estão gravados no login, o que facilita o acesso da mesma.
+[1:44] Para acessar a plataforma, Thais pesquisa no google por "sei unb", entra no [portalsei.unb.br](https://www.portalsei.unb.br), acessa a aba _Usuário externo e aluno_ do portalsei e é redirecionada para o [sei.unb.br](https://sei.unb.br/sei/controlador_externo.php?acao=usuario_externo_logar&acao_origem=usuario_externo_logar&id_orgao_acesso_externo=0), onde já efetua o login, é notável que o e-mail e senha da Thais já estão gravados no login, o que facilita o acesso da mesma.
 
 [2:43] Para esse fluxo, Thais comentou que não achou muito bom o acesso ao SEI pois existe outra plataforma que confunde os alunos, essa plataforma tem o mesmo nome e o mesmo layout da página de login, mas ao contrário do SEI avaliado nesse projeto, os alunos da UnB não tem acesso padrão a essa plataforma.
+
+[Plataforma avaliada na disciplina](https://sei.unb.br/sei/controlador_externo.php?acao=usuario_externo_logar&acao_origem=usuario_externo_logar&id_orgao_acesso_externo=0)
+
+[Plataforma com o mesmo layout](https://sei.unb.br)
 
 #### **Fluxo de novo peticionamento**
 
 [3:51] Thais seleciona a _aba de peticionamento_ no menu lateral esquerdo do site e logo após selecionar o submenu _Processo Novo_.
 
-[4:11] Na parte de selecionar um tipo de peticionamento, Thais passa alguns segundos tentando entender a página e pergunta se é clicando na lista de tipos de peticionamento existente na parte inferior do _layout_.Thais é redirecionada para uma página de _Peticionamento de Processo Novo_.
+[4:11] Na parte de selecionar um tipo de peticionamento, Thais passa alguns segundos tentando entender a página e pergunta se é clicando na lista de tipos de peticionamento existente na parte inferior do _layout_. Thais é redirecionada para uma página de _Peticionamento de Processo Novo_.
 
-[4:39] Thais analisa a página em busca dos documentos necessários para realizar o peticionamento. Após alguns segundos Thais seleciona o link do documento principal que está na sessão _Documentos_. Abre-se uma modal com um exemplo de documento e Thais questiona se esse é o documento correto. Thais entende que é o documento correto e fecha a modal.
+[4:39] Thais analisa a página em busca dos documentos necessários para realizar o peticionamento. Após alguns segundos, Thais seleciona o link do documento principal que está na sessão _Documentos_. Abre-se uma modal com um exemplo de documento e Thais questiona se esse é o documento correto. Thais entende que é o documento correto e fecha a modal.
 
 #### **Fluxo de peticionamento intercorrente**
 
@@ -146,7 +150,7 @@ A terceira entrevista dura cerca de 11 minutos e é feita com a Thais Araujo, qu
 
 #### **Fluxo de recibos eletrônicos**
 
-[7:28] Thais acessa a _aba de recibos eletronicos_ localiza na _sidebar_ do site. Ela analisa os campos existentes na página e conclui o entendimento de cada um dos campos deixando claro que eles estão condizentes com o que foi esperado.
+[7:28] Thais acessa a _aba de recibos eletronicos_ localizada na _sidebar_ do site. Ela analisa os campos existentes na página e conclui o entendimento de cada um dos campos deixando claro que eles estão condizentes com o que foi esperado.
 
 #### **Fluxo de perfil**
 
@@ -162,24 +166,24 @@ A terceira entrevista dura cerca de 11 minutos e é feita com a Thais Araujo, qu
 
 ## Conclusão
 
-A partir da análise das entrevistas, conseguimos concluir que os fluxos documentados na análise de tarefa condizem com o fluxo feito por usuários do SEI ao utilizar a plataforma, desta forma, não há a necessidade de refatoração por parte da equipe avaliadora, reanalisar o as tarefas que o SEI apresenta atualmente.
+A partir da análises das entrevistas, conseguimos concluir que os fluxos documentados na análise de tarefa condizem com o fluxo feito por usuários do SEI ao utilizar a plataforma, desta forma, não há a necessidade de refatoração por parte da equipe avaliadora, reanalisar as tarefas que o SEI apresenta atualmente.
 
 ### Pontos importantes sobre os fluxos
 
-Para exemplificar os problemas que foram relatados pelos entrevistados, se faz necessário a utilização de um gráfico que reunas todas os pontos importantes que servirá de insumo para a equipe.
+Para exemplificar os problemas que foram relatados pelos entrevistados, se faz necessário a utilização de um gráfico que reuna todos os pontos importantes que servirá de insumo para a equipe.
 
-|                 Fluxo                 |                                                                     Problemas                                                                     |
-| :-----------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------: |
-|          Acesso a Plataforma          |                                                    - Duas páginas associadas ao SEI para a UnB                                                    |
-|     Fluxo de novo peticionamento      |                                                - Página confusa; - Pouca descrição na documentação                                                |
-| Fluxo de peticionamento intercorrente | - Filtros com nomes confusos; - Auxência da palavra "Pesquisar", já que peticionar não significa pesquisar; - Melhoria na apresentação da página; |
-|     Fluxo de recibos eletrônicos      |                                                       - Melhoria na apresentação da página;                                                       |
-|            Fluxo de perfil            |                     - Confusão com fluxo de _Alterar Senha_; - Botão de icone de boneco não clicável; - Perfil como _hover_;                      |
-|                Outros                 |                                         - Logo do SEI não retorna a home; - Botão menu oculta _sidebar_;                                          |
+|                 Fluxo                 |                                                                           Problemas                                                                            |
+| :-----------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|          Acesso a Plataforma          |                                                          - Duas páginas associadas ao SEI para a UnB                                                           |
+|     Fluxo de novo peticionamento      |                                                    - Página confusa;<br/>- Pouca descrição na documentação                                                     |
+| Fluxo de peticionamento intercorrente | - Filtros com nomes confusos;<br/>- Auxência da palavra "Pesquisar", já que peticionar não significa pesquisar;<br/>- Melhoria na apresentação da página;<br/> |
+|     Fluxo de recibos eletrônicos      |                                                             - Melhoria na apresentação da página;                                                              |
+|            Fluxo de perfil            |                        - Confusão com fluxo de _Alterar Senha_;<br/>- Botão de icone de boneco não clicável;<br/>- Perfil como _hover_;                        |
+|                Outros                 |                                              - Logo do SEI não retorna a home;<br/>- Botão menu oculta _sidebar_;                                              |
 
 ---
 
-## Históricos de versões
+## Histórico de versões
 
 |    Data    | Versão |             Descrição              |            Autor(es)            |
 | :--------: | :----: | :--------------------------------: | :-----------------------------: |
