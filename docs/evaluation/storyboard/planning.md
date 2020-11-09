@@ -50,7 +50,7 @@ Foram elaboradas 11 perguntas para a avaliação da análise de tarefas, estas s
 
 ---
 
-## Históricos de versões
+## Histórico de versões
 
 |    Data    | Versão |                    Descrição                    |  Autor(es)  |
 | :--------: | :----: | :---------------------------------------------: | :---------: |

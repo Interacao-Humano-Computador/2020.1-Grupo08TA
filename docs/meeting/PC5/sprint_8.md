@@ -48,7 +48,7 @@ Entregue pelo Hugo Sobral e pelo Leonardo Gomes, foi feita a construção do rot
 
 ---
 
-## Históricos de versões
+## Histórico de versões
 
 |    Data    | Versão |                    Descrição                     |  Autor(es)  |
 | :--------: | :----: | :----------------------------------------------: | :---------: |

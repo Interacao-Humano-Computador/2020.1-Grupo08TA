@@ -54,10 +54,10 @@ Por mais que a usuários experientes o processo possa ser natural, a variedade d
 
 ---
 
-## Históricos de versões
+## Histórico de versões
 
-|    Data    | Versão |             Descrição             |          Autor(es)           |
-| :--------: | :----: | :-------------------------------: | :--------------------------: |
-| 10/09/2020 |  0.1   | Criação do boilerplate do arquivo | Hugo Sobral e Leonardo Gomes |
-| 01/10/2020 |  1.0   | Versão inicial do documento de características | Victor Silva           |
-| 04/10/2020 | 1.1    | Correção ortográfica e estrutural | Hugo Sobral                  |
+|    Data    | Versão |                   Descrição                    |          Autor(es)           |
+| :--------: | :----: | :--------------------------------------------: | :--------------------------: |
+| 10/09/2020 |  0.1   |       Criação do boilerplate do arquivo        | Hugo Sobral e Leonardo Gomes |
+| 01/10/2020 |  1.0   | Versão inicial do documento de características |         Victor Silva         |
+| 04/10/2020 |  1.1   |       Correção ortográfica e estrutural        |         Hugo Sobral          |

@@ -15,7 +15,7 @@ Figura 1: apresentação em guia de acessibilidade
 
 ---
 
-## Históricos de Revisões
+## Histórico de versões
 
 |    Data    | Versão |                               Descrição                                |          Autor(es)           |
 | :--------: | :----: | :--------------------------------------------------------------------: | :--------------------------: |

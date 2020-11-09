@@ -60,7 +60,7 @@ https://www.gov.br/governodigital/pt-br/acessibilidade-digital
 
 ---
 
-## Históricos de versões
+## Histórico de versões
 
 |    Data    | Versão |             Descrição             |          Autor(es)           |
 | :--------: | :----: | :-------------------------------: | :--------------------------: |
