@@ -4,7 +4,7 @@
 
 Um termo de consentimento é o documento que explica, em linguagem clara e objetiva, todos os procedimentos, vantagens e desvantagens de ser um sujeito de pesquisa em um determinado protocolo. É o primeiro passo para o entrevistado ingressar em um estudo.
 
-O presente documento se responsabiliza por armazenar o termo de consentimento produzido para a avaliação de análise de tarefas do SEI.
+O presente documento se responsabiliza por armazenar o termo de consentimento produzido para a avaliação do storyboard do SEI.
 
 ---
 
@@ -23,6 +23,7 @@ Figura 1: Termo de consentimento do grupo SEI
 
 ## Históricos de versões
 
-|    Data    | Versão |                  Descrição                   |  Autor(es)  |
-| :--------: | :----: | :------------------------------------------: | :---------: |
-| 28/10/2020 |  1.0   | Criação do arquivo de termo de consentimento | Hugo Sobral |
+|    Data    | Versão |                  Descrição                   |            Autor(es)            |
+| :--------: | :----: | :------------------------------------------: | :-----------------------------: |
+| 28/10/2020 |  1.0   | Criação do arquivo de termo de consentimento |           Hugo Sobral           |
+| 04/11/2020 |  1.1   |       Refatoração e ajuste dos tópicos       | Leonardo Gomes e João Zarbielli |
