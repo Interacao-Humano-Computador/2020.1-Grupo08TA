@@ -92,7 +92,7 @@ Conjunto de elementos que seguem um padrão definido pelo design que pode ser vi
 
 ---
 
-## Históricos de Revisões
+## Histórico de versões
 
 |    Data    | Versão |                Descrição                |   Autor(es)    |
 | :--------: | :----: | :-------------------------------------: | :------------: |

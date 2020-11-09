@@ -163,7 +163,7 @@ A primeira ferramenta utilizada pelo grupo para processos de criação artístic
 
 ---
 
-## Históricos de versões
+## Histórico de versões
 
 |    Data    | Versão |                       Descrição                        |          Autor(es)           |
 | :--------: | :----: | :----------------------------------------------------: | :--------------------------: |

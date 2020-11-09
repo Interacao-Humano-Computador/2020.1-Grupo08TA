@@ -65,7 +65,7 @@ Com base nos dados coletados por meio do formulário, pode-se traçar um perfil 
 - Os usuários **conseguem usar sistemas para computador de forma plena**
 - Os usuários usam a internet **para trabalho e estudos**
 
-## Históricos de versões
+## Histórico de versões
 
 |    Data    | Versão |             Descrição             |          Autor(es)           |
 | :--------: | :----: | :-------------------------------: | :--------------------------: |

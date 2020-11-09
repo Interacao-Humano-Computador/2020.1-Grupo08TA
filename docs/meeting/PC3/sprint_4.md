@@ -56,7 +56,7 @@ O perfil de usuário foi traçado por meio de questionários e documentado na wi
 
 ---
 
-## Históricos de versões
+## Histórico de versões
 
 |    Data    | Versão |                    Descrição                     |          Autor(es)           |
 | :--------: | :----: | :----------------------------------------------: | :--------------------------: |

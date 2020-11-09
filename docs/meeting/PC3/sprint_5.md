@@ -58,7 +58,7 @@ Foi entregue e documentada toda os documentos de planejamento para a Sprint 3, p
 
 ---
 
-## Históricos de versões
+## Histórico de versões
 
 |    Data    | Versão |                    Descrição                     |          Autor(es)           |
 | :--------: | :----: | :----------------------------------------------: | :--------------------------: |

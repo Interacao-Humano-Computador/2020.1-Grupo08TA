@@ -57,7 +57,7 @@ Desta forma, a equipe precisou se reorganizar para encontrar um site relevante p
 
 ---
 
-## Históricos de versões
+## Histórico de versões
 
 |    Data    | Versão |                         Descrição                         |          Autor(es)           |
 | :--------: | :----: | :-------------------------------------------------------: | :--------------------------: |

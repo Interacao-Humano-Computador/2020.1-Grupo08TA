@@ -38,7 +38,7 @@ Este princípio propõe mostrar os componentes e funcionalidades da forma mais c
 
 ---
 
-## Históricos de versões
+## Histórico de versões
 
 |    Data    | Versão |                Descrição                 |          Autor(es)           |
 | :--------: | :----: | :--------------------------------------: | :--------------------------: |

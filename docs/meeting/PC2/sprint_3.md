@@ -68,7 +68,7 @@ Depois desse período de adaptação, o grupo tem melhorado a comunicação inte
 
 ---
 
-## Históricos de versões
+## Histórico de versões
 
 |    Data    | Versão |                    Descrição                     |          Autor(es)           |
 | :--------: | :----: | :----------------------------------------------: | :--------------------------: |

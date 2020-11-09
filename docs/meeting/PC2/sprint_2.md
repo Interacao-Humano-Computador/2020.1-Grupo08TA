@@ -69,7 +69,7 @@ Conteúdo do vídeo da apresentação:
 
 ---
 
-## Históricos de versões
+## Histórico de versões
 
 |    Data    | Versão |                    Descrição                     |          Autor(es)           |
 | :--------: | :----: | :----------------------------------------------: | :--------------------------: |

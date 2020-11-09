@@ -149,7 +149,7 @@ Algumas tarefas ficaram para apenas um membro realizar, entretanto, nas issues d
 
 ---
 
-## Históricos de versões
+## Histórico de versões
 
 |    Data    | Versão |                    Descrição                     |          Autor(es)           |
 | :--------: | :----: | :----------------------------------------------: | :--------------------------: |

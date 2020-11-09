@@ -51,7 +51,7 @@ Figura 5: José Augusto, antipersona do projeto
 
 ---
 
-## Históricos de versões
+## Histórico de versões
 
 |    Data    | Versão |             Descrição              |          Autor(es)           |
 | :--------: | :----: | :--------------------------------: | :--------------------------: |

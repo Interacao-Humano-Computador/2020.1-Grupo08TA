@@ -21,7 +21,7 @@ Figura 1: Termo de consentimento do grupo SEI
 
 ---
 
-## Históricos de versões
+## Histórico de versões
 
 |    Data    | Versão |                  Descrição                   |          Autor(es)           |
 | :--------: | :----: | :------------------------------------------: | :--------------------------: |
