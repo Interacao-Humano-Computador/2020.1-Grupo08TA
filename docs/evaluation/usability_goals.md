@@ -72,7 +72,7 @@ A capacidade de lembrança é um fator que mensura a facilidade da interface se 
 
 [1] PREECE, Jennifer; ROGERS, Yvonne; SHARP, Helen. Interaction design: beyond human-computer interaction: 3. Ed. United States. John Wiley & Sons, Inc.
 
-## Históricos de versões
+## Histórico de versões
 
 |    Data    | Versão |                   Descrição                    |            Autor(es)            |
 | :--------: | :----: | :--------------------------------------------: | :-----------------------------: |

@@ -49,7 +49,7 @@ Foram elaboradas 11 perguntas para a avaliação do storyboard, estas são:
 
 ---
 
-## Históricos de versões
+## Histórico de versões
 
 |    Data    | Versão |                    Descrição                    |            Autor(es)            |
 | :--------: | :----: | :---------------------------------------------: | :-----------------------------: |

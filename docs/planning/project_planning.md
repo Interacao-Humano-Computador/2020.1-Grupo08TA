@@ -101,7 +101,7 @@ Figura 1: Ciclo de Vida de Usabilidade de Mayhew (BARBOSA, Simone; SILVA, Bruno.
 
 ---
 
-## Históricos de versões
+## Histórico de versões
 
 |    Data    | Versão |                            Descrição                             |          Autor(es)           |
 | :--------: | :----: | :--------------------------------------------------------------: | :--------------------------: |

@@ -10,9 +10,9 @@ Neste storyboard, é apresentada a _persona_ Maria Antonieta em um episódio de 
 
 ![Storyboard](../assets/images/Storyboard.png)
 
-## Históricos de versões
+## Histórico de versões
 
 |    Data    | Versão |             Descrição             |          Autor(es)           |
 | :--------: | :----: | :-------------------------------: | :--------------------------: |
 | 10/09/2020 |  0.1   | Criação do boilerplate do arquivo | Hugo Sobral e Leonardo Gomes |
-| 11/10/2020 | 1.0 | Criação do Storyboard | Victor Silva |
+| 11/10/2020 |  1.0   |       Criação do Storyboard       |         Victor Silva         |

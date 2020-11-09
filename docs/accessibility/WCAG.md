@@ -68,7 +68,7 @@ Através da análise feita pela Accessibility Insights podemos ver que o site po
 
 [3] [ How to Meet WCAG (quick reference)](https://www.w3.org/WAI/WCAG21/quickref/)
 
-## Históricos de versões
+## Histórico de versões
 
 |    Data    | Versão |      Descrição       |      Autor(es)       |
 | :--------: | :----: | :------------------: | :------------------: |

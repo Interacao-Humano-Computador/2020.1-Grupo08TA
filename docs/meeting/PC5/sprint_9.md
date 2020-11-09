@@ -1,6 +1,6 @@
 # Sprint 9
 
-Data: 31 de outubro de 2020
+Data: 04 de novembro de 2020
 
 Horário: 18h25min às 18h40min
 
@@ -54,7 +54,7 @@ A organização do projeto ficou com com o Hugo Sobral, e foi entregue de acordo
 
 ---
 
-## Históricos de versões
+## Histórico de versões
 
 |    Data    | Versão |                    Descrição                     |  Autor(es)  |
 | :--------: | :----: | :----------------------------------------------: | :---------: |

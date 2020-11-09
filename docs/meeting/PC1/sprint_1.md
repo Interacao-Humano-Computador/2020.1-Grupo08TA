@@ -51,7 +51,7 @@ Para que o projeto pudesse ser desenvolvido de acordo com alguma meta visual est
 
 Foi feito o documento **5W2H** para esclarecer o escopo do projeto e as ideias que poderiam ser geradas a partir do gráfico.
 
-## Históricos de versões
+## Histórico de versões
 
 |    Data    | Versão |                    Descrição                     |          Autor(es)           |
 | :--------: | :----: | :----------------------------------------------: | :--------------------------: |

@@ -63,7 +63,7 @@ Após a análise levando em conta essas heurísticas será gerado uma tabela com
 
 [1] MEDIUM. "10 Heurísticas de Nielsen — Dicas para Melhorar a Usabilidade de Sua Interface"; 17 de julho, 2019. Disponível em < https://medium.com/aela/10-heur%C3%ADsticas-de-nielsen-dicas-para-melhorar-a-usabilidade-de-sua-interface-35ef86a7fb41 >. Acesso em 21 de setembro, 2020.
 
-## Históricos de versões
+## Histórico de versões
 
 |    Data    | Versão |                 Descrição                 |          Autor(es)           |
 | :--------: | :----: | :---------------------------------------: | :--------------------------: |
