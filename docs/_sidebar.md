@@ -26,6 +26,9 @@
       - [Planejamento da avaliação](./evaluation/storyboard/planning.md)
       - [Termo de consentimento](./evaluation/storyboard/consent_form.md)
       - [Resultados](./evaluation/storyboard/results.md)
+    - **Protótipo de Baixa Fidelidade**
+      - [Planejamento da avaliação](./evaluation/low_fidelity_prototype/planning.md)
+      - [Termo de consentimento](./evaluation/low_fidelity_prototype/consent_form.md)
 
 ---
 
