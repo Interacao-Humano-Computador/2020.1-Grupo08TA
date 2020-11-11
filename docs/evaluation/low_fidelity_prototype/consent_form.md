@@ -10,7 +10,7 @@ O presente documento se responsabiliza por armazenar o termo de consentimento pr
 
 ## Documento
 
-<embed src="./assets/termo_de_consentimento_HTA.pdf" width="800px" height="500px" />
+<embed src="./assets/termo_consentimento_prototipo_baixa_fidelidade.pdf" width="800px" height="500px" />
 Figura 1: Termo de consentimento do grupo SEI
 
 ---
