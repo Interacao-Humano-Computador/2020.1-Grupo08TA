@@ -6,19 +6,17 @@ O protótipo de baixa fidelidade tem como objetivo ser uma forma rápida e fáci
 
 ## Objetivo
 
-Os objetivos principais dessa fase de redesign é trazer um novo olhar para os usuários do SEI, garantir que os problemas de usabilidade mapeados tenham sido solucionados e rastrear possíveis problemas que possam ter ocorrido com a nova proposta de design. A eficiência do protótipo de baixa fidelidade se mostra por meio de uma avaliação eficaz de métricas acerca do fluxo, do posicionamento dos componentes e do tamanho das fontes, desta forma, é possível efetuar planejamentos objetivos para solução de problemas.
+Os objetivos principais dessa fase de redesign são trazer um novo olhar para os usuários do SEI, garantir que os problemas de usabilidade mapeados tenham sido solucionados e rastrear possíveis problemas que possam ter ocorrido com a nova proposta de design. A eficiência do protótipo de baixa fidelidade se mostra por meio de uma avaliação eficaz de métricas acerca do fluxo, do posicionamento dos componentes e do tamanho das fontes, desta forma, é possível efetuar planejamentos objetivos para solução de problemas.
 
 No protótipo de baixa fidelidade disponível, não abrimos espaço para avaliação da estética. Esse ponto e outros serão avaliados futuramente com o protótipo de alta fidelidade.
 
 ## Metodologia
 
-Nessa fase de redesign da plataforma é importante documentos de construção da proposta de melhoria de usabilidade e experiência de usuário para o SEI. Com isso, foi criado um protótipo de papel, com o viés de ser um protótipo descartável, isso significa que esse protótipo não será evoluido, mas sim usado como base de insumos para a construção de outro artefato, provavelmente outro protótipo, por cima do mesmo.
+Nessa fase de redesign da plataforma são importante documentos de construção da proposta de melhoria de usabilidade e experiência de usuário para o SEI. Com isso, foi criado um protótipo de papel, com o viés de ser um protótipo descartável, isso significa que esse protótipo não será evoluido, mas sim usado como base de insumos para a construção de outro artefato, provavelmente outro protótipo, por cima do mesmo.
 
 Utilizamos protótipo de papel porque entendemos que seria a forma mais fácil e rápida de construir um artefato que coletasse informações necessária para essa etapa de redesign da plataforma. Além disso, deveríamos de alguma forma avaliar o fluxo, no cenário calamitoso que se encontra o mundo perante a pandemia no período dessa matéria, utilizamos a plataforma figma para atribuir funcionalidade a cada botão, criando um fluxo entendível e possibilitando a avaliação remota.
 
 ## Protótipo
-
-Nessa parte do documento foi dividida as telas em cinco fluxos diferentes.
 
 ### Login e Cadastro
 
@@ -59,9 +57,10 @@ O protótipo de baixa fidelidade traz uma prévia do que será o produto final, 
 
 ## Histórico de versões
 
-|    Data    | Versão |          Descrição          |           Autor(es)           |
-| :--------: | :----: | :-------------------------: | :---------------------------: |
-| 12/11/2020 |  1.0   | Versão inicial do documento |        Leonardo Gomes         |
-| 12/11/2020 |  1.1   |    Criação do protótipo     | Leonardo Gomes e Victor Jorge |
-| 12/11/2020 |  1.2   |    Criação da conclusão     |        Leonardo Gomes         |
-| 12/11/2020 |  1.3   |    Revisão do documento     | Leonardo Gomes e Hugo Sobral  |
+|    Data    | Versão |          Descrição          |                 Autor(es)                  |
+| :--------: | :----: | :-------------------------: | :----------------------------------------: |
+| 12/11/2020 |  1.0   | Versão inicial do documento |               Leonardo Gomes               |
+| 12/11/2020 |  1.1   |    Criação do protótipo     |       Leonardo Gomes e Victor Jorge        |
+| 12/11/2020 |  1.2   |    Criação da conclusão     |               Leonardo Gomes               |
+| 12/11/2020 |  1.3   |    Revisão do documento     |        Leonardo Gomes e Hugo Sobral        |
+| 12/11/2020 |  1.4   |    Revisão do documento     | Leonardo Gomes, Hugo Sobral e Victor Jorge |
