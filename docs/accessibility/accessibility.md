@@ -10,7 +10,7 @@ A acessibilidade das cores foca em garantir o contraste das cores para pessoas c
 
 Para garantir a acessibilidade no contraste das cores, utilizamos o site [contrast ratio](https://contrast-ratio.com/). Esse site disponibiliza uma nota de contraste entre as cores, e para nossa aplicação consideramos aceitável as cores com nota acima de 3.50 em constraste com as cores neutras #1F1F1F e #F4F4F4.
 
-<embed src="./assets/acessibilidade.pdf" width="800px" height="500px" />
+<embed src="./assets/pdf/acessibilidade.pdf" width="800px" height="500px" />
 Figura 1: apresentação em guia de acessibilidade
 
 ---

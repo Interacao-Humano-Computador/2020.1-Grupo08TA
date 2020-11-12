@@ -12,7 +12,7 @@ Os protótipos são muito úteis quando se estão discutindo ideias com stakehol
 
 ## Protótipo de baixa fidelidade
 
-Um protótipo de baixa fidelidade é aquele que não se assemelha muito ao produto final; ele utiliza, por exemplo, materials muito diferentes da versão final pretendida, como papel e cartolina, em vez de telas eletrônicas e metal. Uma impressora feita de caixa de papelão é um bom exemplo de protótipo de baixa fidelidade.
+Um [protótipo de baixa fidelidade](./redesign_artefacts/low_fidelity_prototype) é aquele que não se assemelha muito ao produto final; ele utiliza, por exemplo, materials muito diferentes da versão final pretendida, como papel e cartolina, em vez de telas eletrônicas e metal. Uma impressora feita de caixa de papelão é um bom exemplo de protótipo de baixa fidelidade.
 
 O método utilizado para tal prototipação foi o protótipo de papel. Vale ressaltar que, devido à crise sanitária que o mundo enfrenta no ano de 2020, o protótipo de papel teve de ser alterado para que o grupo possa obter métricas qualitativas, isto é, o protótipo foi digitalizado e inserido um fluxo de navegação através da ferramenta [Figma](https://www.figma.com/).
 
