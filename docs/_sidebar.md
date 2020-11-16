@@ -29,6 +29,9 @@
     - **Protótipo de Baixa Fidelidade**
       - [Planejamento da avaliação](./evaluation/low_fidelity_prototype/planning.md)
       - [Termo de consentimento](./evaluation/low_fidelity_prototype/consent_form.md)
+    - **Protótipo de Alta Fidelidade**
+      - [Planejamento da avaliação](./evaluation/high_fidelity_prototype/planning.md)
+      - [Termo de consentimento](./evaluation/high_fidelity_prototype/consent_form.md)
 
 ---
 

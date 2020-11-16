@@ -1,4 +1,4 @@
-# Planejamento da avaliação do protótipo de baixa fidelidade
+# Planejamento da avaliação do protótipo de alta fidelidade
 
 ## Introdução
 
@@ -10,23 +10,30 @@ Os protótipos são muito úteis quando se estão discutindo ideias com stakehol
 
 ---
 
-## Protótipo de baixa fidelidade
+## Protótipo de alta fidelidade
 
-Um protótipo de baixa fidelidade é aquele que não se assemelha muito ao produto final; ele utiliza, por exemplo, materials muito diferentes da versão final pretendida, como papel e cartolina, em vez de telas eletrônicas e metal. Uma impressora feita de caixa de papelão é um bom exemplo de protótipo de baixa fidelidade.
+A prototipagem de alta fidelidade utiliza materiais que estão presentes no produto final e realiza um protótipo que se assemelhe com um produto finalizado. Por exemplo, o protótipo de um software desenvolvido em plataformas como [Figma](https://www.figma.com/) ou [Adobe XD](https://www.adobe.com/br/products/xd.html)
+apresenta maior fidelidade do que um protótipo produzido em papel.
 
-O método utilizado para tal prototipação foi o protótipo de papel. Vale ressaltar que, devido à crise sanitária que o mundo enfrenta no ano de 2020, o protótipo de papel teve de ser alterado para que o grupo possa obter métricas qualitativas, isto é, o protótipo foi digitalizado e inserido um fluxo de navegação através da ferramenta [Figma](https://www.figma.com/).
+A prototipação de alta fidelidade é útil para vender ideias a pessoas e ára testar testões técnicas e, para o contexto de IHC, testar soluções de design.
 
-O método de prototipação em papel, proposto por Snyder em 2003, avalia a usabilidade de um design de IHC representado em papel, através de simulações de uso com a participação de potenciais usuários. Simular o uso em papel é um modo rápido e barato de identificar problemas de usabilidade antes mesmo de construir uma solução de IHC executável. Sendo assim, esse método é uma opção interessante para uma avaliação formativa junto aos usuários, principalmente para comparar alternativas de design. Ele permite avaliar facilmente soluções parciais, que não cobrem toda a interface com usuário, e soluções de baixa e média fidelidade, que ainda não definem todos os detalhes da interface.
+A ferramenta escolhida pelo time de desenvolvimento para a produção do protótipo de alta fidelidade das melhorias do SEI foi o [Figma](https://www.figma.com/). Isto significa que todas as telas produzidas foram confeccionadas de maneira colaborativa através da interface do site. Vale ressaltar que a escolha do Figma se deu devido à possibilidade de se construir projetos de design em conjunto de maneira gratuita, objetiva e simples.
 
 ---
 
 ## Metodologia
 
-O formato escolhido pelo time de desenvolvimento foi **a entrevista**. As entrevistas tem como objetivo avaliar o design inicial e o fluxo de navegação proposto no protótipo de baixa fidelidade.
+O formato escolhido pelo time de desenvolvimento foi **a entrevista**. As entrevistas tem como objetivo avaliar:
+
+- A nova solução de design proposta.
+- A acessibilidade do site.
+- Os fluxos de navegação.
+- As utilidades do escopo.
+- A eficiência e eficácia do site, a partir do ponto de vista do usuário.
 
 As entrevistas serão realizadas de maneira remota devido às dificuldades enfrentadas em 2020. A entrevista será composta por 1 ou 2 entrevistadores e 1 pessoa entrevistada.
 
-#### As entrevistas foram planejadas para não durar mais que meia hora e apresentar um tempo médio de 15 minutos.
+#### As entrevistas foram planejadas para não durar mais que meia hora e apresentar um tempo médio de 20 minutos.
 
 ---
 
@@ -70,7 +77,11 @@ Este fluxo começa na página de login do Sei e termina na página inicial após
 | 2      | Suponha que você esqueceu sua senha, como você faria para recuperar a senha?                   |
 | 3      | Como você faria para acessar o novo Sei?                                                       |
 | 4      | O quão difícil foi para você realizar as tarefas deste fluxo?                                  |
-| 5      | Você tem algum comentário extra sobre o fluxo que você acabou de percorrer?                    |
+| 5      | Sobre a página de cadastro, o que você achou do design proposto?                               |
+| 6      | Sobre a página de login, o que você achou do design proposto?                                  |
+| 7      | Você sentiu dificuldade de uso em algum momento do fluxo?                                      |
+| 8      | Você teve dificuldade na leitura de alguma informação?                                         |
+| 9      | Você tem algum comentário extra sobre o fluxo que você acabou de percorrer?                    |
 
 ## Perfil e Alteração de Senha
 
@@ -82,8 +93,11 @@ Este fluxo começa na página inicial após o usuário estar logado e termina na
 | 2      | A partir da página de perfil, como você faria para alterar sua senha?          |
 | 3      | O quão difícil foi para você percorrer esse caminho?                           |
 | 4      | Como você faria para retornar à pagina inicial?                                |
-| 5      | Você sentiu falta de alguma funcionalidade na página de perfil?                |
-| 6      | Você tem algum comentário sobre o caminho que você acabou de percorrer?        |
+| 5      | Sobre a página de perfil, o que você achou do design proposto?                 |
+| 6      | Você teve dificuldade em encontrar algum botão ou informação importante?       |
+| 7      | Você sentiu dificuldade em algum momento do fluxo?                             |
+| 8      | Você teve dificuldade na leitura de alguma informação?                         |
+| 9      | Você tem algum comentário extra sobre o caminho que você acabou de percorrer?  |
 
 ## Peticionamento intercorrente
 
@@ -93,7 +107,11 @@ Este fluxo começa na página inicial após o usuário estar logado e termina na
 | ------ | --------------------------------------------------------------------------------------------------------------------------------------- |
 | 1      | Suponha que você esteja no meio do processo de uma dupla diplomação, como você faria para acessar as informações do seu peticionamento? |
 | 2      | Você sentiu falta de alguma informação nas páginas que você acessou?                                                                    |
-| 3      | Você tem algum comentário sobre o fluxo que acabou de percorrer?                                                                        |
+| 3      | Sobre a página de seleção de tipo de peticionamento, o que você achou do design proposto?                                               |
+| 4      | Sobre a página de de peticionamentos em andamento, o que você achou do design proposto?                                                 |
+| 5      | Sobre a página de um peticionamento específico, o que você achou do design proposto?                                                    |
+| 6      | Você teve dificuldade em encontrar algum botão ou informação importante?                                                                |
+| 7      | Você tem algum comentário extra sobre o fluxo que acabou de percorrer?                                                                  |
 
 Ao final das perguntas, é solicitado que a pessoa entrevistada retorne para a página inicial.
 
@@ -105,7 +123,10 @@ Este fluxo começa na página inicial após o usuário estar logado e termina na
 | ------ | --------------------------------------------------------------------------------------------------------------------------- |
 | 1      | Suponha que você deseje alterar sua opção de curso, como você faria para começar um novo peticionamento sobre este assunto? |
 | 2      | Você sentiu falta de alguma informação nas páginas que você acessou?                                                        |
-| 3      | Você tem algum comentário sobre o fluxo que acabou de percorrer?                                                            |
+| 3      | O que você achou da disposição das cores nas páginas?                                                                       |
+| 4      | Você teve dificuldade em diferenciar as seções de peticionamentos novos e de peticionamentos em andamento?                  |
+| 5      | Você teve dificuldade em encontrar algum botão ou informação importante?                                                    |
+| 6      | Você tem algum comentário sobre o fluxo que acabou de percorrer?                                                            |
 
 Ao final das perguntas, é solicitado para que a pessoa entrevistada retorne para a página inicial.
 
@@ -113,15 +134,30 @@ Ao final das perguntas, é solicitado para que a pessoa entrevistada retorne par
 
 Este fluxo começa na página inicial após o usuário estar logado e termina na página de login, entretanto o usuário irá percorrer o caminho relacionado a recibos eletrônicos.
 
-| Índice | Pergunta                                                             |
-| ------ | -------------------------------------------------------------------- |
-| 1      | Como você faria para acessar a aba de recibos eletrônicos?           |
-| 2      | Como você faria para filtrar os seus recibos?                        |
-| 3      | E após a filtragem, como você faria para pesquisar os recibos?       |
-| 4      | Você sentiu falta de alguma informação nas páginas que você acessou? |
-| 5      | Você tem algum comentário sobre o fluxo que acabou de percorrer?     |
+| Índice | Pergunta                                                                             |
+| ------ | ------------------------------------------------------------------------------------ |
+| 1      | Como você faria para acessar a aba de recibos eletrônicos?                           |
+| 2      | Como você faria para filtrar os seus recibos?                                        |
+| 3      | E após a filtragem, como você faria para pesquisar os recibos?                       |
+| 4      | Sobre a página de recibos eletrônicos, o que você achou do design?                   |
+| 5      | Sobre a filtragem de recibos, você achou que este sistema é complexo de se utilizar? |
+| 6      | Você teve dificuldade de encontrar algum botão ou informação importante?             |
+| 7      | Você sentiu falta de alguma informação nas páginas que você acessou?                 |
+| 8      | Você tem algum comentário sobre o fluxo que acabou de percorrer?                     |
 
 Ao final das perguntas, é solicitado para que a pessoa entrevistada efetue logout do sistema.
+
+## Observações finais
+
+São perguntas que abrangem o site como um todo e valida a experiência de usuário.
+
+| Índice | Pergunta                                                                     |
+| ------ | ---------------------------------------------------------------------------- |
+| 1      | O que você achou da disposição de informações no site?                       |
+| 2      | O que você achou do design do site?                                          |
+| 3      | Você achou que este novo sistema é um site fácil de se usar?                 |
+| 4      | Você sentiu dificuldade ao encontrar alguma seção do site?                   |
+| 5      | Você tem algum elogio, reclamação ou sugestão para fornecer ao grupo do SEI? |
 
 ---
 
@@ -135,6 +171,6 @@ Ao final das perguntas, é solicitado para que a pessoa entrevistada efetue logo
 
 ## Histórico de versões
 
-|    Data    | Versão |                                     Descrição                                      |  Autor(es)  |
-| :--------: | :----: | :--------------------------------------------------------------------------------: | :---------: |
-| 11/11/2020 |  1.0   | Criação do documento de planejamento da avaliação do protótipo de baixa fidelidade | Hugo Sobral |
+|    Data    | Versão |                                     Descrição                                     |  Autor(es)  |
+| :--------: | :----: | :-------------------------------------------------------------------------------: | :---------: |
+| 16/11/2020 |  1.0   | Criação do documento de planejamento da avaliação do protótipo de alta fidelidade | Hugo Sobral |
