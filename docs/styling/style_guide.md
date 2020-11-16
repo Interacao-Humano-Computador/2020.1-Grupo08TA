@@ -14,14 +14,14 @@ O manual de identidade visual resume aspectos visuais gerais da plataforma, sem 
 
 A abordagem da logo traz uma identidade para a plataforma. A assinatura é inspirada nos aspectos funcionais do sistema: documentação, artigos e processos. Desta forma, a logo representa um documento dobrado (uma folha de papel dobrada), com apenas uma cor que pode variar em fundos monocromáticos ou coloridos.
 
-<embed src="./assets/manual_de_identidade_visual.pdf" width="800px" height="500px" />
+<embed src="./assets/pdf/manual_de_identidade_visual.pdf" width="800px" height="500px" />
 Figura 1: Apresentação do novo manual de identidade visual proposto
 
 ### Aplicações
 
 As aplicações foram padronizadas e devem ser utilizadas conforme o guia de componentes. Desta forma, uma conformidade satisfatória com a plataforma é alcançada.
 
-<embed src="./assets/aplicacoes.pdf" width="800px" height="500px" />
+<embed src="./assets/pdf/aplicacoes.pdf" width="800px" height="500px" />
 Figura 2: Apresentação das aplicações dos componentes
 
 ### Conformidade de elementos
@@ -36,7 +36,7 @@ O atual guia de estilo do SEI é composto por apenas duas cores e uma logo simpl
 
 As cores definidas não são exploradas com sucesso na plataforma, muitas delas só aparecem no header e na logo. Além disso apenas uma cor tem o contraste bom com a cor branca, mas mesmo assim são utilizadas cores de pouco contraste sobrepostas, desta forma a acessibilidade fica comprometida.
 
-<embed src="./assets/atual_manual_de_identidade_visual.pdf" width="800px" height="500px" />
+<embed src="./assets/pdf/atual_manual_de_identidade_visual.pdf" width="800px" height="500px" />
 Figura 3: Apresentação do atual manual de identidade visual do sei
 
 ### Conformidade de elementos

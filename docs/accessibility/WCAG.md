@@ -49,13 +49,13 @@ De maneira objetiva, o WCAG 2.0 define camadas de orientação para que os indiv
 
 Fazendo uso da ferramenta Accessibility Insights for Web que é uma extensão para navegadores com base chromium iremos fazer a avaliação da acessibilidade do SEI.
 
-<img  src="../assets/images/1.PNG" width="800px" height="500px" />
+<img  src="../assets/images/wcag/1.PNG" width="800px" height="500px" />
 Figura 1: Teste de acessibilidade do atual sei<br/><br/>
-<img  src="../assets/images/2.PNG" width="800px" height="500px" />
+<img  src="../assets/images/wcag/2.PNG" width="800px" height="500px" />
 Figura 2: Teste de acessibilidade do atual sei<br/><br/>
-<img  src="../assets/images/3.PNG" width="800px" height="500px" />
+<img  src="../assets/images/wcag/3.PNG" width="800px" height="500px" />
 Figura 3: Teste de acessibilidade do atual sei<br/><br/>
-<img  src="../assets/images/4.PNG" width="800px" height="500px" />
+<img  src="../assets/images/wcag/4.PNG" width="800px" height="500px" />
 Figura 4: Teste de acessibilidade do atual sei<br/><br/>
 
 Através da análise feita pela Accessibility Insights podemos ver que o site possui alguns problemas de implementação que atrapalham a acessibilidade, principalmente para pessoas portadoras de deficiencia visual, uma vez que a navegação para esses usuários é feita através das labels do HTML e várias páginas não possuem labels em suas tags HTML.
