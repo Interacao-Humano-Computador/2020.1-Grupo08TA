@@ -15,7 +15,7 @@ Os protótipos são muito úteis quando se estão discutindo ideias com stakehol
 A prototipagem de alta fidelidade utiliza materiais que estão presentes no produto final e realiza um protótipo que se assemelhe com um produto finalizado. Por exemplo, o protótipo de um software desenvolvido em plataformas como [Figma](https://www.figma.com/) ou [Adobe XD](https://www.adobe.com/br/products/xd.html)
 apresenta maior fidelidade do que um protótipo produzido em papel.
 
-A prototipação de alta fidelidade é útil para vender ideias a pessoas e ára testar testões técnicas e, para o contexto de IHC, testar soluções de design.
+A prototipação de alta fidelidade é útil para vender ideias a pessoas e ára testar questões técnicas e, para o contexto de IHC, testar soluções de design.
 
 A ferramenta escolhida pelo time de desenvolvimento para a produção do protótipo de alta fidelidade das melhorias do SEI foi o [Figma](https://www.figma.com/). Isto significa que todas as telas produzidas foram confeccionadas de maneira colaborativa através da interface do site. Vale ressaltar que a escolha do Figma se deu devido à possibilidade de se construir projetos de design em conjunto de maneira gratuita, objetiva e simples.
 
