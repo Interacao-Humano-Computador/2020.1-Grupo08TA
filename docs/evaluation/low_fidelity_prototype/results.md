@@ -60,6 +60,12 @@ Sofia já utilizou o SEI na tentativa de trancamento de matéria. A entrevistada
 
 [12:00] Para o fluxo de recibos eletrônicos, Sofia clicou em _Recibos eletrônicos_ na _sidebar_ e é redirecionada para a página de _Recibos eletrônicos_.
 
+[12:13] Para o filtro os recibos, Sofia utilizou o filtro de _tipos de peticionamento_. (Sofia não utilizou o filtro de início e termino do processo).
+
+[12:33] Para pesquisar um recibo, Sofia clicaria no botão _Pesquisar_.
+
+[13:14] Sofia disse que está bem clara o fluxo de recibos eletrônicos.
+
 ### Entrevista 1
 
 <iframe width="800" height="500" src="https://www.youtube-nocookie.com/embed/0CbnpUxn8Bw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -98,10 +104,10 @@ Aline fez o fluxo de redefinição de senha por conta própria que era uma das p
 
 [5:57] Aline tenta acessar um peticionamento intercorrente através da lista _Seus Processos_ localizada na _Página Inicial_. Ao ser redirecionada para a página _Detalhes do Processo_ Aline percebe que não terá acesso a um peticionamento intercorrente através dessa página.
 
-<!-- #### Peticionamento Novo
+#### Peticionamento Novo
 
-#### Recibos Eletrônicos -->
-<!--
+#### Recibos Eletrônicos
+
 ### Entrevista 2
 
 <iframe width="800" height="500"nada para a página  src="https://www.youtuAline percebe que não terá acesso a um peticionamento nocookie.com/embed/KUFdessa página. gHS0utUo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -122,17 +128,47 @@ A primeira entrevista dura cerca de 11 minutos e é feita com Micaella, que é e
 
 <iframe width="800" height="500" src="https://www.youtube-nocookie.com/embed/PknrZ62oOYI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-A primeira entrevista dura cerca de 11 minutos e é feita com Micaella, que é entrevistada pelo Hugo Sobral e tem como assistente o Leonardo Gomes. Micaella tem 21 anos e está no quinto semestre de engenharia de software.
+A terceira entrevista dura cerca de 15 minutos e é feita com Lara, que é entrevistada pelo João Lucas e tem como assistente o Leonardo Gomes. Lara tem 19 anos e está no segundo semestre de artes plásticas na Universidade de Brasília.
 
 #### **Login e Cadastro**
 
+[1:40] Para solicitar o cadastro, Lara clicou em _Não possuo cadastro_ e foi redirecionada para a tela de _Situação de cadastro_. Ela começa a ler os textos informativos e finalmente clica em _Primeiro Acesso_. Lara é redirecionada para a página de _Redefinição de Senha_, compreende o que está escrito e finalmente retorna para a tela de login.
+
+[2:43] Para redefinir a senha, Lara clica em _Redefinir minha senha_, exemplifica que colocaria o email e clicaria em _solicitar_.Ela clica no botão que redireciona para um _popup_ de email inválido. Lara retoma para a página de _Redifinição de senha_, e clica novamente no botão _solicitar_ e agora ela consegue redefinir a senha.
+
+[4:36] Lara deu dicas sobre sobre a tela de _Situação de cadastro_, disse que talvez a disposição dos componentes deveria ser inversa ou colocar na horizontal.
+
 #### **Perfil e Atualização de Senha**
+
+[5:32] Para acessar o perfil, Lara clicou em _Perfil_ que está na _sidebar_. Lara é redirecionada para a tela de perfil.
+
+[5:49] Para redefinir senha, Lara vai diretamente para o botão de redefinir senha, e preenche os campos certinho. Para finalizar Lara clica no botão _redefinir senha_.
+
+[6:22] Para finalizar, Lara comenta que foi muito tranquilo de fazer o fluxo.
 
 #### **Peticionamento Intercorrente**
 
+[6:45] Para retornar para a página inicial, Lara clica no botão _Página inicial_ na _sidebar_. Lara é redirecionada para a página inicial.
+
+[8:53] Para acessar a página de peticionamento intercorrente, Lara clica no botão _Peticionamento_ que está na _sidebar_. Lara é redirecionada para a página intermediária da página de peticionamento, onde se pode fazer escolha de qual é o peticionamento desejado. Lara clica no botão _Intercorrente_, é redirecionada para selecionar o tipo de petiocionamento desejado, clica no filtro de dupla diplomação e, em seguida, clica no botão _peticionar_. Lara é redirecionada para a página de peticionamento intercorrente.
+
+[12:07] Lara não sentiu falta de nada nas páginas no fluxo de peticionamento intercorrente.
+
 #### **Peticionamento Novo**
 
-#### **Recibos Eletrônicos** -->
+[10:26] Para acessar um peticionamento novo, Lara clica novamente no botão _Peticionamento_ que está na _sidebar_. Lara é redirecionada para a página intermediária da página de peticionamento, onde se pode fazer escolha de qual é o peticionamento desejado. Lara clica no botão _novo_, é redirecionada para selecionar o tipo de petiocionamento desejado, clica no filtro de alteração de curso e, em seguida, clica no b-otão _peticionar_. Lara entende no campo _especificação_ deverá esclarecer o motivo do processo e após isso clicaria em _Concluir_.
+
+[12:07] Lara não sentiu falta de nada nas páginas no fluxo de peticionamento novo.
+
+#### **Recibos Eletrônicos**
+
+[13:33] Para acessar os recibos eletrônicos, Lara clica no botão _Recibos eletrônicos_ que está na _sidebar_. Lara é redirecionada para a página de recibos eletrônicos.
+
+[13:40] Para filtrar os recibos eletrồnicos, Lara utilizou o filtro de _Tipo de peticionamento_. Ele não identificou de início o os filtros de início e termino do peticionamento.
+
+[14:45] Para pesquisar os recibos, Lara diz que utilizaria o botão _Pesquisar_.
+
+[14:47] Lara não sentiu nenhum falta na página e disse “tá bom”.
 
 ## Conclusão
 
