@@ -122,31 +122,92 @@ A entrevista foi realizada com a Lara, estudante do curso de Artes Visuais (Bach
 
 <iframe width="800" height="500" src="https://www.youtube-nocookie.com/embed/7Gjso4oLD-A" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Entrevista com a Aline
+A entrevista foi realizada com a Aline, estudante do curso de Engenharia Eletrônica (Bacharel) da UnB. Aline já utilizou o _SEI!_ no contexto da UnB antes.
 
 --
 
 #### **Login e Cadastro**
 
---
+**Cadastro**  [2:07] Aline clica no botão _Não possuo cadastro_ e é redirecionada a página de _cadastro_ onde seleciona o botão _Solicitar Senha_ onde é redirecionada para a página de _Solicitar Senha_ onde insere o email usado ao se matricular na UnB e aperta no botão _Solicitar_. A modal de _Senha Enviada_ onde ela clica em _Fazer Login_ onde é redirecionada para a página de _Login_.
+
+**Recuperação de Senha** [3:04] Aline clica em _Redefinir Senha_ e é redirecionada para a página de _Redefinir Senha_ onde insere o email usado no cadastro e clica em _Solicitar_. A modal de _Senha Enviada_ onde ela clica em _Fazer Login_ onde é redirecionada para a página de _Login_.
+
+**Acesso ao _SEI!_** [3:25] Para acessar o SEI Aline digita email e senha cadastrados e clica em _Acessar_. 
+
+**Opinião do entrevistado** [3:39] Aline diz que o fluxo foi de fácil execução.
+
+**Opinião do entrevistado** [3:50] Aline diz que o design da página de cadastro é bonito e confortavel de se ver
+
+**Opinião do entrevistado** [4:08] Aline diz que o design da página de login segue a página de cadastro sendo bonita e que gostou das cores.
+
+**Opinião do entrevistado** [4:21] Aline afirma não ter sentido dificuldade de utilizar o fluxo proposto.
+
+**Opinião do entrevistado** [4:31] Aline diz não ter tido dificuldade de leitura de nenhuma informação.
+
+**Opinião do entrevistado** [4:43] Aline afirma não ter nenhum comentário extra sobre o fluxo apresentado.
 
 #### **Perfil e Atualização de Senha**
 
---
+**Acessar a página de perfil**  [5:00] Aline clica no botão _Perfil_ presenta na _sidebar_ e é levada a _Página de Perfil_.
+
+**Alterar senha** [5:17] Aline clica no botão de _Alterar Senha_, é redirecionada a página de _Alterar Senha_ onde preenche os campos necessários e finaliza o fluxo clicando em  _Alterar Senha_. A modal de sucesso é aberta e logo fechada no botão _Finalizar_, sendo assim redirecionada para a página de perfil.
+
+**Retonar à página principal** [5:45] Aline clica em _Controle de Acessos Externos_ e nada acontece. Aline entende que não voltaria para a página através da _sidebar_ e assim clica no botão voltar presente na parte superior da página de _Perfil_.
+
+**Opinião do entrevistado** [6:03] Aline afirma que achou o design da página de _Perfil_ bom e sugere que seria mais intuitivo se a senha atual viesse antes da nova senha na página de Alteração de Senha. 
+
+**Opinião do entrevistado** [6:35] Aline afirma não ter sentido dificuldade em encontrar nenhum botão ou informação importante.
+
+**Opinião do entrevistado** [6:45] Aline diz não ter tido nenhuma dificuldade ao executar o fluxo proposto.
+
+**Opinião do entrevistado** [6:58] Aline diz não ter nenhum comentário extra sobre o fluxo apresentado.
+
 
 #### **Peticionamento Intercorrente**
 
---
+**Acessar processo Intercorrente** [7:33] Aline clica em _Peticionamento_ na _sidebar_ é redirecionada a página de _Peticionamentos_ onde clica em _Processo Intercorrente_ e redirecionada para a página _Peticionado Intercorrente_ onde seleciona o processo que deseja visualizar os detalhes. 
+
+**Opinião do entrevistado** [8:10] Aline afirma não ter sentido dificuldade em encontrar nenhum botão ou informação importante.
+
+**Opinião do entrevistado** [8:24] Aline afirma que o design da página de _Peticionamento_ é claro e que fica nítida a difernça de um Peticionamento Novo para um Intercorrente.
+
+**Opinião do entrevistado** [9:00] Aline diz que gostou das cores da página especifica de cada peticionamento.
+
+**Opinião do entrevistado** [9:09] Aline afirma não ter sentido dificuldade em encontrar nenhum botão ou informação importante.
+
+**Opinião do entrevistado** [9:21] Aline diz não ter nenhum comentário extra sobre o fluxo apresentado.
 
 #### **Peticionamento Novo**
 
---
+**Criar novo peticionamento** [9:47] Aline clica em _Peticionamento_ na _sidebar_ é redirecionada a página de _Peticionamentos_ onde clica em _Peticionamento Novo_ e é redirecionado para a página de _Seleção de Tipo de Processo_ onde seleciona mudança de curso e pressiona o botão _Confirmar_. Já na pagina de _Peticionamento Novo_ onde preenche as informações e clica em confirmar. A _modal de Sucesso_ é reenderizada e logo fechada na botão _Finalizar_ levando aline para a página inicial.
+
+**Opinião do entrevistado** [11:02] Aline diz não ter tido dificuldade de leitura de nenhuma informação.
+
+**Opinião do entrevistado** [11:35] Aline diz que o design da página de _Peticionamento Novo_ está bonito.
+
+**Opinião do entrevistado** [12:01] Aline afirma não ter tido dificuldade em diferenciara a página de _Peticionamento Novo_ e _Peticionamento Intercorrente_ 
+
+**Opinião do entrevistado** [12:17] Aline diz não ter nenhum comentário extra sobre o fluxo apresentado.
 
 #### **Recibos Eletrônicos**
 
---
+**Acessar recibos eletrônicos** [12:29] Aline acessa a página de _Recibos eletrônicos_ usando o botão presente na _sidebar_
+
+**Utilização dos Filtros** [12:38] Aline usa os filtros existentes na página de _Recibos eletrônicos_.
+
+**Pesquisar** [12:58] Aline usa o botão _Pesquisar_ e fnaliza seu fluxo.
+
+**Opinião do entrevistado** [13:26] Aline afirma que o design da página de _Recibos eletrônicos_ tambem ficou bom.
+
+**Opinião do entrevistado** [13:59] Aline diz que o sistema de filtragem é de facil entendimento e uso.
+
+**Opinião do entrevistado** [14:07] Aline afirma não ter sentido dificuldade em encontrar nenhum botão ou informação importante.
+
+**Opinião do entrevistado** [14:23] Aline diz não ter nenhum comentário extra sobre o fluxo apresentado.
 
 #### **Opiniões Gerais**
+
+[14:35] Aline diz que o design do site condizente com os site modernos e que o uso dele é facil e acredita que todos os estudantes estão contemplados para o uso do SEI. 
 
 ## Conclusão
 
@@ -166,3 +227,4 @@ Vale destacar a reconfiguração da página de perfil, esta que passou a ser rep
 | 01/12/2020 |  0.2   |  Transcrição da entrevista 1  |  Victor Jorge  |
 | 01/12/2020 |  0.3   |  Transcrição do teste piloto  | Leonardo Gomes |
 | 01/12/2020 |  1.0   |   Conclusão dos resultados    |  Hugo Sobral   |
+| 01/12/2020 |  1.1   | Transcirção da entrevista 3   |  João Lucas    |
