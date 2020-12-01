@@ -51,6 +51,7 @@
 - **Artefatos de redesign**
   - [Construção de tarefas](./redesign_artefacts/task_construction.md)
   - [Protótipo de baixa fidelidade](./redesign_artefacts/low_fidelity_prototype.md)
+  - [Protótipo de alta fidelidade](./redesign_artefacts/high_fidelity_prototype.md)
 
 ---
 
