@@ -70,12 +70,11 @@ A entrevista foi realizada com a Lara, estudante do curso de Artes Visuais (Bach
 
 #### **Peticionamento Intercorrente**
 
-
-**Acessar processo Intercorrente** [6:52]: Considerando a situação hipotética onde já existe um processo de dupla diplomação em trâmite, é solicitado à Lara o acesso a este processo cuja categoria é _Intercorrente_. Logo em seguida, Lara clica sobre o botão "Peticionamento" localizado na _sidebar_. Durante a exibição da tela de escolha da categoria do peticionamento, Lara demonstra hesitação. Porém, após pensar por um breve momento, diz que clicaria sobre o botão "Processo Intercorrente", justificando sua escolha com base no conteúdo do texto disposto junto de forma lógica ao botão. 
+**Acessar processo Intercorrente** [6:52]: Considerando a situação hipotética onde já existe um processo de dupla diplomação em trâmite, é solicitado à Lara o acesso a este processo cuja categoria é _Intercorrente_. Logo em seguida, Lara clica sobre o botão "Peticionamento" localizado na _sidebar_. Durante a exibição da tela de escolha da categoria do peticionamento, Lara demonstra hesitação. Porém, após pensar por um breve momento, diz que clicaria sobre o botão "Processo Intercorrente", justificando sua escolha com base no conteúdo do texto disposto junto de forma lógica ao botão.
 
 **Opinião do entrevistado** [7:57]: Ao ser questionada sobre o _design_ adotado na página de seleção da categoria do peticionamento, Lara diz ser claro e objetivo. Em um contexto mais geral, Lara diz não ter dificuldade de encontrar as informações desejadas.
 
-####  **Peticionamento Novo**
+#### **Peticionamento Novo**
 
 **Criar novo peticionamento** [9:48]: Considerando a situação hipotética onde se há a necessidade de criar um novo processo cujo objetivo é a alteração de curso, Lara clica sobre o botão "Peticionamento" localizado na _sidebar_, clica sobre o botão "Novo Peticionamento", seleciona a opção "Alteração de opção - Mudança de Curso" e em seguida clica sobre o botão "Confirmar". Na tela de preenchimento de formulário, Lara diz que inseriria suas especificações no campo "Especificações", preencheria os documentos necessários e clicaria em "Confirmar".
 
@@ -89,7 +88,7 @@ A entrevista foi realizada com a Lara, estudante do curso de Artes Visuais (Bach
 
 #### **Opiniões Gerais**
 
-[15:07] Lara diz que as informações são dispostas de forma coerente, bem como as cores utilizadas. Lara também complementa dizendo que a interface é "limpa", organizada e objetiva. Para finalizar, Lara sugere o aumento do tamanho da fonte dos textos exibidos em algumas telas, principalmente nas caixas modais. 
+[15:07] Lara diz que as informações são dispostas de forma coerente, bem como as cores utilizadas. Lara também complementa dizendo que a interface é "limpa", organizada e objetiva. Para finalizar, Lara sugere o aumento do tamanho da fonte dos textos exibidos em algumas telas, principalmente nas caixas modais.
 
 ### Entrevista 2
 
@@ -121,7 +120,13 @@ Entrevista com a Aline
 
 ## Conclusão
 
---
+A partir da série de insumos coletados nas entrevistas, é possível apontar um perceptivo aumento em pontos positivos para um sistema no contexto de IHC. As [metas de usabilidade](./evaluation/usability_goals.md) descritas para o projeto apresentaram um significativo incremento em seus valores.
+
+O novo projeto de design proposto apresentou um design satisfatório, bonito e limpo que respeita uma série de convenções encontradas em outros sites disponíveis na internet, desta forma a capacidade de aprendizado do usuário é explorada de maneira eficiente.
+
+A navegação entre as telas pôde passar a apresentar um fluxo satisfatório entre as telas, já que as entrevistas não apresentaram dificuldades significativas (as dificuldades que as entrevistadas encontraram eram pontos simples de navegação que podem ser solucionados com outras maneiras disponíveis na própria interface) durante a navegação entre as telas. Tal comportamento nas entrevistas evidencia que as informações estão dispostas de maneiras simples e visíveis em todo site.
+
+Vale destacar a reconfiguração da página de perfil, esta que passou a ser representada em uma tela inteira dedicada a estas informações e abandonou a antiga abordagem de mostrar as informações em um _modal_ disponível durante o _hover_.
 
 ### Pontos importantes sobre os fluxos e telas
 
