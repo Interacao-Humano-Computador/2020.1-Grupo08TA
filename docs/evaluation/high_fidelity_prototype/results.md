@@ -18,27 +18,55 @@ Foi utilizada a técnica _Think Aloud_ a qual permite fazer um rastreio da linha
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/rNVVFEqZSuw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Entrevista com a Sara
-
---
+O teste piloto dura cerca de 12 minutos e é feito com Sara, que é entrevistada pelo João Lucas e tem como assistente o Leonardo Gomes. Sara tem 21 anos e está cursando engenaria de software na UnB. Sara nunca utilizou o SEI para nenhum finalidade.
 
 #### **Login e Cadastro**
 
---
+**Cadastro** [1:16]: Para solicitar um cadastro, Sara clica em _Não possuo cadastro_, depois clica no botão _solicitar senha_ em uma nova página e por fim é redirecionada para a página para receber uma nova senha por um email já cadastrado na UnB.
+
+**Recuperação de Senha** [1:30]: Para recuperar a senha, Sara clica em _Redefinir senha_. Ela é redirecionada para uma página onde é preciso colocar o email e receber a nova senha.
+
+**Acesso ao _SEI!_** [1:45]: Para acessar o SEI, Sara preencheria os campos necessário se possivel e clica no botão _Acessar_, onde é redirecionada para a a página principal.
+
+**Opinião do entrevistado** [1:52]: Sara comenta que executar essas tarefas foi uma tarefa simples. Ela comenta que o design da plataforma está bom.
 
 #### **Perfil e Atualização de Senha**
 
---
+**Acessar a página de perfil** [2:58]: Para acessar a página de perfil, Sara clica no botão _Perfil_ encontrado na _sidebar_. Ela é redirecionada para a página de perfil.
+
+**Alterar senha** [3:10]: Para alterar a senha, Sara clica no botão _Alterar senha_ na página de _Perfil_. Ela é redirecionada para uma página de preenchimento de dados, Sara clica no botão _Alterar senha_ nessa mesma página. Aparece um _popup_ de comfirmação, fazendo Sara clicar em _finalizar_.
+
+**Retonar à página principal** [3:25]: Para voltar para a página inicial, Sara tenta clicar no botão de voltar que está na página de Perfil, mas esse botão não funcionou, sua outra alternativa foi clicar no icone do SEI que está no _Header_ da página, assim a levando para a _página inicial_.
+
+**Opinião do entrevistado** [4:03]: Na página de perfil, Sara não sentiu nenhum dificuldade no fluxo e achou muito bom o design da página.
 
 #### **Peticionamento Intercorrente**
 
---
+**Acessar processo Intercorrente** [4:52]: Para acessar peticionamento intercorrente, Sara clica no botão _Peticionamento_ na _sidebar_, que a leva para uma página intermediária de seleção do tipo de peticionamento. Nessa mesma tela, Sara clica no botão que diz _processo intercorrente_, assim sendo redirecionada para a página de _Peticionamento intercorrente_.
+
+**Opinião do entrevistado** [5:37]: Para o design proposto, Sara diz que acho bom. Sobre botões, componentes e textos, Sara diz que está bom e que não teve nenhum dificuldade.
 
 #### **Peticionamento Novo**
 
---
+**Criar novo peticionamento** [6:33]: Para criar um novo processo para alteração de curso, Sara clica no botão _Peticionamento_ na _sidebar_, que a leva para uma página intermediária de seleção do tipo de peticionamento. Nessa mesma tela, Sara clica no botão que diz _novo peticionamento_, assim sendo redirecionada para outra tela intermediária para seleção do tipo de processo. Sara clica em _Alteração de curso_ e assim é levada para a tela de preenchimento de requisitos para o processo.
+
+[6:55]: Na página de preenchimento de requisitos para o processo, Sara clica no campo de _especificação_ para prenchimento do "porque" do pedido de processo e clica no botão _Preencher_ para preencher o formulário. Aparece um _popup_ de comfirmação, fazendo Sara clicar em _finalizar_.
+
+**Opinião do entrevistado** [7:46]: Em relação as cores, a disposição dos componentes nas telas e textos nesses fluxo, Sara disse que está ótimo.
 
 #### **Recibos Eletrônicos**
+
+**Criar novo peticionamento** [8:56]: Para acessar a página de recibos eletrônicos, Sara clica no botão _Recibos eletrônicos_ na _sidebar_, que a leva para a página de recibos eletrônicos.
+
+[9:10]: Para fltrar as coisas na página de recibos eletrônicos, Sara clica no filtro de tipo de peticionamento e diz que usaria as datas tbm.
+
+[9:34]: Para pesquisar os recibos eletrônicos, Sara diz que clicaria em _pesquisar_ na própria página de recibos eletrônicos.
+
+**Opinião do entrevistado** [9:42]: Em relação as cores, a disposição dos componentes nas telas e textos nesses fluxo, Sara disse que está ótimo.
+
+#### **Opiniões Gerais**
+
+[11:10]: Sobre a entrevista e o protótipo em geral, Sara comenta que só tem elogio, que tudo foi muito bem roteirizado e que o protótipo está muito bom.
 
 --
 
@@ -118,6 +146,8 @@ Entrevista com a Aline
 
 --
 
+#### **Opiniões Gerais**
+
 ## Conclusão
 
 A partir da série de insumos coletados nas entrevistas, é possível apontar um perceptivo aumento em pontos positivos para um sistema no contexto de IHC. As [metas de usabilidade](./evaluation/usability_goals.md) descritas para o projeto apresentaram um significativo incremento em seus valores.
@@ -128,14 +158,11 @@ A navegação entre as telas pôde passar a apresentar um fluxo satisfatório en
 
 Vale destacar a reconfiguração da página de perfil, esta que passou a ser representada em uma tela inteira dedicada a estas informações e abandonou a antiga abordagem de mostrar as informações em um _modal_ disponível durante o _hover_.
 
-### Pontos importantes sobre os fluxos e telas
-
---
-
----
-
 ## Histórico de versões
 
-|    Data    | Versão |           Descrição           |  Autor(es)  |
-| :--------: | :----: | :---------------------------: | :---------: |
-| 01/12/2020 |  0.1   | Criação do corpo do documento | Hugo Sobral |
+|    Data    | Versão |           Descrição           |   Autor(es)    |
+| :--------: | :----: | :---------------------------: | :------------: |
+| 01/12/2020 |  0.1   | Criação do corpo do documento |  Hugo Sobral   |
+| 01/12/2020 |  0.2   |  Transcrição da entrevista 1  |  Victor Jorge  |
+| 01/12/2020 |  0.3   |  Transcrição do teste piloto  | Leonardo Gomes |
+| 01/12/2020 |  1.0   |   Conclusão dos resultados    |  Hugo Sobral   |
