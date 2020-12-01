@@ -65,6 +65,12 @@
     - [3ª Apresentação](./meeting/PC3/pc3_presentation.md)
   - **Ponto de Controle 4**
     - [4ª Apresentação](./meeting/PC4/pc4_presentation.md)
+  - **Ponto de Controle 5**
+    - [5ª Apresentação](./meeting/PC5/pc5_presentation.md)
+  - **Ponto de Controle 6**
+    - [6º Apresentação](./meeting/PC6/pc6_presentation.md)
+  - **Ponto de Controle 7**
+    - [Projeto Final](./meeting/PC7/pc7_presentation.md)
 
 ---
 

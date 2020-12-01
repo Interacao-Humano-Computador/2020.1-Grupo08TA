@@ -43,7 +43,7 @@ Ponto de controle focado em finalizar analise de tarefas, entender o processo de
 | Reanalise de tarefas       | 09/10/2020      | 02/11/2020    |
 | Acessibilidade             | 09/10/2020      | 10/09/2020    |
 | Protótipo de papel         | 16/10/2020      | 31/10/2020    |
-| Avaliar protótipo de papel | 23/10/2020      |               |
+| Avaliar protótipo de papel | 23/10/2020      | 18/11/2020    |
 
 ### 4º Ponto de Controle - 22/11
 
@@ -51,10 +51,8 @@ Ponto de controle focado em fazer o protótipo de alta fidelidade e planejar mel
 
 | Tarefa                               | Data da entrega | Data entregue |
 | :----------------------------------- | --------------- | ------------- |
-| Protótipo de alta fidelidade         | 13/11/2020      |               |
-| Entrevistas                          | 16/11/2020      |               |
-| Avaliar protótipo de alta fidelidade | 18/11/2020      |               |
-| Planejamento de melhorias            | 18/11/2020      |               |
+| Protótipo de alta fidelidade         | 13/11/2020      | 01/12/2020    |
+| Avaliar protótipo de alta fidelidade | 18/11/2020      | 01/12/2020    |
 
 ---
 
