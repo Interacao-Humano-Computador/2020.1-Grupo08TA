@@ -10,4 +10,4 @@ O protótipo de alta fidelidade pode ser acessado por este [link](./redesign_art
 
 |    Data    | Versão |         Descrição         |                         Autor(es)                          |
 | :--------: | :----: | :-----------------------: | :--------------------------------------------------------: |
-| 20/11/2020 |  1.0   | Criação da apresentação 6 | Hugo Sobral, Leonardo Gomes, João Zarbielli e Victor Jorge |
+| 01/12/2020 |  1.0   | Criação da apresentação 6 | Hugo Sobral, Leonardo Gomes, João Zarbielli e Victor Jorge |
