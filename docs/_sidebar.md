@@ -33,6 +33,7 @@
     - **Protótipo de Alta Fidelidade**
       - [Planejamento da avaliação](./evaluation/high_fidelity_prototype/planning.md)
       - [Termo de consentimento](./evaluation/high_fidelity_prototype/consent_form.md)
+      - [Resultados](./evaluation/high_fidelity_prototype/results.md)
 
 ---
 
