@@ -16,7 +16,7 @@ Foi utilizada a técnica _Think Aloud_ a qual permite fazer um rastreio da linha
 
 ### Teste piloto
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/rNVVFEqZSuw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="800" height="500" src="https://www.youtube-nocookie.com/embed/rNVVFEqZSuw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 O teste piloto dura cerca de 12 minutos e é feito com Sara, que é entrevistada pelo João Lucas e tem como assistente o Leonardo Gomes. Sara tem 21 anos e está cursando engenaria de software na UnB. Sara nunca utilizou o SEI para nenhum finalidade.
 
@@ -72,7 +72,7 @@ O teste piloto dura cerca de 12 minutos e é feito com Sara, que é entrevistada
 
 ### Entrevista 1
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/mhEittmnMq4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="800" height="500" src="https://www.youtube-nocookie.com/embed/mhEittmnMq4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 A entrevista foi realizada com a Lara, estudante do curso de Artes Visuais (Bacharel) da UnB. Lara, entretanto, nunca utilizou o _SEI!_ no contexto da UnB antes.
 
@@ -120,7 +120,7 @@ A entrevista foi realizada com a Lara, estudante do curso de Artes Visuais (Bach
 
 ### Entrevista 2
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/7Gjso4oLD-A" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="800" height="500" src="https://www.youtube-nocookie.com/embed/7Gjso4oLD-A" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Entrevista com a Aline
 

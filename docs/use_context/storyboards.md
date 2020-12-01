@@ -8,7 +8,7 @@ O documento de _Storyboard_ consiste em quadros desenhados dispostos sistematica
 
 Neste storyboard, é apresentada a _persona_ Maria Antonieta em um episódio de seu dia a dia, no qual ela se encontra em uma situação onde o uso do _SEI!_ se torna algo necessário. Este _Storyboard_ procura explicitar o impacto da utilização do sistema sobre o usuário, i.e., como ele se sente ao utilizar a aplicação.
 
-![Storyboard](../assets/images/Storyboard.png)
+![Storyboard](../assets/images/storyboard/storyboard.png)
 
 ## Histórico de versões
 
