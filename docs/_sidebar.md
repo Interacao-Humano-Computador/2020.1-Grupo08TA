@@ -33,6 +33,7 @@
     - **Protótipo de Alta Fidelidade**
       - [Planejamento da avaliação](./evaluation/high_fidelity_prototype/planning.md)
       - [Termo de consentimento](./evaluation/high_fidelity_prototype/consent_form.md)
+      - [Resultados](./evaluation/high_fidelity_prototype/results.md)
 
 ---
 
@@ -50,6 +51,7 @@
 - **Artefatos de redesign**
   - [Construção de tarefas](./redesign_artefacts/task_construction.md)
   - [Protótipo de baixa fidelidade](./redesign_artefacts/low_fidelity_prototype.md)
+  - [Protótipo de alta fidelidade](./redesign_artefacts/high_fidelity_prototype.md)
 
 ---
 
@@ -63,6 +65,12 @@
     - [3ª Apresentação](./meeting/PC3/pc3_presentation.md)
   - **Ponto de Controle 4**
     - [4ª Apresentação](./meeting/PC4/pc4_presentation.md)
+  - **Ponto de Controle 5**
+    - [5ª Apresentação](./meeting/PC5/pc5_presentation.md)
+  - **Ponto de Controle 6**
+    - [6º Apresentação](./meeting/PC6/pc6_presentation.md)
+  - **Ponto de Controle 7**
+    - [Projeto Final](./meeting/PC7/pc7_presentation.md)
 
 ---
 

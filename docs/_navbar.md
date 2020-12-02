@@ -1,4 +1,4 @@
-- [Heurística](./evaluation/heuristic_evaluation.md)
 - [Guia de estilo](./styling/style_guide.md)
 - [Planejamento de equipe](./planning/team_planning.md)
 - [Planejamento de projeto](./planning/project_planning.md)
+- [Protótipo de alta fidelidade](./redesign_artefacts/high_fidelity_prototype.md)

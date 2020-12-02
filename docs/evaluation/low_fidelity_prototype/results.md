@@ -112,7 +112,7 @@ Aline fez o fluxo de redefinição de senha por conta própria que era uma das p
 
 #### Peticionamento Novo
 
-[9:53] Aline acessa a página de página de _Peticionamento_ através da _sidebar_.  Já na página de _Peticionamento_ clica no botão de _Novo Peticionamento_ e é redirecionada para a página de _Novo Peticionamento_ onde seleciona o tipo de processo na listagem e aperta no botão _confirmar_ onde é redirecionada a página _Novo Processo_ onde preenche o campo de especificação e confirma o novo peticionamento. 
+[9:53] Aline acessa a página de página de _Peticionamento_ através da _sidebar_. Já na página de _Peticionamento_ clica no botão de _Novo Peticionamento_ e é redirecionada para a página de _Novo Peticionamento_ onde seleciona o tipo de processo na listagem e aperta no botão _confirmar_ onde é redirecionada a página _Novo Processo_ onde preenche o campo de especificação e confirma o novo peticionamento.
 
 [10:27] Aline fecha a modal de sucesso com o botão _Finalizar_ e é redirecionada a página inicial.
 
@@ -126,9 +126,9 @@ Aline fez o fluxo de redefinição de senha por conta própria que era uma das p
 
 [12:20] Aline termina o processo usando o botão _Pesquisar_.
 
-[12:32] Aline diz que não sentiu falta de nenhuma informação na página  _Recibos Eletrônicos_.
+[12:32] Aline diz que não sentiu falta de nenhuma informação na página _Recibos Eletrônicos_.
 
-[12:49] Aline comenta que não ve necessidade de nenhuma alteração do fluxo de _Recibos Eletrônicos_. 
+[12:49] Aline comenta que não ve necessidade de nenhuma alteração do fluxo de _Recibos Eletrônicos_.
 
 ### Entrevista 2
 
@@ -138,15 +138,15 @@ A primeira entrevista dura cerca de 25 minutos e é feita com Augusto, que é en
 
 #### **Login e Cadastro**
 
-[1:18]  Para solcitar o cadastro Augusto ciclou em _Não possuo cadastro_ foi redirecionada para a tela de _Situação de cadastro_, onde clica em _Acesso Já_ e é redirecionado a página de _Login_ onde novamente clica em  _Não possuo cadastro_ e é redirecionado para a tela de _Situação de cadastro_ onde dessa vez clica no logo do SEI e volta a página de _login_. Augusto novamente clica em  _Não possuo cadastro_ e retorna a página _Situação de cadastro_ onde clica no botão _solicitar senha_. Onde já na página _Redefinição de Senha_ inserer o email de acesso e clica em solicitar. 
+[1:18] Para solcitar o cadastro Augusto ciclou em _Não possuo cadastro_ foi redirecionada para a tela de _Situação de cadastro_, onde clica em _Acesso Já_ e é redirecionado a página de _Login_ onde novamente clica em _Não possuo cadastro_ e é redirecionado para a tela de _Situação de cadastro_ onde dessa vez clica no logo do SEI e volta a página de _login_. Augusto novamente clica em _Não possuo cadastro_ e retorna a página _Situação de cadastro_ onde clica no botão _solicitar senha_. Onde já na página _Redefinição de Senha_ inserer o email de acesso e clica em solicitar.
 
 [3:34] Augusto clica no botão _Página inicial_ na modal de confirmação de senha enviada e redirecionado a página de _login_
 
 [4:48] Augusto clica em _redefinir senha_ em busca de recuperar a senha que foi esquecida. É redirecionado a página de redefinição de senha onde insere o email cadastrado e solicita uma nova senha. Augusto fecha a modal de confirmação de envio de nova senha usando o botão _Página Inicial_.
 
-[5:25] Augusto insere as informações de login e acessa o site usando o botão _Acessar_. 
+[5:25] Augusto insere as informações de login e acessa o site usando o botão _Acessar_.
 
-[5:42] Augusto comenta que o botão de _primeiro acesso_ está de difícil acesso e que ele poderia ser trocado de lugar com o botão _acesse já_ e com isso ficaria mais intuitivo. 
+[5:42] Augusto comenta que o botão de _primeiro acesso_ está de difícil acesso e que ele poderia ser trocado de lugar com o botão _acesse já_ e com isso ficaria mais intuitivo.
 
 #### **Perfil e Atualização de Senha**
 
@@ -160,7 +160,7 @@ A primeira entrevista dura cerca de 25 minutos e é feita com Augusto, que é en
 
 [10:20] Afim de voltar para a _Página Inicial_ Augusto clica em _Página Inicial_ na _sidebar_ e é redirecionado a página inicial
 
-[11:00] Augusto diz que o fluxo feito está de fácil acesso e intuitivo 
+[11:00] Augusto diz que o fluxo feito está de fácil acesso e intuitivo
 
 #### **Peticionamento Intercorrente**
 
@@ -172,12 +172,11 @@ A primeira entrevista dura cerca de 25 minutos e é feita com Augusto, que é en
 
 [13:47] Augusto diz que o fluxo funciona bem e não necessidade de mais alguma informação ou mudança
 
-
 #### **Peticionamento Novo**
 
-[15:37] Para acessar um peticionamento novo Augusto usa a _sidebar_ clicando em _Peticionamento_ e é redirecionado a página _Peticionamentos_ onde clica no botão _Novo_ e é redirecionado para a página _Novo Peticionamento_ e esoclhe o tipo de processo que deseja começar. 
+[15:37] Para acessar um peticionamento novo Augusto usa a _sidebar_ clicando em _Peticionamento_ e é redirecionado a página _Peticionamentos_ onde clica no botão _Novo_ e é redirecionado para a página _Novo Peticionamento_ e esoclhe o tipo de processo que deseja começar.
 
-[15:52] Augusto acessa o edital do processo escolhido afim de obter mais informações sobre o mesmo e por fim clica em _Confirmar_. 
+[15:52] Augusto acessa o edital do processo escolhido afim de obter mais informações sobre o mesmo e por fim clica em _Confirmar_.
 
 [16:10] Ná pagina de _Novo Peticionamento_ Augusto preenche a especificação e clica no botão _Preencher_ afim de preencher o documento de solictação do processo em questão.
 
@@ -199,7 +198,7 @@ A primeira entrevista dura cerca de 25 minutos e é feita com Augusto, que é en
 
 [22:30] Augusto diz ficar perdido se há falta de alguma opção por falta de conhecimento do que pode ou não ser feito pela plataforma.
 
-[23:20] Augusto diz que para esse fluxo ele crê que o usuário possui um conhecimento prêvio da plataforma mas que ainda assim poderia ter alguma informação explicando cada tipo de processo que existe na filtragem de _tipos de processo_ 
+[23:20] Augusto diz que para esse fluxo ele crê que o usuário possui um conhecimento prêvio da plataforma mas que ainda assim poderia ter alguma informação explicando cada tipo de processo que existe na filtragem de _tipos de processo_
 
 ### Entrebista 3
 
